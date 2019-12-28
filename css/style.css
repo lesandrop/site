@@ -67,8 +67,8 @@ ol {
 	Helper CSS
 -----------------------*/
 .spad {
-	padding-top: 75px;
-	padding-bottom: 75px;
+	padding-top: 50px;
+	padding-bottom: 15px;
 }
 
 .section-title h2 {
@@ -366,7 +366,7 @@ ol {
 	Header section
 -----------------------*/
 .header-section {
-	padding: 50px 40px;
+	padding: 30px 20px;
 	background: #f2f7f8;
 }
 
@@ -443,7 +443,7 @@ ol {
 -----------------------*/
 .social-section {
 	background: #f9f9f9;
-	padding: 80px 0;
+	padding: 15px 0;
 }
 
 .social-section .social-links {
@@ -466,6 +466,7 @@ ol {
 .social-section .social-link-warp h2 {
 	display: inline-block;
 	float: right;
+	font-size: 36px;
 	font-weight: 400;
 	padding-left: 30px;
 	background: #f9f9f9;
@@ -1124,7 +1125,7 @@ ol {
 
 .home-six-style .hero-section {
 	background: #009fff;
-	padding-top: 70px;
+	padding-top: 60px;
 }
 
 .home-six-style .hero-section img {
