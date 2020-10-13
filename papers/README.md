@@ -1,24 +1,24 @@
-[Agreement-based credibility assessment and task replication in human computation systems](Agreement-based credibility assessment and task replication in human computation systems.pdf)
-[Análise da Popularidade, Visibilidade e Atividade de Diferentes Tipos de Robôs na Rede Social Twitter](Análise da Popularidade, Visibilidade e Atividade de Diferentes Tipos de Robôs na Rede Social Twitter.pdf)
-Análise de Estratégias de Computação Verde em Grades Computacionais Oportunistas.pdf
-Assessing Green Strategies in Peer-to-Peer Opportunistic Grids.pdf
-Assessing the Impact of the Social Network on Marking Photos as Favorites in Flickr.pdf
-Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares.pdf
-BitTorrent traffic from a caching perspective.pdf
-Characterising Volunteers’ Task Execution Patterns Across Projects on Multi-Project Citizen Science Platforms.pdf
-Citizen Science Terminology Matters_ Exploring Key Terms.pdf
-Computação por Humanos na Perspectiva do Engajamento e Credibilidade de Seres Humanos e da Replicação de Tarefas.pdf
-Considering human aspects on strategies for designing and managing distributed human computation.pdf
-Debate Estruturado_ Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador.pdf
-Defamiliarization, Representation Granularity, and User Experience.pdf
-Designing_for_Pragmatists_and_Fundamentalists_Privacy_Concerns_and_Attitudes_on_the_Internet_of_Things.pdf
-Energy Efficient Computing through Productivity-Aware Frequency Scaling.pdf
-Estratégias de obtenção de um item máximo em Computação por Humanos.pdf
-Exploring_User_Profiles_Based_on_their_Explainability_Requirements.pdf
-Finding Volunteers Engagement Profiles in Human Computation for Citizen Science Projects.pdf
-HCI Support Card Creating and Using a Support Card forEducation in Human-Computer Interaction.pdf
-O papel do hábito de estudo no desempenho do aluno de programação.pdf
-On_the_impact_of_energy-saving_strategies_in_opportunistic_grids.pdf
-Perspectivas em Computação Social.pdf
-Volunteers Engagement in Human Computation for Astronomy Projects.pdf
-adding papers
+* [Adaptive Task Replication Strategy for Human Computation](https://github.com/lesandrop/site/raw/master/papers/Adaptive%20Task%20Replication%20Strategy%20for%20Human%20Computation.pdf)
+* [Agreement-based credibility assessment and task replication in human computation systems](https://github.com/lesandrop/site/raw/master/papers/Adaptive%20Task%20Replication%20Strategy%20for%20Human%20Computation.pdf)
+* [Análise da Popularidade, Visibilidade e Atividade de Diferentes Tipos de Robôs na Rede Social Twitter](https://github.com/lesandrop/site/raw/master/papers/An%C3%A1lise%20da%20Popularidade%2C%20Visibilidade%20e%20Atividade%20de%20Diferentes%20Tipos%20de%20Rob%C3%B4s%20na%20Rede%20Social%20Twitter.pdf)
+* [Análise de Estratégias de Computação Verde em Grades Computacionais Oportunistas](https://github.com/lesandrop/site/raw/master/papers/An%C3%A1lise%20de%20Estrat%C3%A9gias%20de%20Computa%C3%A7%C3%A3o%20Verde%20em%20Grades%20Computacionais%20Oportunistas.pdf)
+* [Assessing Green Strategies in Peer-to-Peer Opportunistic Grids](https://github.com/lesandrop/site/raw/master/papers/Assessing%20Green%20Strategies%20in%20Peer-to-Peer%20Opportunistic%20Grids.pdf)
+* [Assessing the Impact of the Social Network on Marking Photos as Favorites in Flickr](https://github.com/lesandrop/site/raw/master/papers/Assessing%20the%20Impact%20of%20the%20Social%20Network%20on%20Marking%20Photos%20as%20Favorites%20in%20Flickr.pdf)
+* [Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares](https://github.com/lesandrop/site/raw/master/papers/Avalia%C3%A7%C3%A3o%20do%20Impacto%20de%20Estrat%C3%A9gias%20de%20Economia%20de%20Energia%20em%20Grades%20Computacionais%20Entre-Pares.pdf)
+* [BitTorrent traffic from a caching perspective](https://github.com/lesandrop/site/raw/master/papers/BitTorrent%20traffic%20from%20a%20caching%20perspective.pdf)
+* [Characterising Volunteers’ Task Execution Patterns Across Projects on Multi-Project Citizen Science Platforms](https://github.com/lesandrop/site/raw/master/papers/Characterising%20Volunteers%E2%80%99%20Task%20Execution%20Patterns%20Across%20Projects%20on%20Multi-Project%20Citizen%20Science%20Platforms.pdf)
+* [Citizen Science Terminology Matters_ Exploring Key Terms](https://github.com/lesandrop/site/raw/master/papers/Citizen%20Science%20Terminology%20Matters_%20Exploring%20Key%20Terms.pdf)
+* [Computação por Humanos na Perspectiva do Engajamento e Credibilidade de Seres Humanos e da Replicação de Tarefas](https://github.com/lesandrop/site/raw/master/papers/Computa%C3%A7%C3%A3o%20por%20Humanos%20na%20Perspectiva%20do%20Engajamento%20e%20Credibilidade%20de%20Seres%20Humanos%20e%20da%20%20Replica%C3%A7%C3%A3o%20de%20Tarefas.pdf)
+* [Considering human aspects on strategies for designing and managing distributed human computation](https://github.com/lesandrop/site/raw/master/papers/Considering%20human%20aspects%20on%20strategies%20for%20designing%20and%20managing%20distributed%20human%20computation.pdf)
+* [Debate Estruturado_ Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://github.com/lesandrop/site/raw/master/papers/Debate%20Estruturado_%20Uma%20Estrat%C3%A9gia%20Pedag%C3%B3gica%20para%20Ensino%20e%20Aprendizagem%20de%20Valores%20Humanos%20em%20Intera%C3%A7%C3%A3o%20%20Humano-Computador.pdf)
+* [Defamiliarization, Representation Granularity, and User Experience](https://github.com/lesandrop/site/raw/master/papers/Defamiliarization%2C%20Representation%20Granularity%2C%20and%20User%20Experience.pdf)
+* [Designing for Pragmatists and Fundamentalists Privacy Concerns and Attitudes on the Internet of Things](https://github.com/lesandrop/site/raw/master/papers/Designing_for_Pragmatists_and_Fundamentalists_Privacy_Concerns_and_Attitudes_on_the_Internet_of_Things.pdf)
+* [Energy Efficient Computing through Productivity-Aware Frequency Scaling](https://github.com/lesandrop/site/raw/master/papers/Energy%20Efficient%20Computing%20through%20Productivity-Aware%20Frequency%20Scaling.pdf)
+* [Estratégias de obtenção de um item máximo em Computação por Humanos](https://github.com/lesandrop/site/raw/master/papers/Estrat%C3%A9gias%20de%20obten%C3%A7%C3%A3o%20de%20um%20item%20m%C3%A1ximo%20em%20Computa%C3%A7%C3%A3o%20por%20Humanos.pdf)
+* [Exploring_User_Profiles_Based_on_their_Explainability_Requirements](https://github.com/lesandrop/site/raw/master/papers/Exploring_User_Profiles_Based_on_their_Explainability_Requirements.pdf)
+* [Finding Volunteers Engagement Profiles in Human Computation for Citizen Science Projects](https://github.com/lesandrop/site/raw/master/papers/Finding%20Volunteers%20Engagement%20Profiles%20in%20Human%20Computation%20for%20Citizen%20Science%20Projects.pdf)
+* [HCI Support Card Creating and Using a Support Card forEducation in Human-Computer Interaction](https://github.com/lesandrop/site/raw/master/papers/HCI%20Support%20Card%20Creating%20and%20Using%20a%20Support%20Card%20forEducation%20in%20Human-Computer%20Interaction.pdf)
+* [O papel do hábito de estudo no desempenho do aluno de programação](https://github.com/lesandrop/site/raw/master/papers/O%20papel%20do%20h%C3%A1bito%20de%20estudo%20no%20desempenho%20do%20aluno%20de%20programa%C3%A7%C3%A3o.pdf)
+* [On_the_impact_of_energy-saving_strategies_in_opportunistic_grids](https://github.com/lesandrop/site/raw/master/papers/On_the_impact_of_energy-saving_strategies_in_opportunistic_grids.pdf)
+* [Perspectivas em Computação Social](https://github.com/lesandrop/site/raw/master/papers/Perspectivas%20em%20Computa%C3%A7%C3%A3o%20Social.pdf)
+* [Volunteers Engagement in Human Computation for Astronomy Projects](https://github.com/lesandrop/site/raw/master/papers/Volunteers%20Engagement%20in%20Human%20Computation%20for%20Astronomy%20Projects.pdf)
