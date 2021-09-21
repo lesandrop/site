@@ -1,11 +1,11 @@
-# Presentations by Lesandro Ponciano
+# Event Presentations by Lesandro Ponciano
 
 ## English
 * 2019 - IHC Talk: [Characterising Volunteers’ Task Execution Patterns Across Projects on Multi-Project Citizen Science Platforms](LesandroPonciano-IHC2019.pdf)
 * 2019 - WEIHC Talk: [HCI Support Card: Creating and Using a Support Card for Education in Human-Computer Interaction](LesandroPonciano-WEIHC2019.pdf)
 * 2017 - IHC Talk: [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Thing](LesandroPonciano-IHC2017.pdf)
 * 2017 - CSA Talk: [Short and Long-Term Engagement Among Volunteers in Human Computation Projects](LesandroPonciano-CitSci2017.pdf)
-* 2020 - E2GC2 Talk: [On the Impact of Energy-saving Strategies in Opportunistic Grids](LesandroPonciano-E2GC22010.pdf)
+* 2010 - E2GC2 Talk: [On the Impact of Energy-saving Strategies in Opportunistic Grids](LesandroPonciano-E2GC22010.pdf)
 
 ## Portuguese
 * 2020 - ICEI Talk: [Ciência participativa e a ciência cidadã na perspectiva da tecnologia](LesandroPonciano-ICEITalk2020.pdf)
