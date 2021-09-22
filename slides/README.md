@@ -5,10 +5,10 @@
 * 2019 - WEIHC Talk: [HCI Support Card: Creating and Using a Support Card for Education in Human-Computer Interaction](LesandroPonciano-WEIHC2019.pdf)
 * 2017 - IHC Talk: [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Thing](LesandroPonciano-IHC2017.pdf)
 * 2017 - CSA Talk: [Short and Long-Term Engagement Among Volunteers in Human Computation Projects](LesandroPonciano-CitSci2017.pdf)
-* 2013 - IEEE eScience lightning talk: [Engagement and Credibility of participants in Human Computation and Citizen Science Systems](LesandroPonciano-IEEE-escience2013.pdf)
+* 2013 - IEEE eScience lightning talk: [Engagement and Credibility of participants in Human Computation and Citizen Science Systems](LesandroPonciano-IEEE-escience2014.pdf)
 * 2013 - HCOMP 2013 poster presentation: [Task Redundancy Strategy Based on Volunteers' Credibility for Volunteer Thinking Projects](LesandroPonciano-HCOMP2013-poster.pdf)
 * 2013 - HCOMP 2013 lightning talk: [How to optimize the number of task replicas required to
-achieve a predefined credibility level in the result?](LesandroPonciano-HCOMP2013-microtalk.pdf)
+achieve a predefined credibility level in the result?](LesandroPonciano-HCOMP2013-LightningTalk.pdf)
 * 2010 - E2GC2 Talk: [On the Impact of Energy-saving Strategies in Opportunistic Grids](LesandroPonciano-E2GC22010.pdf)
 
 ## Portuguese
