@@ -1,3 +1,5 @@
+# TCCs
+
 Trabalhos de Conclusão de Curso (TCCs) orientados pelo Prof. Lesandro Ponciano em cursos de Engenharia de Software e Sistemas de Informação na PUC Minas, entre 2018 e 2021.
 
 1. [SAPFI: um sistema de alerta para evitar aglomerações em filas de espera de praças de alimentação](http://bib.pucminas.br:8080/pergamumweb/vinculos/000096/000096a6.pdf). Lucas Henrique Medeiros Alcantara + Nathan Soares de Faria
@@ -44,3 +46,9 @@ Trabalhos de Conclusão de Curso (TCCs) orientados pelo Prof. Lesandro Ponciano 
 
 1. [Avaliação da Relação entre Usabilidade e Popularidade de Aplicativos Voltados para o Público Idoso](http://bib.pucminas.br:8080/pergamumweb/vinculos/000051/00005110.pdf). Daniel Gustavo Souza Ferreira + Felipe Peron Marques
 
+
+# Cartões de suporte
+
+1. [Sistemas Operacionais](Sistemas Operacionais - Cartao de Suporte.pdf)
+1. [Teste de Software](Teste de Software - Cartão de Suporte.pdf)
+1. [Interação Humano-Computador](Interação Humano-Computador - Cartão de Suporte.pdf)
