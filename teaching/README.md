@@ -46,6 +46,10 @@ Trabalhos de Conclusão de Curso (TCCs) orientados pelo Prof. Lesandro Ponciano 
 
 1. [Avaliação da Relação entre Usabilidade e Popularidade de Aplicativos Voltados para o Público Idoso](http://bib.pucminas.br:8080/pergamumweb/vinculos/000051/00005110.pdf). Daniel Gustavo Souza Ferreira + Felipe Peron Marques
 
+# Dissertação de Mestrado
+
+1. [Avaliação da percepção de jogadores sobre a criatividade de combos do jogo digital de cartas Hearthstone](http://www.biblioteca.pucminas.br/teses/EngEletrica_RamosSL_1.pdf). Shirley Luana Ramos
+
 
 # Cartões de suporte
 
