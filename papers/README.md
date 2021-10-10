@@ -22,3 +22,7 @@
 * [On_the_impact_of_energy-saving_strategies_in_opportunistic_grids](On_the_impact_of_energy-saving_strategies_in_opportunistic_grids.pdf) - [dimensions](https://badge.dimensions.ai/details/id/pub.1093417461)
 * [Perspectivas em Computação Social](Perspectivas%20em%20Computa%C3%A7%C3%A3o%20Social.pdf)
 * [Volunteers Engagement in Human Computation for Astronomy Projects](Volunteers%20Engagement%20in%20Human%20Computation%20for%20Astronomy%20Projects.pdf)
+
+--
+
+* [Paper on Mendeley Catalogue](mendeleyCatalog.md)
