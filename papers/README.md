@@ -1,3 +1,5 @@
+# Papers
+
 * [Adaptive Task Replication Strategy for Human Computation](Adaptive%20Task%20Replication%20Strategy%20for%20Human%20Computation.pdf) - **Alternative keywords**: crowdsourcing, task routing, and crowd work.
 * [Agreement-based credibility assessment and task replication in human computation systems](Agreement-based%20credibility%20assessment%20and%20task%20replication%20in%20human%20computation%20systems.pdf) - [dimensions](https://badge.dimensions.ai/details/id/pub.1104137831)  - **Alternative keywords**: believability, inter-rater agreement, quality, ground truth, human error, pareto front, and replicas saving. 
 * [Volunteers Engagement in Human Computation for Astronomy Projects](Volunteers%20Engagement%20in%20Human%20Computation%20for%20Astronomy%20Projects.pdf) - **Alternative keywords**: crowdscience, Zooniverse, participatory science, and participation.
@@ -18,12 +20,14 @@ Energy%20Efficient%20Computing%20through%20Productivity-Aware%20Frequency%20Scal
 * [O papel do hábito de estudo no desempenho do aluno de programação](O%20papel%20do%20h%C3%A1bito%20de%20estudo%20no%20desempenho%20do%20aluno%20de%20programa%C3%A7%C3%A3o.pdf)
 * [Estratégias de obtenção de um item máximo em Computação por Humanos](Estrat%C3%A9gias%20de%20obten%C3%A7%C3%A3o%20de%20um%20item%20m%C3%A1ximo%20em%20Computa%C3%A7%C3%A3o%20por%20Humanos.pdf)
 * [Perspectivas em Computação Social](Perspectivas%20em%20Computa%C3%A7%C3%A3o%20Social.pdf)
-* [Computação por Humanos na Perspectiva do Engajamento e Credibilidade de Seres Humanos e da Replicação de Tarefas](Computa%C3%A7%C3%A3o%20por%20Humanos%20na%20Perspectiva%20do%20Engajamento%20e%20Credibilidade%20de%20Seres%20Humanos%20e%20da%20%20Replica%C3%A7%C3%A3o%20de%20Tarefas.pdf) - **Alternative keywords**: vieses cognitivos, ciência cidadã, erro humano, engajamento cognitivo, projeto de sistemas, fatores humanos, racionalidade limitada e interação humano-computador.
 * [Debate Estruturado_ Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209) - **Alternative keywords**: Ensino de IHC, debate de artigos.
 * [Análise da Popularidade, Visibilidade e Atividade de Diferentes Tipos de Robôs na Rede Social Twitter](An%C3%A1lise%20da%20Popularidade%2C%20Visibilidade%20e%20Atividade%20de%20Diferentes%20Tipos%20de%20Rob%C3%B4s%20na%20Rede%20Social%20Twitter.pdf)
 * [Análise de Estratégias de Computação Verde em Grades Computacionais Oportunistas](An%C3%A1lise%20de%20Estrat%C3%A9gias%20de%20Computa%C3%A7%C3%A3o%20Verde%20em%20Grades%20Computacionais%20Oportunistas.pdf)
-* [Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares](Avalia%C3%A7%C3%A3o%20do%20Impacto%20de%20Estrat%C3%A9gias%20de%20Economia%20de%20Energia%20em%20Grades%20Computacionais%20Entre-Pares.pdf)
+
+# PhD Thesis and M.Sc Dissertation
+
+* PhD Thesis: [Computação por Humanos na Perspectiva do Engajamento e Credibilidade de Seres Humanos e da Replicação de Tarefas](http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/569/LESANDRO%20PONCIANO%20DOS%20SANTOS%20-%20TESE%20PPGCC%202015..pdf) - **Alternative keywords**: vieses cognitivos, ciência cidadã, erro humano, engajamento cognitivo, projeto de sistemas, fatores humanos, racionalidade limitada e interação humano-computador.
+* M.Sc Dissertation: [Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares](http://dspace.sti.ufcg.edu.br:8080/jspui/bitstream/riufcg/3486/1/LESANDRO%20PONCIANO%20DOS%20SANTOS%20%e2%80%93%20DISSERTA%c3%87%c3%83O%20%28PPGCC%29%202011.pdf)- **Alternative keywords**: computação distribuída, sustentabilidade ambiental, computação verdade, e-ciência.
 
 --
-
 * [Paper on Mendeley Catalogue](mendeleyCatalog.md)
