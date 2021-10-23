@@ -13,13 +13,13 @@
 * [Assessing Green Strategies in Peer-to-Peer Opportunistic Grids](Assessing%20Green%20Strategies%20in%20Peer-to-Peer%20Opportunistic%20Grids.pdf) - [dimensions](https://badge.dimensions.ai/details/id/pub.1021169647) - **Alternative keywords**: e-Science, sustainability, and energy saving.
 * [Energy Efficient Computing through Productivity-Aware Frequency Scaling](
 Energy%20Efficient%20Computing%20through%20Productivity-Aware%20Frequency%20Scaling.pdf)
-* [Exploring_User_Profiles_Based_on_their_Explainability_Requirements](Exploring_User_Profiles_Based_on_their_Explainability_Requirements.pdf)
+* [Exploring User Profiles Based on their Explainability Requirements](https://doi.org/10.1145/3424953.3426545)
 * [BitTorrent traffic from a caching perspective](https://doi.org/10.1007/s13173-013-0112-z) - **Alternative keywords**: Locality-aware mechanisms, Trace-driven simulation, traffic cacheability, replacement policy, cache size, temporal locality, Least Recently Used Stack Model (LRUSM).
 * [Defamiliarization, Representation Granularity, and User Experience](https://doi.org/10.1109/PacificVis.2019.00019)
 * [On_the_impact_of_energy-saving_strategies_in_opportunistic_grids](On_the_impact_of_energy-saving_strategies_in_opportunistic_grids.pdf) - [dimensions](https://badge.dimensions.ai/details/id/pub.1093417461)
 * [O papel do hábito de estudo no desempenho do aluno de programação](O%20papel%20do%20h%C3%A1bito%20de%20estudo%20no%20desempenho%20do%20aluno%20de%20programa%C3%A7%C3%A3o.pdf)
 * [Estratégias de obtenção de um item máximo em Computação por Humanos](Estrat%C3%A9gias%20de%20obten%C3%A7%C3%A3o%20de%20um%20item%20m%C3%A1ximo%20em%20Computa%C3%A7%C3%A3o%20por%20Humanos.pdf)
-* [Perspectivas em Computação Social](Perspectivas%20em%20Computa%C3%A7%C3%A3o%20Social.pdf)
+* [Perspectivas em Computação Social](https://fubica.lsd.ufcg.edu.br/~lesandrop/papers/Ponciano-2018-PerspectivasEmComputa%C3%A7%C3%A3oSocial.pdf)
 * [Debate Estruturado_ Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209) - **Alternative keywords**: Ensino de IHC, debate de artigos.
 * [Análise da Popularidade, Visibilidade e Atividade de Diferentes Tipos de Robôs na Rede Social Twitter](https://doi.org/10.5753/sbsc.2017.9958)
 * [Análise de Estratégias de Computação Verde em Grades Computacionais Oportunistas](An%C3%A1lise%20de%20Estrat%C3%A9gias%20de%20Computa%C3%A7%C3%A3o%20Verde%20em%20Grades%20Computacionais%20Oportunistas.pdf)
