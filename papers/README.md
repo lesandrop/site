@@ -29,5 +29,10 @@ Energy%20Efficient%20Computing%20through%20Productivity-Aware%20Frequency%20Scal
 * PhD Thesis: [Computação por Humanos na Perspectiva do Engajamento e Credibilidade de Seres Humanos e da Replicação de Tarefas](http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/569/LESANDRO%20PONCIANO%20DOS%20SANTOS%20-%20TESE%20PPGCC%202015..pdf) - **Alternative keywords**: vieses cognitivos, ciência cidadã, erro humano, engajamento cognitivo, projeto de sistemas, fatores humanos, racionalidade limitada e interação humano-computador.
 * M.Sc Dissertation: [Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares](http://dspace.sti.ufcg.edu.br:8080/jspui/bitstream/riufcg/3486/1/LESANDRO%20PONCIANO%20DOS%20SANTOS%20%e2%80%93%20DISSERTA%c3%87%c3%83O%20%28PPGCC%29%202011.pdf)- **Alternative keywords**: computação distribuída, sustentabilidade ambiental, computação verdade, e-ciência.
 
+# Reports
+
+* 2013 - [On the Dynamics of Micro-and Macro-task Human Computation Markets](https://www.lsd.ufcg.edu.br/download/relatorios_tecnicos/tr-2013-01.pdf) - The report is part of the PhD research. **Alternative keywords**: micro task-markets, Daily Cycles, Weekly Cycles,  Skills distribution in the Crowd of Workers,  Skills distribution in the workload, Activity level of requesters.
+* 2012 - [Análise do Impacto da Rede Social na Marcação de Fotos como Favoritas no Flickr](https://www.lsd.ufcg.edu.br/download/relatorios_tecnicos/TR-2012-01.pdf) - The report is part of the FRH Analytics project. **Alternative keywords**: map-reduce, user generated content systems (UGCs), Distancia entre usuários.
+
 --
 * [Paper on Mendeley Catalogue](mendeleyCatalog.md)
