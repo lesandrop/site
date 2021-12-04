@@ -2,6 +2,12 @@
 
 Trabalhos de Conclusão de Curso (TCCs) orientados pelo Prof. Lesandro Ponciano em cursos de Engenharia de Software e Sistemas de Informação na PUC Minas, entre 2018 e 2021.
 
+1. [Proposta e Implementação de uma Aplicação de Reconhecimento e Descrição de Imagens para Deficientes Visuais](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a9/0000a9bd.pdf). Lucas Izidorio Almeida + Rodrigo Gonçalves Ribeiro
+
+1. [Análise da abordagem de Aprendizagem Baseada em Projeto na aprendizagem de Gerência de Configuração de Software](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a4/0000a461.pdf). Daniel Henrique Vargas + Rafael Araujo Badaro
+
+1. [Guia de Desenvolvimento de Interface com o usuário (UI Guide)](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a3/0000a3aa.pdf). Ariel Santos Barcelos + Karolina Vaz Coelho 
+
 1. [SAPFI: um sistema de alerta para evitar aglomerações em filas de espera de praças de alimentação](http://bib.pucminas.br:8080/pergamumweb/vinculos/000096/000096a6.pdf). Lucas Henrique Medeiros Alcantara + Nathan Soares de Faria
 
 1. [Aplicando Desenvolvimento Guiado por Testes para Auxiliar na Evolução de Arquiteturas Monolíticas para Microsserviços](http://bib.pucminas.br:8080/pergamumweb/vinculos/000099/0000996d.pdf). Daniel Pinheiro Wagner + Felipe Silva Fantoni
