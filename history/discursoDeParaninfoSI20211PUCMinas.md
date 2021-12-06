@@ -1,6 +1,7 @@
 ## Discurso de Paraninfo
 
 _Discurso de Lesandro Ponciano aos formandos de Sistemas de Informação da PUC Minas no Barreiro, primeiro semestre de 2021._
+**Vídeo: https://youtu.be/My5tKWfZO-c?t=2145**
 
 
 Prezados formandos, formandas, familiares, colegas e amigos.
