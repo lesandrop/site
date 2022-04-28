@@ -12,7 +12,8 @@ achieve a predefined credibility level in the result?](LesandroPonciano-HCOMP201
 * 2010 - E2GC2 Talk: [On the Impact of Energy-saving Strategies in Opportunistic Grids](LesandroPonciano-E2GC22010.pdf)
 
 ## Portuguese
-* 2020 - ICEI Talk: [Ciência participativa e a ciência cidadã na perspectiva da tecnologia](LesandroPonciano-ICEITalk2020.pdf)
+* 2022 - IBICT Talk: [A Tecnologia que nos Une: Evolução e Desafios em Infraestruturas de Software para Ciência Participativa e Cidadã](LesandroPonciano-LançamentoPlataformaCivis-IBICT2022.pdf). The recording is available at https://www.youtube.com/watch?v=_nPqmcq0gos
+* 2020 - ICEI Talk: [Ciência participativa e a ciência cidadã na perspectiva da tecnologia](LesandroPonciano-ICEITalk2020.pdf)  The recording is available at https://www.youtube.com/watch?v=woBTAbTDKy4
 * 2019 - SNCT-IFMG Talk: [A Ciência Cidadã e seu papel na busca pela sustentabilidade](LesandroPonciano-SNCT-IFMG2019.pdf)
 * 2018 - WEIHC Talk: [Debate Estruturado: Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](LesandroPonciano-WEIHC2018.pdf)
 * 2017 - SiBBr Talk: [Ciência Cidadã Baseada em Crowdsourcing: Engajamento e Credibilidade de Participantes](LesandroPonciano-SIBBR2017.pdf)
