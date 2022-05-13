@@ -23,6 +23,7 @@ Energy%20Efficient%20Computing%20through%20Productivity-Aware%20Frequency%20Scal
 * [Debate Estruturado_ Uma Estratégia Pedagógica para Ensino e Aprendizagem de Valores Humanos em Interação Humano-Computador](https://doi.org/10.5753/ihc.2018.4209) - **Alternative keywords**: Ensino de IHC, debate de artigos.
 * [Análise da Popularidade, Visibilidade e Atividade de Diferentes Tipos de Robôs na Rede Social Twitter](https://doi.org/10.5753/sbsc.2017.9958)
 * [Análise de Estratégias de Computação Verde em Grades Computacionais Oportunistas](An%C3%A1lise%20de%20Estrat%C3%A9gias%20de%20Computa%C3%A7%C3%A3o%20Verde%20em%20Grades%20Computacionais%20Oportunistas.pdf)
+* [A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico](LesandroPonciano-EbookPUCMinas-Capítulo21-2022.pdf)
 
 # PhD Thesis and M.Sc Dissertation
 
