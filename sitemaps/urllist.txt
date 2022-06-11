@@ -52,8 +52,8 @@ https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Cap%C3%AD
 https://lesandrop.github.io/site/teaching/Sistemas%20Operacionais%20-%20Cartao%20de%20Suporte.pdf
 https://lesandrop.github.io/site/teaching/Teste%20de%20Software%20-%20Cart%C3%A3o%20de%20Suporte.pdf
 https://lesandrop.github.io/site/teaching/Intera%C3%A7%C3%A3o%20Humano-Computador%20-%20Cart%C3%A3o%20de%20Suporte.pdf
-http://lesandrop.github.io/site/opinion/blog/2020-06-25_O-primeiro-laboratorio-de-pesquisa-em-que-atuei.html
-http://lesandrop.github.io/site/opinion/blog/2019-12-23_Incrementos--sobre-Ano-Novo--infancia-e-sprints.html
-http://lesandrop.github.io/site/opinion/blog/2018-10-28_O-que-eu-protejo-e-contra-o-que-eu-resisto.html
+https://lesandrop.github.io/site/opinion/blog/2020-06-25_O-primeiro-laboratorio-de-pesquisa-em-que-atuei.html
+https://lesandrop.github.io/site/opinion/blog/2019-12-23_Incrementos--sobre-Ano-Novo--infancia-e-sprints.html
+https://lesandrop.github.io/site/opinion/blog/2018-10-28_O-que-eu-protejo-e-contra-o-que-eu-resisto.html
 https://lesandrop.github.io/site/opinion/blog/2017-01-11_A-Ascensao-da-Ciencia-Cidada.html
 https://lesandrop.github.io/site/opinion/blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html
