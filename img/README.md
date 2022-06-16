@@ -2,7 +2,7 @@
 
 ## 2021
 
-![Lesandro Ponciano - 2021](/site/img/LesandroPonciano.JPG)
+![Lesandro Ponciano - 2021](/site/img/LesandroPonciano.jpg)
 
 
 ## 2010
