@@ -1,11 +1,11 @@
 https://lesandrop.github.io/site/
-https://lesandrop.github.io/site/cv/CV-LesandroPonciano-ShortVersion.pdf
 https://lesandrop.github.io/site/history/
 https://lesandrop.github.io/site/slides/
 https://lesandrop.github.io/site/opinion/
 https://lesandrop.github.io/site/papers/
 https://lesandrop.github.io/site/teaching/
 https://lesandrop.github.io/site/img/
+https://lesandrop.github.io/site/cv/CV-LesandroPonciano-ShortVersion.pdf
 https://lesandrop.github.io/site/history/consideracaoesIniciaisCienciaAberta.html
 https://lesandrop.github.io/site/history/discursoDeParaninfoSI20211PUCMinas.html
 https://lesandrop.github.io/site/history/memorial-2008.html
@@ -57,3 +57,4 @@ https://lesandrop.github.io/site/opinion/blog/2019-12-23_Incrementos--sobre-Ano-
 https://lesandrop.github.io/site/opinion/blog/2018-10-28_O-que-eu-protejo-e-contra-o-que-eu-resisto.html
 https://lesandrop.github.io/site/opinion/blog/2017-01-11_A-Ascensao-da-Ciencia-Cidada.html
 https://lesandrop.github.io/site/opinion/blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html
+https://lesandrop.github.io/site/opinion/Lesandro-SE-Talk-Description.pdf
