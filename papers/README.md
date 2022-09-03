@@ -51,7 +51,7 @@ Alguns projetos de pesquisa foram realizados associados a atividades de ensino. 
 # PhD Thesis and M.Sc Dissertation
 
 * PhD Thesis: [Computação por Humanos na Perspectiva do Engajamento e Credibilidade de Seres Humanos e da Replicação de Tarefas](http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/569/LESANDRO%20PONCIANO%20DOS%20SANTOS%20-%20TESE%20PPGCC%202015..pdf) - **Alternative keywords**: vieses cognitivos, ciência cidadã, erro humano, engajamento cognitivo, projeto de sistemas, fatores humanos, racionalidade limitada e interação humano-computador.
-* M.Sc Dissertation: [Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares](http://dspace.sti.ufcg.edu.br:8080/jspui/bitstream/riufcg/3486/1/LESANDRO%20PONCIANO%20DOS%20SANTOS%20%e2%80%93%20DISSERTA%c3%87%c3%83O%20%28PPGCC%29%202011.pdf)- **Alternative keywords**: computação distribuída, sustentabilidade ambiental, computação verdade, e-ciência.
+* M.Sc Dissertation: [Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares](http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/3486/LESANDRO%20PONCIANO%20DOS%20SANTOS%20%e2%80%93%20DISSERTA%c3%87%c3%83O%20%28PPGCC%29%202011.pdf)- **Alternative keywords**: computação distribuída, sustentabilidade ambiental, computação verdade, e-ciência.
 
 # Reports
 * 2022 - [On Humans, Uncertainty and System Engineering](https://lesandrop.github.io/site/opinion/Lesandro-SE-Talk-Description.pdf) This report is a description of a talk in the Software Engineering Chair in TU Dresden.
