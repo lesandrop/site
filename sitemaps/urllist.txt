@@ -1,10 +1,10 @@
-https://lesandrop.github.io/site/
-https://lesandrop.github.io/site/history/
-https://lesandrop.github.io/site/slides/
-https://lesandrop.github.io/site/opinion/
-https://lesandrop.github.io/site/papers/
-https://lesandrop.github.io/site/teaching/
-https://lesandrop.github.io/site/img/
+https://lesandrop.github.io/site/index.html
+https://lesandrop.github.io/site/history/index.html
+https://lesandrop.github.io/site/slides/index.html
+https://lesandrop.github.io/site/opinion/index.html
+https://lesandrop.github.io/site/papers/index.html
+https://lesandrop.github.io/site/teaching/index.html
+https://lesandrop.github.io/site/img/index.html
 https://lesandrop.github.io/site/cv/CV-LesandroPonciano-ShortVersion.pdf
 https://lesandrop.github.io/site/history/consideracaoesIniciaisCienciaAberta.html
 https://lesandrop.github.io/site/history/discursoDeParaninfoSI20211PUCMinas.html
