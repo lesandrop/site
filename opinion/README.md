@@ -27,7 +27,7 @@
 * 25/04/2012 - [Reading: Notes on Coordination Theory](https://lesandrop.github.io/site/opinion/blog-observations/2012_04_25-Reading_Notes_on_Coordination_Theory.html)
 * 18/04/2012 - [Thoughts: Bringing together crowds of people and computers in order to process complex tasks](https://lesandrop.github.io/site/opinion/blog-observations/2012_04_18-Thoughts_Bringing_together_crowds_of_people_and_computers_in_order_to_process_complex_tasks.html)
 * 11/04/2012 - [Thoughts: Computational thinking for non-computer science students](https://lesandrop.github.io/site/opinion/blog-observations/2012_04_11-Thoughts_Computational_thinking_for_non_computer_science_students.html)
-* 30/03/2012 - [Reading: Operational Coordination](https://lesandrop.github.io/site/opinion/blog-observations/2012_03_30-Reading:_Operational_coordination.html)
+* 30/03/2012 - [Reading: Operational Coordination](https://lesandrop.github.io/site/opinion/blog-observations/2012_03_30-Reading_Operational_coordination.html)
 * 21/03/2012 - [Thoughts: Human Behaviors in the Virtual Age](https://lesandrop.github.io/site/opinion/blog-observations/2012_03_21-Thoughts_Human_Behaviors_in_the_Virtual_Age.html)
 * 03/02/2012 - [Reading: Knowledge, wisdom and wealth](https://lesandrop.github.io/site/opinion/blog-observations/2012_02_03-Reading_Knowledge_wisdom_and_wealth.html)
 * 05/01/2012 - [Reading: Human knowledge evolution](https://lesandrop.github.io/site/opinion/blog-observations/2012_01_05-Reading_Human_knowledge_evolution.html)
