@@ -1,0 +1,14 @@
+# Thoughts: Human Behaviors in the Virtual Age
+
+_by lesandrop / March 21, 2012 at 01:32PM_
+ 
+I would like to discuss (or speculate) some aspects related to human-computer interaction, more specifically online social relationships.
+ 
+Nowadays, the online social relationship has become very common with the rise of online social networks, such as Facebook, Twitter and Google+. In these kinds of systems, people may create a network of friends, and, after that, they may share things with each other in the network. Usually, all people's actions in the system are stored on datasets. Some examples of these kinds of datasets may be found at Stanford Large Network Dataset Collection (SNAP). Such datasets have been used for several purposes, including online marketing, friend recommendation, and scientific research.
+ 
+I have read several papers in which datasets extracted from online social networks are used to investigate human behaviours. A good example is the study [“Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures”](http://www.sciencemag.org/content/333/6051/1878.abstract) in which datasets with billions of Twitter messages originating from several countries are used to investigate people's moods. The study shows that, in part, people's moods are driven by a shared underlying biological rhythm, and that this behaviour is independent of culture and country. In this way, several studies have used datasets extracted from online social networks to investigate human behaviours. This is possible because, usually, these systems are used by millions of people.
+ 
+Another side of this discussion is that the immoderate use of these systems has some impact on people's life; one of such impacts is the so-called “Internet addiction”. In the paper [“Internet Addiction: The Emergence of a New Clinical Disorder”](http://online.liebertpub.com/doi/abs/10.1089/cpb.1998.1.237?2) scientists show that _“online users were becoming addicted to the Internet in much the same way others became addicted to drugs or alcohol”_ and among the negative effects are the “academic, social, and occupational impairments”.
+ 
+Recently, I saw a movie which can be used to illustrate this discussion; its title is [Sidewalls](http://www.imdb.com/title/tt1235841/http://movies.nytimes.com/2011/10/26/movies/gustavo-tarettos-sidewalls-review.html) (Medianeras, in Spanish). Sidewalls is an Argentine romantic comedy about cyber life, or “the virtual love in Buenos Aires”. The story puts in perspective several aspects of the “virtual age”, such as alienation, which is the feeling of having no connection with the world and with the people around you, and dependence on cyberthings, for example: using computational systems to work, to have fun, and to maintain social relationships.
+

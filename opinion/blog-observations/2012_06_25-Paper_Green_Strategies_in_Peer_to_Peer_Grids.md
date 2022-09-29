@@ -1,0 +1,11 @@
+# Paper: Green Strategies in Peer-to-Peer Grids
+_by Lesandro Ponciano  / June 25, 2012 at 12:17AM_
+
+["Assessing Green Strategies in Peer-to-Peer Opportunistic Grids"](https://doi.org/10.1007/s10723-012-9218-3) paper by Lesandro Ponciano and Francisco Brasileiro. This paper has been accepted for publication and will appear in the Journal of Grid Computing. 
+ 
+**Abstract**: _Opportunistic peer-to-peer (P2P) grids are distributed computing infrastructures that harvest the idle computing cycles of computing resources geographically distributed. In these grids, the demand for resources is typically bursty. During bursts of resource demand, many grid resources are required, but on other occasions, they may remain idle for long periods of time. If the resources are kept powered on even when they are neither processing their owners' workload nor grid jobs, their exploitation is not efficient in terms of energy consumption._
+ 
+_One way to reduce the energy consumed in these idleness periods is to place the computers that form the grid in a ``sleeping'' state which consumes less energy. In grid computing, this strategy introduces a tradeoff between the benefit of energy saving and the associated costs in terms of increasing the job response time, also known as makespan, and reducing the hard disks' lifetime. To mitigate these costs, it is usually introduced a timeout policy together with the sleeping state, which tries to avoid useless state transitions. In this work, we use simulations to analyze the potential of using sleeping states to save energy in each site of a P2P grid._
+ 
+_Our results show that sleeping states can save energy with low associated impact on jobs' makespan and hard disks' lifetime. Furthermore, the best sleeping strategy to be used depends on the characteristics of each individual site, thus, each site should be configured to use the sleeping strategy that best fits its characteristics. Finally, differently from other kinds of grid infrastructures, P2P grids can place a machine in sleeping mode as soon as it becomes idle, i.e. it is not necessary to use an aggressive timeout policy. This allows increases on the grid's energy saving without impacting significantly the jobs' makespan and the disks' lifetime._
+
