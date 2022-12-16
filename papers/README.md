@@ -1,4 +1,4 @@
-# Papers
+# Research Papers
 
 * [Volunteers Engagement in Human Computation for Astronomy Projects](https://doi.org/10.1109/MCSE.2014.4) - The study characterizes human engagement in two projects (Galaxy Zoo and The Milky Way Project) over years of the project duration. It shows inequality in people's participation and engagement, measured by days of participation, number of contributions and devoted time. People's behaviour is modelled in Zipf and Log-normal distributions. [dimentions](https://badge.dimensions.ai/details/id/pub.1061398630) - **Alternative keywords**: crowd science, Zooniverse, participatory science, participation, Zipf distribution, and log-normal distribution.
 
@@ -50,25 +50,38 @@ Alguns projetos de pesquisa foram realizados associados a atividades de ensino. 
 # PhD Thesis and M.Sc Dissertation
 
 * PhD Thesis: [Computação por Humanos na Perspectiva do Engajamento e Credibilidade de Seres Humanos e da Replicação de Tarefas](http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/569/LESANDRO%20PONCIANO%20DOS%20SANTOS%20-%20TESE%20PPGCC%202015..pdf) - **Alternative keywords**: vieses cognitivos, ciência cidadã, erro humano, engajamento cognitivo, projeto de sistemas, fatores humanos, racionalidade limitada e interação humano-computador.
+
 * M.Sc Dissertation: [Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares](http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/3486/LESANDRO%20PONCIANO%20DOS%20SANTOS%20%e2%80%93%20DISSERTA%c3%87%c3%83O%20%28PPGCC%29%202011.pdf)- **Alternative keywords**: computação distribuída, sustentabilidade ambiental, computação verdade, e-ciência.
 
 # Reports
-* 2022 - [On Humans, Uncertainty and System Engineering](https://lesandrop.github.io/site/opinion/Lesandro-SE-Talk-Description.pdf) This report is a description of a talk in the Software Engineering Chair in TU Dresden.
-* 2022 - [A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico](LesandroPonciano-EbookPUCMinas-Capítulo21-2022.pdf) This report is a book chapter discussing the importance of public participation in scientific research to fight negationism and conspiracy theories about science. **Alternative keywords**: Ciência Cidadã, Design Participativo, Ciência Comunitária, Pesquisa Participante, Pesquisa Participativa.
-* 2018 - [Perspectivas em Computação Social](https://fubica.lsd.ufcg.edu.br/~lesandrop/papers/Ponciano-2018-PerspectivasEmComputa%C3%A7%C3%A3oSocial.pdf) The report is a text written to the Computer Brasil magazine stating the perspective on social computing. **Alternative keywords**: computer and society, participation, engagement
-* 2013 - [On the Dynamics of Micro-and Macro-task Human Computation Markets](https://www.lsd.ufcg.edu.br/download/relatorios_tecnicos/tr-2013-01.pdf) - The report is part of the PhD research. **Alternative keywords**: micro task-markets, Daily Cycles, Weekly Cycles,  Skills distribution in the Crowd of Workers,  Skills distribution in the workload, Activity level of requesters.
-* 2012 - [Análise do Impacto da Rede Social na Marcação de Fotos como Favoritas no Flickr](https://www.lsd.ufcg.edu.br/download/relatorios_tecnicos/TR-2012-01.pdf) - The report is part of the FRH Analytics project. **Alternative keywords**: map-reduce, user generated content systems (UGCs), Distancia entre usuários.
+
+* 2022 - [On Humans, Uncertainty and System Engineering](https://lesandrop.github.io/site/opinion/Lesandro-SE-Talk-Description.pdf). The report is a description of a talk in the Software Engineering Chair in TU Dresden.
+
+* 2022 - [A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico](LesandroPonciano-EbookPUCMinas-Capítulo21-2022.pdf). It is a book chapter discussing the importance of public participation in scientific research to fight negationism and conspiracy theories about science. **Alternative keywords**: Ciência Cidadã, Design Participativo, Ciência Comunitária, Pesquisa Participante, Pesquisa Participativa.
+
+* 2018 - [Perspectivas em Computação Social](https://fubica.lsd.ufcg.edu.br/~lesandrop/papers/Ponciano-2018-PerspectivasEmComputa%C3%A7%C3%A3oSocial.pdf). It is an opinion story written to the Computer Brasil magazine stating the perspective on social computing. **Alternative keywords**: computer and society, participation, engagement
+
+* 2013 - [On the Dynamics of Micro-and Macro-task Human Computation Markets](https://www.lsd.ufcg.edu.br/download/relatorios_tecnicos/tr-2013-01.pdf). The report is part of the PhD research. **Alternative keywords**: micro task-markets, Daily Cycles, Weekly Cycles,  Skills distribution in the Crowd of Workers,  Skills distribution in the workload, Activity level of requesters.
+
+* 2012 - [Análise do Impacto da Rede Social na Marcação de Fotos como Favoritas no Flickr](https://www.lsd.ufcg.edu.br/download/relatorios_tecnicos/TR-2012-01.pdf). The report is part of the FRH Analytics project. **Alternative keywords**: map-reduce, user generated content systems (UGCs), Distancia entre usuários.
 
 
-# Studies published during undergraduate scientific initiation
+# Studies published during the undergraduate scientific initiation
 
 * Santos, Lesandro Ponciano dos; Silva, J. P. D. ; Góes, Luiz Fabrício. [Técnica de Caracterização de Cargas de Trabalho de Supercomputadores para Predição do Comportamento de Tarefas Paralelas.](reic2009tecnicafulltext.pdf) _Revista Eletrônica de Iniciação Científica_, v. 1, p. 1, 2009.
+
 * Santos, Lesandro Ponciano dos; Góes, Luiz Fabrício. [Descoberta e Predição de Comportamento de Tarefas Paralelas através da Caracterização de Padrões em Cargas de Trabalho.](ctic2008descobertafulltext.pdf) In: _WorkShop de Sistemas Computacionais de Alto Desempenho- Concurso de Trabalhos de Iniciação Científica (WSCAD-CTIC)_, 2008, Campo Grande/MS.
+
 * Santos, Lesandro Ponciano dos; Silva, J. P. D.; Góes, Luiz Fabrício. [Análise de algoritmos de classificação e agrupamento na modelagem e predição de comportamentos em cargas de trabalho de máquinas paralelas](ic2009destaquesfulltext.pdf). In: Wolney Lobato; Cláudia de Vilhena Schayer; João Francisco de Abreu. (Org.). Iniciação Científica: destaques 2008. 17ed.Belo Horizonte: Editora PUC Minas, 2009, v. 1, p. 219-240.
+
 * Santos, Lesandro Ponciano dos; Silva, J. P. D.; Góes, Luiz Fabrício. [Análise de Algoritmos de Classificação e Agrupamento na Descoberta e Modelagem de Comportamento de Tarefas Paralelas](ic2008analisefulltext.pdf). In: _16º Seminário de Iniciação Científica da PUC Minas_. Belo Horizonte: PUC Minas, 2008. v. 1. p. 113-113.
+
 * Santos, Lesandro Ponciano dos; Góes, Luiz Fabrício. [Técnica de Caracterização de Carga de Trabalho de Máquinas Paralelas para Extração de Informações Utilizadas por um Escalonador Reconfigurável de Tarefas.](ctic2007tecnicafulltext.pdf) In: _Workshop em Sistemas Computacionais de Alto Desempenho (WSCAD) - Concurso de Trabalhos de Iniciação Científica em Arquitetura de Computadores e Computação de Alto Desempenho_. 2007, Gramado/RS.
+
 * Santos, Lesandro Ponciano dos; Nery, Marcelo Souza. [Avanço e exclusão: duas faces da era digital - um análise sociotécnica das TICs.](ic2007avanco2fulltext.pdf) In: Wolney Lobato, Cláudia de Vilhena Schayer Sabino, João Francisco de Abreu. (Org.). _Iniciação Científica: destaques 2006_. 14ed. Belo Horizonte: Editora PUC Minas, 2007, v. 1, p. 405-449.
+
 * Santos, Lesandro Ponciano dos; Góes, Luiz Fabrício. [Proposta, Implementação e Avaliação de Técnica de Caracterização de Carga de Trabalho (Workload) de Máquinas Paralelas para Extração de Informações Utilizadas por um Escalonador Reconfigurável de Tarefas (RGSA).](ic2007propostafulltext.pdf) In: _15° Seminário de Iniciação Científica da PUC Minas_. Belo Horizonte: PUC Minas, 2007. v. 1. p. 165-165.
+
 * Santos, Lesandro Ponciano dos; Nery, Marcelo Souza. [Avanço e Exclusão: Duas faces da era digital - Uma análise sociotécnica das TICs.](ic2006avanco1fulltext) In: _14° Seminário de Inciciação Científica_. Belo Horizonte: PUC Minas, 2006. v. 1. p. 170-170.
 
 --

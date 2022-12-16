@@ -1,7 +1,7 @@
 ## Considerações Iniciais
 
 _Considerações iniciais de Lesandro Ponciano no Descubriendo la Ciencia Abierta._
-**Vídeo: https://youtu.be/I7O6fnXI_Bw?t=1620**
+[Recording](https://youtu.be/I7O6fnXI_Bw?t=1620)
 
 Olá. Obrigado pelo convite. Eu estou feliz de estar aqui com todos vocês. Espero que esteja tudo bem com todos e com todas.
 

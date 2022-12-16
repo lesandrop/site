@@ -39,3 +39,7 @@
 * 04/04/2010 - [Reading: The individual and the digital environment](https://lesandrop.github.io/site/opinion/blog-observations/2010_04_04-Reading_The_individual_and_the_digital_environment.html)
 * 01/03/2010 - [Reading: On Writing](https://lesandrop.github.io/site/opinion/blog-observations/2010_03_01-Reading_On_Writing.html)
 
+## Reading recommendations
+
+* [Scientific papers](https://lesandrop.github.io/site/opinion/readingrecommendation.md)
+
