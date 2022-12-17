@@ -41,5 +41,5 @@
 
 ## Reading recommendations
 
-* [Scientific papers](https://lesandrop.github.io/site/opinion/readingrecommendation.md)
+* [Scientific papers](https://lesandrop.github.io/site/opinion/readingrecommendation.html)
 
