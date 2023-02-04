@@ -22,7 +22,7 @@ Por fim, pode-se ampliar o debate. A discussão sobre o Twitter está no complex
 
 Não sei ainda qual plataforma alternativa que adotarei. Pretendo testar várias que estão emergindo. Por enquanto, será fácil me encontrar no Mastodon na instância @lesandrop@mastodon.social ou @lesandrop@fosstodon.org. A forma de me encontrar online está sempre atualizada na minha página https://lesandrop.github.io 
 
-Referências
+## Referências
 
 [1] Weller, K., Bruns, A., Burgess, J., Mahrt, M., & Puschmann, C. (Eds.). (2013). Twitter and society (p. 4). New York: Peter Lang. https://www.amazon.com/Twitter-Society-Digital-Formations-Katrin/dp/1433121697
 
