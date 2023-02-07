@@ -1,7 +1,7 @@
 ## Opinions (op-ed) by Lesandro Ponciano
 
 * 2023 [Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição](https://lesandrop.github.io/site/opinion/twittereacontradicao.html)
-* 2018 "A ciência Cidadã no Brasil", [aqui](EstadoDeMinas-2018-AcienciacidadanoBrasil0.pdf) e [aqui](EstadoDeMinas-2018-ACienciaCidadaNoBrasil.pdf)
+* 2018 [A ciência Cidadã no Brasil](https://lesandrop.github.io/site/opinion/Opiniao-CienciaCidadaNoBrasil-EstadoDeMinas.pdf)
 
 ## Interviews  with Lesandro Ponciano
 
