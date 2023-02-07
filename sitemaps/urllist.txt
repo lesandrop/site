@@ -49,8 +49,7 @@ https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Cap%C3%AD
 https://lesandrop.github.io/site/teaching/Sistemas%20Operacionais%20-%20Cartao%20de%20Suporte.pdf
 https://lesandrop.github.io/site/teaching/Teste%20de%20Software%20-%20Cart%C3%A3o%20de%20Suporte.pdf
 https://lesandrop.github.io/site/teaching/Intera%C3%A7%C3%A3o%20Humano-Computador%20-%20Cart%C3%A3o%20de%20Suporte.pdf
-https://lesandrop.github.io/site/opinion/EstadoDeMinas-2018-AcienciacidadanoBrasil0.pdf
-https://lesandrop.github.io/site/opinion/EstadoDeMinas-2018-ACienciaCidadaNoBrasil.pdf
+https://lesandrop.github.io/site/opinion/Opiniao-CienciaCidadaNoBrasil-EstadoDeMinas.pdf
 https://lesandrop.github.io/site/opinion/EstadoDeMinas-2019-EstimuloACuriosidade.pdf
 https://lesandrop.github.io/site/opinion/Lesandro-SE-Talk-Description.pdf
 https://lesandrop.github.io/site/opinion/readingrecommendation.html
