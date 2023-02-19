@@ -87,4 +87,7 @@ Alguns projetos de pesquisa foram realizados associados a atividades de ensino. 
 ## Reading recommendations
 
 * [Scientific papers](https://lesandrop.github.io/site/opinion/readingrecommendation.html)
-* [Paper on Mendeley Catalogue](mendeleyCatalog.md)
+
+* [Paper on Mendeley Catalogue](https://lesandrop.github.io/site/papers/mendeleyCatalog.html)
+
+* [Opinions](https://lesandrop.github.io/site/papers/Opinions.html)
