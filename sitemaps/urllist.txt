@@ -80,3 +80,4 @@ https://lesandrop.github.io/site/opinion/blog-observations/2013_12_23-Reading_Be
 https://lesandrop.github.io/site/opinion/blog-observations/2014_09_01-Paper_Human_aspects_in_human_computation.html
 https://lesandrop.github.io/site/opinion/twittereacontradicao.html
 https://lesandrop.github.io/site/opinion/PandemiaLeiDeProtecaoDeDados.html
+https://lesandrop.github.io/site/papers/Opinions.html
