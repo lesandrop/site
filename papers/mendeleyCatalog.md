@@ -19,6 +19,9 @@
 - [Adaptive task replication strategy for human computation](https://www.mendeley.com/catalogue/2a4ded72-16ef-3434-a058-7665da893460).
 
 - [Defamiliarization, representation granularity, and user experience: A qualitative study with two situated visualizations](https://www.mendeley.com/catalogue/c00e62fa-a321-3eb8-8393-e60997475f82).
+- [CITIZEN SCIENCE FROM THE IBEROAMERICAN PERSPECTIVE: An overview and insights by the RICAP network](https://www.mendeley.com/catalogue/4860b1e5-a3eb-3228-adbd-36dcc397ff32/).
+
+- [A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico](https://www.mendeley.com/catalogue/2b6ef302-4bd0-3be4-b622-22e9ff633f87/).
 
 ## User-centered design: Privacy and Explainability
 
