@@ -21,6 +21,6 @@ Esses são apenas alguns exemplos para mostrar que é uma dinâmica de interaç�
 
 .
 
-_Você pode encontrar informações sobre mim no [meu site](https://lesandrop.github.io/). Quando escrevo algo, ele aparece neste [RSS feed](https://lesandrop.github.io/site/feed.xml) que pode ser cadastrado em leitores de feed como https://feedly.com/_.
+_Você pode encontrar informações sobre mim no [meu site](https://lesandrop.github.io/). Quando escrevo algo, ele aparece neste [RSS feed](https://lesandrop.github.io/site/feed.xml), que pode ser cadastrado em leitores de feed como a extensão para Chrome [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) ou o https://feedly.com/.
 
 
