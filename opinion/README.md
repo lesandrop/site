@@ -1,5 +1,6 @@
 ## Textos atuais
 
+* 04/05/2023 - [Mastodon e boas práticas de design e administração em comunidades online descentralizadas]([https://lesandrop.github.io/site/opinion/twittereacontradicao.html](https://lesandrop.github.io/site/opinion/usandomastodon.html))
 * 04/02/2023 - [Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição](https://lesandrop.github.io/site/opinion/twittereacontradicao.html)
 
 
