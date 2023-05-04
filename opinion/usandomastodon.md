@@ -4,7 +4,7 @@
 
 _04 de maio de 2023_
 
-Como contentei [anteriormente](https://lesandrop.github.io/site/opinion/twittereacontradicao.html), tenho usado instâncias do Mastodon. As principais instâncias que tenho acompanhado são a [mastodon.social](mastodon.social) e [bolha.us](bolha.us). Foi um processo gradativo. Criei a conta em algumas instâncias no ano passado. Este ano comecei a usar o recurso “explorar” para ver o que tem sido publicado. Comecei a seguir algumas contas interessantes. Publiquei uma introdução, que é uma boa prática quando se cria uma conta em uma instância. Tenho pensado em algumas publicações. Mas o que tenho feito mais é observar.
+Como comentei [anteriormente](https://lesandrop.github.io/site/opinion/twittereacontradicao.html), tenho usado instâncias do Mastodon. As principais instâncias que tenho acompanhado são a [mastodon.social](mastodon.social) e [bolha.us](bolha.us). Foi um processo gradativo. Criei a conta em algumas instâncias no ano passado. Este ano comecei a usar o recurso “explorar” para ver o que tem sido publicado. Comecei a seguir algumas contas interessantes. Publiquei uma introdução, que é uma boa prática quando se cria uma conta em uma instância. Tenho pensado em algumas publicações. Mas o que tenho feito mais é observar.
 
 Notei que Mastodon traz de volta uma série de coisas que eu gostava na internet e que estavam bastante sumidas com o advento das bigtechs e seus grandes sistemas centralizados. Três dessas coisas são:
 1. característica de cada instância como uma “comunidade”;
