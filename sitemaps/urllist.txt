@@ -79,5 +79,6 @@ https://lesandrop.github.io/site/opinion/blog-observations/2013_03_11-Reading_Te
 https://lesandrop.github.io/site/opinion/blog-observations/2013_12_23-Reading_Bedside_or_Desktop_books.html
 https://lesandrop.github.io/site/opinion/blog-observations/2014_09_01-Paper_Human_aspects_in_human_computation.html
 https://lesandrop.github.io/site/opinion/twittereacontradicao.html
+https://lesandrop.github.io/site/opinion/usandomastodon.html
 https://lesandrop.github.io/site/opinion/PandemiaLeiDeProtecaoDeDados.html
 https://lesandrop.github.io/site/papers/Opinions.html
