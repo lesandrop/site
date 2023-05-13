@@ -62,6 +62,8 @@ Alguns projetos de pesquisa foram realizados associados a atividades de ensino. 
 
 # Reports
 
+* 2023 - [Long-term social presence and citizen engagement in multi-level and network governance of climate actions](https://doi.org/10.5281/zenodo.7662897). Short research description in The Journal of Brief Ideas.
+
 * 2022 - [On Humans, Uncertainty and System Engineering](https://lesandrop.github.io/site/opinion/Lesandro-SE-Talk-Description.pdf). The report is a description of a talk in the Software Engineering Chair in TU Dresden.
 
 * 2022 - [A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico](LesandroPonciano-EbookPUCMinas-Capítulo21-2022.pdf). It is a book chapter discussing the importance of public participation in scientific research to fight negationism and conspiracy theories about science. **Alternative keywords**: Ciência Cidadã, Design Participativo, Ciência Comunitária, Pesquisa Participante, Pesquisa Participativa.
