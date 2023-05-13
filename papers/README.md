@@ -53,6 +53,13 @@ Alguns projetos de pesquisa foram realizados associados a atividades de ensino. 
 
 * M.Sc Dissertation - [Avaliação do Impacto de Estratégias de Economia de Energia em Grades Computacionais Entre-Pares](http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/3486/LESANDRO%20PONCIANO%20DOS%20SANTOS%20%e2%80%93%20DISSERTA%c3%87%c3%83O%20%28PPGCC%29%202011.pdf)- **Alternative keywords**: computação distribuída, sustentabilidade ambiental, computação verdade, e-ciência.
 
+# Datasets
+
+* 2023 - [Twitter publications from government weather and climate authorities and replies from citizens in five Brazilian cities during a year between 2021 and 2022](https://doi.org/10.5281/zenodo.7831680).
+
+* 2014-2021 - [Data sets of volunteer task execution events in Galaxy Zoo and The Milky Way Project between 2010 and 2012](https://github.com/ufcg-lsd/dataset-galaxyzoo-milkyway-2010-2012). 
+
+
 # Reports
 
 * 2022 - [On Humans, Uncertainty and System Engineering](https://lesandrop.github.io/site/opinion/Lesandro-SE-Talk-Description.pdf). The report is a description of a talk in the Software Engineering Chair in TU Dresden.
