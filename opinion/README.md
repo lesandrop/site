@@ -1,10 +1,15 @@
+# Textos e opiniões
+
+_Quando escrevo algo, ele aparece [neste XML RSS feed](https://lesandrop.github.io/site/feed.xml), que pode ser cadastrado em leitores de XML RSS feed como a extensão para Chrome [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) ou [Feedly](https://feedly.com)._
+
 ## Textos atuais
 
 * 04/05/2023 - [Mastodon e boas práticas de design e administração em comunidades online descentralizadas](https://lesandrop.github.io/site/opinion/usandomastodon.html)
+
 * 04/02/2023 - [Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição](https://lesandrop.github.io/site/opinion/twittereacontradicao.html)
 
 
-## Publicações arquivadas do antigo blog na plataforma Medium
+## Arquivo do antigo blog no Medium
 
 _(Retired Medium blog archive)_
 
@@ -19,7 +24,7 @@ _(Retired Medium blog archive)_
 * 03/07/2016 - [Aaron Swartz e o uso da tecnologia para melhorar o mundo e não para torná-lo um lugar pior](https://lesandrop.github.io/site/opinion/blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html)
 
 
-## Publicações arquivadas do antigo blog na plataforma Blogspot
+## Arquivo do antigo blog no Blogspot
 
 _(Retired Blogspot - Observation's blog- archive)_
 
