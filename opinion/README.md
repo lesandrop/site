@@ -4,6 +4,8 @@ _Quando escrevo algo, ele aparece [neste XML RSS feed](https://lesandrop.github.
 
 ## Textos atuais
 
+* 27/05/2023 - [Sobre o livro “Seara Vermelha” e questões sociais e políticas](https://lesandrop.github.io/site/opinion/searavermelhapolitica.html)
+
 * 04/05/2023 - [Mastodon e boas práticas de design e administração em comunidades online descentralizadas](https://lesandrop.github.io/site/opinion/usandomastodon.html)
 
 * 04/02/2023 - [Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição](https://lesandrop.github.io/site/opinion/twittereacontradicao.html)
