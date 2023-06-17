@@ -3,15 +3,16 @@
 ## English
 * 2019 - IHC Talk: [Characterising Volunteers’ Task Execution Patterns Across Projects on Multi-Project Citizen Science Platforms](LesandroPonciano-IHC2019.pdf)
 * 2019 - WEIHC Talk: [HCI Support Card: Creating and Using a Support Card for Education in Human-Computer Interaction](LesandroPonciano-WEIHC2019.pdf)
-* 2017 - IHC Talk: [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Thing](LesandroPonciano-IHC2017.pdf)
+* 2017 - IHC Talk: [Designing for Pragmatists and Fundamentalists: Privacy Concerns and Attitudes on the Internet of Things](LesandroPonciano-IHC2017.pdf)
 * 2017 - CSA Talk: [Short and Long-Term Engagement Among Volunteers in Human Computation Projects](LesandroPonciano-CitSci2017.pdf)
-* 2013 - IEEE eScience lightning talk: [Engagement and Credibility of participants in Human Computation and Citizen Science Systems](LesandroPonciano-IEEE-escience2014.pdf)
+* 2013 - IEEE eScience lightning talk: [Engagement and Credibility of Participants in Human Computation and Citizen Science Systems](LesandroPonciano-IEEE-escience2014.pdf)
 * 2013 - HCOMP 2013 poster presentation: [Task Redundancy Strategy Based on Volunteers' Credibility for Volunteer Thinking Projects](LesandroPonciano-HCOMP2013-poster.pdf)
 * 2013 - HCOMP 2013 lightning talk: [How to optimize the number of task replicas required to
 achieve a predefined credibility level in the result?](LesandroPonciano-HCOMP2013-LightningTalk.pdf)
 * 2010 - E2GC2 Talk: [On the Impact of Energy-saving Strategies in Opportunistic Grids](LesandroPonciano-E2GC22010.pdf)
 
 ## Portuguese
+* 2023 - ICEI Talk: [Computação, Cognição e Comportamento no contexto das Mudanças Climáticas](LesandroPonciano-ICEITalk2023.pdf). The [recording](https://www.youtube.com/watch?v=KWoeCAm6bGg) is available.
 * 2022 - IBICT Talk: [A Tecnologia que nos Une: Evolução e Desafios em Infraestruturas de Software para Ciência Participativa e Cidadã](LesandroPonciano-LançamentoPlataformaCivis-IBICT2022.pdf). The [recording](https://www.youtube.com/watch?v=_nPqmcq0gos) is available. 
 * 2020 - ICEI Talk: [Ciência participativa e a ciência cidadã na perspectiva da tecnologia](LesandroPonciano-ICEITalk2020.pdf)  The [recording](https://www.youtube.com/watch?v=woBTAbTDKy4) is available.
 * 2019 - SNCT-IFMG Talk: [A Ciência Cidadã e seu papel na busca pela sustentabilidade](LesandroPonciano-SNCT-IFMG2019.pdf)
