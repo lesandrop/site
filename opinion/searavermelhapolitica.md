@@ -1,3 +1,6 @@
+[Home](https://lesandrop.github.io) | [blog](https://lesandrop.github.io/site/opinion/index.html)
+
+
 # Sobre o livro "Seara Vermelha" e questões sociais e políticas
 
 **Lesandro Ponciano**

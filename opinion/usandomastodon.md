@@ -1,3 +1,5 @@
+[Home](https://lesandrop.github.io) | [blog](https://lesandrop.github.io/site/opinion/index.html)
+
 # Mastodon: boas práticas de design e administração em comunidades online descentralizadas
 
 **Lesandro Ponciano**

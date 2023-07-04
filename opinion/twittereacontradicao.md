@@ -1,3 +1,6 @@
+[Home](https://lesandrop.github.io) | [blog](https://lesandrop.github.io/site/opinion/index.html)
+
+
 # Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição
 
 **Lesandro Ponciano**
