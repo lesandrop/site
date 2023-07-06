@@ -84,4 +84,5 @@ https://lesandrop.github.io/site/opinion/usandomastodon.html
 https://lesandrop.github.io/site/opinion/searavermelhapolitica.html
 https://lesandrop.github.io/site/opinion/PandemiaLeiDeProtecaoDeDados.html
 https://lesandrop.github.io/site/opinion/serhumanoeclima.html
+https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html
 https://lesandrop.github.io/site/papers/Opinions.html
