@@ -1,1 +1,1 @@
-pandoc ia-cienciapesquisasnoBrasil.md -f markdown -t html -s -o ia-cienciapesquisasnoBrasil.html --metadata pagetitle="Inteligência artificial, avaliação e panorama de pesquisas no Brasil" --css pandoc.css
+pandoc ab.md -f markdown -t html -s -o ab.html --metadata pagetitle="ab" --css pandoc.css
