@@ -1,3 +1,6 @@
+[Home](https://lesandrop.github.io) 
+
+
 # Research Papers
 
 * [Agreement-based credibility assessment and task replication in human computation systems](https://doi.org/10.1016/j.future.2018.05.028) - The paper proposes four metrics for measuring human credibility while executing tasks in a distributed system. The metrics are used in an optimization algorithm that decides when enough replication (or redundant execution) to find the consensual answer to a human computation task. The Pareto front is used to find the best configuration scenarios. The baseline is majority voting. The upper bound is an oracle that knows the correct answer. [dimensions](https://badge.dimensions.ai/details/id/pub.1104137831)  - **Alternative keywords**: believability, inter-rater agreement, quality, ground truth, human error, pareto front, and replicas saving. 

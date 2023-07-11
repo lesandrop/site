@@ -1,4 +1,7 @@
-# Event Presentations by Lesandro Ponciano
+[Home](https://lesandrop.github.io)
+
+
+# Conference Presentations by Lesandro Ponciano
 
 ## English
 * 2019 - IHC Talk: [Characterising Volunteers’ Task Execution Patterns Across Projects on Multi-Project Citizen Science Platforms](LesandroPonciano-IHC2019.pdf)
