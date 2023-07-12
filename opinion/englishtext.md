@@ -1,7 +1,12 @@
+# Texts and Opinions
 
+I maintain a [blog in which I write in Portuguese](https://lesandrop.github.io/site/opinion/index.html). I rarely blog in English, but when I write something, it appears listed in this page. Here I also keep the archive (at the bottom of the page) of old texts from the time of my master and doctorate studies in which I wrote things about my research, studies and writing exercises.
 
+# New Posts
 
-## Retired Blogspot - Observation's blog (archived)
+* No post in English. [See posts in Portuguese](https://lesandrop.github.io/site/opinion/index.html)
+
+# Retired Blogspot - Observation's blog 2010-2014 (archived)
 
 * 01/09/2014 - [Paper: Human aspects in human computation](https://lesandrop.github.io/site/opinion/blog-observations/2014_09_01-Paper_Human_aspects_in_human_computation.html)
 
