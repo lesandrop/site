@@ -94,7 +94,7 @@ Alguns projetos de pesquisa foram realizados associados a atividades de ensino. 
 
 * Santos, Lesandro Ponciano dos; Góes, Luiz Fabrício. [Proposta, Implementação e Avaliação de Técnica de Caracterização de Carga de Trabalho (Workload) de Máquinas Paralelas para Extração de Informações Utilizadas por um Escalonador Reconfigurável de Tarefas (RGSA).](ic2007propostafulltext.pdf) In: _15° Seminário de Iniciação Científica da PUC Minas_. Belo Horizonte: PUC Minas, 2007. v. 1. p. 165-165.
 
-* Santos, Lesandro Ponciano dos; Nery, Marcelo Souza. [Avanço e Exclusão: Duas faces da era digital - Uma análise sociotécnica das TICs.](ic2006avanco1fulltext) In: _14° Seminário de Inciciação Científica_. Belo Horizonte: PUC Minas, 2006. v. 1. p. 170-170
+* Santos, Lesandro Ponciano dos; Nery, Marcelo Souza. [Avanço e Exclusão: Duas faces da era digital - Uma análise sociotécnica das TICs.](ic2006avanco1fulltext.pdf) In: _14° Seminário de Inciciação Científica_. Belo Horizonte: PUC Minas, 2006. v. 1. p. 170-170
 
 ## Reading recommendations
 
