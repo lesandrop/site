@@ -4,7 +4,9 @@ _Quando escrevo algo, ele aparece [neste XML RSS feed](https://lesandrop.github.
 
 ## Textos atuais
 
-* 05/06/2023 - [Livro, manifesto e boletim sobre inteligência artificial, avaliação de pesquisas e pesquisadores e panorama de pesquisas no Brasil](https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html)
+* 31/07/2023 - [Leitura da história mascarada do negro brasileiro segundo Abdias Nascimento](https://lesandrop.github.io/site/opinion/historiaMascaradaDoNegroBrasileiro.html)
+
+* 05/07/2023 - [Livro, manifesto e boletim sobre inteligência artificial, avaliação de pesquisas e pesquisadores e panorama de pesquisas no Brasil](https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html)
 
 * 17/06/2023 - [Seres Humanos vivendo as Mudanças Climáticas](https://lesandrop.github.io/site/opinion/serhumanoeclima.html)
 
