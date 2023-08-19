@@ -4,6 +4,8 @@ _Quando escrevo algo, ele aparece [neste XML RSS feed](https://lesandrop.github.
 
 ## Textos atuais
 
+* 15/08/2023 - [Emprego de Inteligência Artificial em Ciência Participativa e Cidadã](https://lesandrop.github.io/site/opinion/ia-cienciacidada.html)
+  
 * 31/07/2023 - [Leitura da história mascarada do negro brasileiro segundo Abdias Nascimento](https://lesandrop.github.io/site/opinion/historiaMascaradaDoNegroBrasileiro.html)
 
 * 05/07/2023 - [Livro, manifesto e boletim sobre inteligência artificial, avaliação de pesquisas e pesquisadores e panorama de pesquisas no Brasil](https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html)
