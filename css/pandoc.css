@@ -17,7 +17,7 @@ body {
   padding: 1em;
   margin: auto;
   max-width: 42em;
-  background: #fff9e9;
+  background: #fffcf3;
 }
 
 a {
@@ -53,12 +53,12 @@ a:focus {
 
 a::-moz-selection {
   background: rgba(255, 255, 0, 0.3);
-  color: #0645ad;
+  color: #e95555;
 }
 
 a::selection {
   background: rgba(255, 255, 0, 0.3);
-  color: #0645ad;
+  color: #e95555;
 }
 
 p {
