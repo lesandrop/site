@@ -1,35 +1,85 @@
-# Textos e opiniões
+[Home](https://lesandrop.github.io)
 
-_Quando escrevo algo, ele aparece [neste XML RSS feed](https://lesandrop.github.io/site/feed.xml), que pode ser cadastrado em leitores de XML RSS feed como a extensão para Chrome [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) ou [Feedly](https://feedly.com)._
+_[XML RSS feed](https://lesandrop.github.io/site/feed.xml)_
 
-## Textos atuais
+### [Emprego de Inteligência Artificial em Ciência Participativa e Cidadã](https://lesandrop.github.io/site/opinion/ia-cienciacidada.html)
 
-* 15/08/2023 - [Emprego de Inteligência Artificial em Ciência Participativa e Cidadã](https://lesandrop.github.io/site/opinion/ia-cienciacidada.html)
+_5/08/2023_
+
+Escrevi para a plataforma Civis o texto intitulado "Reflexões sobre o Emprego de Inteligência Artificial em Ciência Participativa e Cidadã". O texto aborda diversos tópicos sobre como projetos de ciência cidadã fazem uso de IA, em quais situações esse uso ocorre e quais os riscos que surgem com esse uso... [ler o post](https://lesandrop.github.io/site/opinion/ia-cienciacidada.html).
+
+---
   
-* 31/07/2023 - [Leitura da história mascarada do negro brasileiro segundo Abdias Nascimento](https://lesandrop.github.io/site/opinion/historiaMascaradaDoNegroBrasileiro.html)
+### [Leitura da história mascarada do negro brasileiro segundo Abdias Nascimento](https://lesandrop.github.io/site/opinion/historiaMascaradaDoNegroBrasileiro.html)
 
-* 05/07/2023 - [Livro, manifesto e boletim sobre inteligência artificial, avaliação de pesquisas e pesquisadores e panorama de pesquisas no Brasil](https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html)
+_31/07/2023_
 
-* 17/06/2023 - [Seres Humanos vivendo as Mudanças Climáticas](https://lesandrop.github.io/site/opinion/serhumanoeclima.html)
+O estudo de como as sociedades se organizam e evoluem é revelador. Um fator que me interessa há muito tempo na dinâmica de organização e evolução social é a experiência de racismo, discriminação e segregação. Terminei de ler, nos últimos dias, o livro "O Genocídio do Negro Brasileiro”"do autor Abdias Nascimento (2016, 3 ed., Editora Perspectiva) - a primeira edição é de 1978... [ler o post](https://lesandrop.github.io/site/opinion/historiaMascaradaDoNegroBrasileiro.html).
 
-* 27/05/2023 - [Sobre o livro “Seara Vermelha” e questões sociais e políticas](https://lesandrop.github.io/site/opinion/searavermelhapolitica.html)
+---
+  
+### [Livro, manifesto e boletim sobre inteligência artificial, avaliação de pesquisas e pesquisadores e panorama de pesquisas no Brasil](https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html)
 
-* 04/05/2023 - [Mastodon e boas práticas de design e administração em comunidades online descentralizadas](https://lesandrop.github.io/site/opinion/usandomastodon.html)
+_05/07/2023_
 
-* 04/02/2023 - [Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição](https://lesandrop.github.io/site/opinion/twittereacontradicao.html)
+Atualmente, a prática científica envolve diversas organizações, incluindo universidades, centros de pesquisa, editoras e agências de avaliação. Recentemente, estudei três documentos importantes sobre o cenário atual de pesquisa científica tendo em conta essas organizações. Tratam-se do livro publicado pela... [ler o post](https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html).
 
+---
+  
+### [Seres Humanos vivendo as Mudanças Climáticas](https://lesandrop.github.io/site/opinion/serhumanoeclima.html)
 
-## Arquivo do antigo blog no Medium
+_17/06/2023_
 
+O tópico das mudanças climáticas requer atenção de todos nós. Meu interesse nesse tópico aumentou em 2020 com o evento climático na cidade de Belo Horizonte, estado de Minas Gerais. Em Janeiro de 2020, observamos grandes chuvas e alagamentos em Belo Horizonte. Nessa ocasião, o alagamento foi ... [ler o post](https://lesandrop.github.io/site/opinion/serhumanoeclima.html).
+
+---
+  
+### [Sobre o livro “Seara Vermelha” e questões sociais e políticas](https://lesandrop.github.io/site/opinion/searavermelhapolitica.html)
+
+_27/05/2023_
+
+O livro Seara Vermelha publicado por Jorge Amado, em 1946, estava na minha lista de leitura há muitos anos. Passei muitas horas em aeroportos entre fevereiro e abril e aproveitei a oportunidade para lê-lo. A história narrada no livro se passa por volta dos anos de 1930 e mostra luta dos sertanejos do Nordeste do Brasil, sua situação de trabalho semi-feudal, fome e retirada para a cidade de São Paulo, localizada no sudeste do país e conhecida como rica e próspera. Neste texto, eu não pretendo fazer uma resenha do livro. Busco apenas destacar algumas percepções pessoais... [ler o post](https://lesandrop.github.io/site/opinion/searavermelhapolitica.html).
+
+---
+  
+### [Mastodon e boas práticas de design e administração em comunidades online descentralizadas](https://lesandrop.github.io/site/opinion/usandomastodon.html)
+
+_04/05/2023_
+
+Mastodon traz de volta uma série de recursos de design e de comunidades descentralizadas que eram comuns na internet... [ler o post](https://lesandrop.github.io/site/opinion/usandomastodon.html).
+
+---
+  
+### [Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição](https://lesandrop.github.io/site/opinion/twittereacontradicao.html)
+
+_04/02/2023_
+
+Neste texto explico um pouco da minha experiência com o Twitter ao longo de mais de uma década e de por que optei por deixar a plataforma. [ler o post](https://lesandrop.github.io/site/opinion/twittereacontradicao.html).
+
+---
+---
+  
 _(Retired Medium blog archive)_
 
-* 25/06/2020 - [O primeiro “laboratório de pesquisa” em que atuei](http://lesandrop.github.io/site/opinion/blog/2020-06-25_O-primeiro-laboratorio-de-pesquisa-em-que-atuei.html)
+### [O primeiro “laboratório de pesquisa” em que atuei](http://lesandrop.github.io/site/opinion/blog/2020-06-25_O-primeiro-laboratorio-de-pesquisa-em-que-atuei.html)
+25/06/2020
 
-* 23/12/2019 - [Incrementos: sobre Ano Novo, infância e sprints](http://lesandrop.github.io/site/opinion/blog/2019-12-23_Incrementos--sobre-Ano-Novo--infancia-e-sprints.html)
+---
+  
+### [Incrementos: sobre Ano Novo, infância e sprints](http://lesandrop.github.io/site/opinion/blog/2019-12-23_Incrementos--sobre-Ano-Novo--infancia-e-sprints.html)
+23/12/2019
 
-* 28/10/2018 - [O que eu protejo e contra o que eu resisto durante a tempestade que se anuncia](http://lesandrop.github.io/site/opinion/blog/2018-10-28_O-que-eu-protejo-e-contra-o-que-eu-resisto.html)
+---
+  
+### [O que eu protejo e contra o que eu resisto durante a tempestade que se anuncia](http://lesandrop.github.io/site/opinion/blog/2018-10-28_O-que-eu-protejo-e-contra-o-que-eu-resisto.html)
+28/10/2018
 
-* 11/01/2017 - [A Ascensão da Ciência Cidadã](https://lesandrop.github.io/site/opinion/blog/2017-01-11_A-Ascensao-da-Ciencia-Cidada.html)
+---
+  
+### [A Ascensão da Ciência Cidadã](https://lesandrop.github.io/site/opinion/blog/2017-01-11_A-Ascensao-da-Ciencia-Cidada.html)
+11/01/2017
 
-* 03/07/2016 - [Aaron Swartz e o uso da tecnologia para melhorar o mundo e não para torná-lo um lugar pior](https://lesandrop.github.io/site/opinion/blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html)
-
+---
+  
+### [Aaron Swartz e o uso da tecnologia para melhorar o mundo e não para torná-lo um lugar pior](https://lesandrop.github.io/site/opinion/blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html)
+03/07/2016
