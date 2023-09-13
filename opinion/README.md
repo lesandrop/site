@@ -6,7 +6,7 @@ _[XML RSS feed](https://lesandrop.github.io/site/feed.xml)_
 
 _13/09/2023_
 
-Personagens marcantes são essenciais em bons livros. Há vários exemplos disso. Eduardo Marciano (de Encontro Marcado, Fernando Sabino), Holden Caulfield (de The Catcher in the Rye, J. D. Salinger), Bertoleza (de O Cortiço, Aluísio de Azevedo), e Al Mustafá (de The Prophet, Kahlil Gibran) são apenas alguns de personagens cujas identidades dão estrutura aos livros. Ao longo dos últimos meses, li “Crime e Castigo” de Fiódor Dostoiévski. É um clássico que eu ainda não havia me interessado em ler. Ele me apresentou mais um personagem marcante. Talvez o mais marcante de todos que eu conheço. Trata-se de Rodion Românovitch Raskólnikov... [ler o post](https://lesandrop.github.io/site/opinion/DizerDeRodionRomanovitchRaskolnikov.html)
+Personagens marcantes são essenciais em bons livros. Há vários exemplos disso. Eduardo Marciano (de Encontro Marcado, Fernando Sabino), Holden Caulfield (de The Catcher in the Rye, J. D. Salinger), Bertoleza (de O Cortiço, Aluísio de Azevedo), e Al Mustafá (de The Prophet, Kahlil Gibran) são apenas alguns exemplos de personagens cujas identidades dão estrutura aos livros. Ao longo dos últimos meses, li “Crime e Castigo” de Fiódor Dostoiévski. É um clássico que eu ainda não havia me interessado em ler. Ele me apresentou mais um personagem marcante. Talvez o mais marcante de todos que eu conheço. Trata-se de Rodion Românovitch Raskólnikov... [ler o post](https://lesandrop.github.io/site/opinion/DizerDeRodionRomanovitchRaskolnikov.html)
 
 ---
 
