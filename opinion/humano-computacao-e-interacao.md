@@ -1,6 +1,6 @@
 [Home](https://lesandrop.github.io) | [blog](https://lesandrop.github.io/site/opinion/index.html)
 
-# Perspectivas de análise de como a relação entre o ser humano e a computação tem evoluído ao longo do tempo
+# Como a relação entre o ser humano e a computação tem evoluído ao longo do tempo e quais os riscos nessa evolução?
 
 **Lesandro Ponciano**
 
