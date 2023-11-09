@@ -76,6 +76,8 @@ SANDERS, E. B. N. From user-centered to participatory design approaches. In: Des
 
 SANTOS, Lesandro Ponciano dos. "Computação por humanos na perspectiva do engajamento e credibilidade de seres humanos e da replicação de tarefas." (2015). Disponível em: [http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/569/LESANDRO%20PONCIANO%20DOS%20SANTOS%20-%20TESE%20PPGCC%202015..pdf](http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/569/LESANDRO%20PONCIANO%20DOS%20SANTOS%20-%20TESE%20PPGCC%202015..pdf) Acesso em: 29 outubro 2023. 
 
+SMART, Paul; HALL, Wendy; BONIFACE, Michael. Extended Computation: Wide Computationalism in Reverse. In: Companion Publication of the 13th ACM Web Science Conference 2021. 2021. p. 76-79.
+
 TURING, Alan (1950). "Computing Machinery and Intelligence», Mind, LIX (236): 433–460, doi:[10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433)
 
 WING, J. M. Computational thinking. Communications of the ACM, v. 49, n. 3, p. 33-35, 2006
