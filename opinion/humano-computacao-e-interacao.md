@@ -6,7 +6,7 @@
 
 _09 de novembro de 2023_
 
-_Este texto foi elaborado como fala inicial no evento "Diálogos Pertinentes: Filosofia, Ética e Tecnologia" do IFTDJ/ PUC Minas. A gravação do evento está disponível no [canal do youtube do IFTDJ](https://www.youtube.com/watch?v=ROWl9Bj1HXY)._
+_Este texto foi elaborado como fala inicial no evento "Diálogos Pertinentes: Filosofia, Ética e Tecnologia" do IFTDJ/PUC Minas. A gravação do evento está disponível no [canal do youtube do IFTDJ](https://www.youtube.com/watch?v=ROWl9Bj1HXY)._
 
 
 Neste texto,  eu gostaria de me referir ao _ser humano_ ao criar e se relacionar com a tecnologia. Trato em particular das tecnologias da informação e comunicação. Essas tecnologias incluem processamento, armazenamento e transmissão de informação. Tudo isso vou tratar de forma ampla como _computação_.
@@ -17,7 +17,7 @@ A Ciência da Computação é uma área muito jovem. Quase 80 anos. Ao longo des
 
 Hoje o substantivo "computador" é empregado para designar uma máquina, um dispositivo eletrônico. Mas nem sempre foi assim. Há mais de 80 anos, antes das máquinas de computar serem criadas, esse termo "computador" era empregado para designar a _profissão_ de algumas pessoas. As pessoas que realizavam computação, criando tabelas logarítmicas, e de navegação. E, por isso, eram chamadas "computadores". Organizações tinham grandes salas, repletas desses computadores. Usavam caneta, papel, tabelas, vários recursos usados para otimizar o trabalho de calcular (velocidade e redução de erros). Alan Turing, em alguns dos seus trabalhos sobre o processo de computação, se inspirou na forma como essas pessoas trabalhavam. 
 
-Por que criar uma máquina de computar? Algumas contas somos capazes de fazer "de cabeça" (de modo mental), outras não. Todos nós já recorremos a papel e caneta para fazer uma conta que exigia mais etapas do que éramos capazes de memorizar. Caneta e papel tornam possível muitos cálculos. Mas com eles o cálculo ainda era lento. Hoje recorremos a computadores (máquinas). Eles são extremamente rápidos. Computadores realizam operações matemáticas bilhões de vezes mais rápido que os seres humanos. Provavelmente, os computadores que eram pessoas _foram os primeiros desempregados_ com o advento dos computadores que são máquinas.
+Por que criar uma máquina de computar? Algumas contas somos capazes de fazer "de cabeça" (de modo mental), outras não. Todos nós já recorremos a papel e caneta para fazer uma conta que exigia mais etapas do que éramos capazes de memorizar. Caneta e papel tornam possível muitos cálculos. Mas com eles o cálculo ainda era lento. Hoje recorremos aos computadores (máquinas). Eles são extremamente rápidos. Computadores realizam operações matemáticas bilhões de vezes mais rápido que os seres humanos. Provavelmente, os computadores que eram pessoas _foram os primeiros desempregados_ com o advento dos computadores que são máquinas.
 
 Cálculos são apenas um exemplo de computação. O universo de aplicação dos computadores é diverso. Hoje em dia há computação no relógio, na geladeira, além das formas tradicionais como tablet, smartphone, notebook e computador de mesa.
 
@@ -25,7 +25,7 @@ Cálculos são apenas um exemplo de computação. O universo de aplicação dos 
 
 O ser humano usa tecnologias de informação e comunicação como **Cognição estendida**. Nessa perspectia, a tecnologia é uma extensão do cérebro. Ela é empregada para realizar uma tarefa que excede os limites do nosso sistema cognitivo. Pode ser tanto um limite de armazenamento (não conseguimos lembrar de tudo) ou um limite de processamento (não conseguimos processar gigabytes de informação). Esses limites do ser humano na “tomada de decisão” foram estudados profundamente por Herbert Simon, criador da teoria da racionalidade limitada (_bounded rationality_). 
 
-Essa corrente de pensamento vê a computação como um complemento do nosso corpo. A computação que amplifica e adiciona às habilidades e capacidades que já temos, mas que são limitadas. Essa é uma das correntes que tentam explicar por que esses dispositivos se tornaram tão essenciais. Há um ciclo de dependência aqui. Quanto mais complexo é o ambiente à nossa volta, mais nós precisamos de tecnologias (com memória e processamento) para conseguir compreendê-lo. Mas quanto mais tecnologias usamos, mais complexo é o ambiente à nossa volta se torna.
+Essa corrente de pensamento vê a computação como um complemento do nosso corpo. A computação que amplifica e adiciona às habilidades e capacidades que já temos, mas que são limitadas. Essa é uma das correntes que tentam explicar por que esses dispositivos se tornaram tão essenciais. Há um ciclo de dependência aqui. Quanto mais complexo o ambiente à nossa volta, mais nós precisamos de tecnologias (com memória e processamento) para conseguir compreendê-lo. Mas quanto mais tecnologias usamos, mais complexo é o ambiente à nossa volta se torna. A tecnologia nos permite lidar com algumas complexidades, mas adiciona outras.
 
 ## Parceiro do discurso
 
@@ -37,7 +37,7 @@ Considere, por exemplo, em sistemas atuais como Cortana, Siri, ou ChatGPT, que t
 
 Para ser um _parceiro do discurso_, o computador deve se equiparar ao ser humano em termos de linguagem e _raciocínio_.  Isso nos traz outra perspectiva teórica e prática que evoluiu em paralelo ao longo das últimas décadas, que é a inteligência artificial. A origem dela, no contexto da computação, está, em grande parte, na análise técnica e filosófica feita por Alan Turing em um artigo publicado em 1950 na revista Mind. O artigo trata da relação entre máquina de computar e inteligência. Ele coloca a pergunta: **pode uma máquina pensar?** Aqui o conceito de _pensar_ ou de _ser inteligente_ é operacional. Pensa ou é inteligente aquilo que eu não consigo diferenciar de algo que eu sei que pensa ou que é inteligente, por exemplo, um ser humano. Desde essa concepção, a evolução da inteligência artificial foi grande. Hoje toda a sociedade (como nós aqui) debate esse assunto em razão das aplicações como ChatGPT, os assistentes pessoais, carros autônomos, Metaverso, Internet das Coisas.
 
-Para que possamos tratar desse assunto com rigor, é importante entender que a área de Inteligência Artificial **não é um monolito**. Há várias formas de aprendizagem por algoritmos que são estudadas nessa área, como aprendizagem por reforço, aprendizagem supervisionada, aprendizagem não-supervisionada, semi-supervisionada. Há abordagens de aprendizagem que são baseadas em dados fornecidos por seres humanos e outras abordagens de aprendizagem que não requer esse tipo de dados.
+Para que possamos tratar desse assunto com rigor, é importante entender que a área de Inteligência Artificial **não é um monólito**. Há várias formas de aprendizagem por algoritmos que são estudadas nessa área, como aprendizagem por reforço, aprendizagem supervisionada, aprendizagem não-supervisionada, semi-supervisionada. Há abordagens de aprendizagem que são baseadas em dados fornecidos por seres humanos e outras abordagens de aprendizagem que não requer esse tipo de dados.
 
 ## Computação estendida
 
