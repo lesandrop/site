@@ -8,7 +8,8 @@ _09 de novembro de 2023_
 
 _Este texto foi elaborado como fala inicial no evento "Diálogos Pertinentes: Filosofia, Ética e Tecnologia" do IFTDJ/ PUC Minas. A gravação do evento está disponível no [canal do youtube do IFTDJ](https://www.youtube.com/watch?v=ROWl9Bj1HXY)._
 
-Neste extexto,  eu gostaria de me referir ao _ser humano_ ao criar e se relacionar com a tecnologia. Trato em particular das tecnologias da informação e comunicação. Essas tecnologias incluem processamento, armazenamento e transmissão de informação. Tudo isso vou tratar de forma ampla como _computação_.
+
+Neste texto,  eu gostaria de me referir ao _ser humano_ ao criar e se relacionar com a tecnologia. Trato em particular das tecnologias da informação e comunicação. Essas tecnologias incluem processamento, armazenamento e transmissão de informação. Tudo isso vou tratar de forma ampla como _computação_.
 
 A Ciência da Computação é uma área muito jovem. Quase 80 anos. Ao longo desses anos, ela tem entrelaçado o pensar e o construir; a teoria e a engenharia. Há várias correntes de pensamento que se desenvolvem na medida em que a própria tecnologia é criada e aperfeiçoada. Vamos analisar algumas dessas correntes.
 
