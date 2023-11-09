@@ -2,6 +2,13 @@
 
 _[XML RSS feed](https://lesandrop.github.io/site/feed.xml)_
 
+
+### [Como a relação entre o ser humano e a computação tem evoluído ao longo do tempo e quais os riscos nessa evolução?](https://lesandrop.github.io/site/opinion/humano-computacao-e-interacao.html)
+
+_9/11/2023_
+
+Este texto foi elaborado como fala inicial no evento “Diálogos Pertinentes: Filosofia, Ética e Tecnologia” do IFTDJ/ PUC Minas. A Ciência da Computação é uma área muito jovem. Quase 80 anos. Ao longo desses anos, ela tem entrelaçado o pensar e o construir; a teoria e a engenharia. Há várias correntes de pensamento que se desenvolvem na medida em que a própria tecnologia é criada e aperfeiçoada. Vamos analisar algumas dessas correntes... [ler o post](https://lesandrop.github.io/site/opinion/humano-computacao-e-interacao.html)
+
 ### [O que dizer de Rodion Românovitch Raskólnikov?](https://lesandrop.github.io/site/opinion/DizerDeRodionRomanovitchRaskolnikov.html)
 
 _13/09/2023_
