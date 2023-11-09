@@ -81,3 +81,8 @@ SMART, Paul; HALL, Wendy; BONIFACE, Michael. Extended Computation: Wide Computat
 TURING, Alan (1950). "Computing Machinery and Intelligence», Mind, LIX (236): 433–460, doi:[10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433)
 
 WING, J. M. Computational thinking. Communications of the ACM, v. 49, n. 3, p. 33-35, 2006
+
+
+.
+
+_Você pode encontrar informações sobre mim no meu [site](https://lesandrop.github.io/). Quando escrevo algo, ele aparece [neste XML RSS feed](https://lesandrop.github.io/site/feed.xml), que pode ser cadastrado em leitores de XML RSS feed como a extensão para Chrome [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) ou [Feedly](https://feedly.com)._
