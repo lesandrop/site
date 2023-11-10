@@ -5,7 +5,7 @@
   <title>Lesandro Ponciano Web Site</title>
   <link>https://lesandrop.github.io/site/opinion/index.html</link>
   <description>Textos e atualizações</description>
-  <items>
+  <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Como a relação entre o ser humano e a computação tem evoluído ao longo do tempo e quais os riscos nessa evolução?</title>
     <pubDate>9 de novembro de 2023</pubDate>
@@ -104,6 +104,5 @@
     <description>Minhas percepções sobre a história de Aaron Swartz.</description>
     <guid>https://lesandrop.github.io/site/opinion/blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html</guid>
   </item>
-  </items>
 </channel>
 </rss>
