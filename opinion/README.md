@@ -2,6 +2,11 @@
 
 _[XML RSS feed](https://lesandrop.github.io/site/feed.xml)_
 
+### [Como os cidadãos se engajam com a presença das autoridades climáticas nas redes sociais?](https://lesandrop.github.io/site/opinion/citizen-authority-communication.html)
+
+_12/12/2023_
+
+Este texto apresenta uma análise do artigo científico "How citizens engage with the social media presence of climate authorities: the case of five Brazilian cities." publicado na revista npj Climate Action... [ler o post](https://lesandrop.github.io/site/opinion/citizen-authority-communication.html)
 
 ### [Como a relação entre o ser humano e a computação tem evoluído ao longo do tempo e quais os riscos nessa evolução?](https://lesandrop.github.io/site/opinion/humano-computacao-e-interacao.html)
 
