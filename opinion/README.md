@@ -2,6 +2,12 @@
 
 _[XML RSS feed](https://lesandrop.github.io/site/feed.xml)_
 
+### [Autoridades climáticas governamentais nas redes sociais: um estudo desencadeado por atividades nas redes sociais no dia mais chuvoso da história de uma cidade Brasileira](https://lesandrop.github.io/site/opinion/autoridadesClimaticasRedesSociais.html)
+
+_30/12/2023_
+
+No mês de janeiro de 2020, ocorreu uma grande chuva na cidade de Belo Horizonte, onde resido. Trata-se de uma cidade localizada no sudeste do Brasil e que tem mais de 2.5 milhões de habitantes. O evento climático de 2020, incluiu o que foi considerado o dia mais chuvoso da história da cidade de Belo Horizonte, que tem pouco mais de 100 anos. Durante o evento, as redes sociais  (o Twitter, atual X, em particular) foram inundadas de imagens e vídeos de enchentes em várias partes da cidade. Eu procurei informações oficiais do setor público municipal e tive mais dificuldade do que achei que teria...[ler o post](https://lesandrop.github.io/site/opinion/autoridadesClimaticasRedesSociais.html)
+
 ### [Como os cidadãos se engajam com a presença das autoridades climáticas nas redes sociais?](https://lesandrop.github.io/site/opinion/citizen-authority-communication.html)
 
 _12/12/2023_
