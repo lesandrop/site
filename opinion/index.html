@@ -47,12 +47,12 @@ fetch(RSS_URL)
       html += `
         <div class="div-1">
           <h3>
-            <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
+            <a href="${el.querySelector("link").innerHTML}">
               ${el.querySelector("title").innerHTML}
             </a>
           </h3>
           <p><em>${el.querySelector("pubDate").innerHTML}</em></p>
-          <p>${el.querySelector("description").innerHTML} <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
+          <p>${el.querySelector("description").innerHTML} <a href="${el.querySelector("link").innerHTML}">
              leia o texto.
             </a> </p> 
         </div>
