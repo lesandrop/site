@@ -14,15 +14,15 @@ Além da principal cidade de interesse, Belo Horizonte, o estudo abrangeu todas 
 
 Muito do estudo de engajamento foi inspirado por pesquisas de análise de padrões de participação das pessoas em sistemas sociotécnicos (O’Brien and Toms 2008; Ponciano and Brasileiro 2014). O framework de presença social, por sua vez, eu não havia utilizado em estudo anterior. Além de caracterizar a atuação prática das autoridades climáticas, o estudo permitiu produzir novos registros sobre engajamento humano. Enquanto alguns padrões de engajamento se assemelham aos observados em outros sistemas sociotécnicos, outros padrões se mostraram diferentes. O resultado que mais me impressionou foi o fato de que os cidadãos raramente associam o evento climático local ao fenômeno global das mudanças climáticas.
 
-Pessoalmente, o estudo foi elucidador de por que não notei a presença da autoridade climática não de modo proeminente no evento climático de 2020. O que ocorre é que essas autoridades possuem uma presença em mídias sociais que é muito formal e estruturada. As autoridades publicam conteúdo padronizado para situações típicas e raramente se engajam na discussão provocada pelos cidadãos. O tipo de informação (vídeos de enchentes, fotos, etc), que geralmente circulam intensamente nas redes, não é o tipo de informação que as autoridades climáticas publicam. As autoridades buscam informar e não engajar.
+Pessoalmente, o estudo foi elucidador de por que não notei a presença da autoridade climática de modo proeminente no evento climático de 2020. O que ocorre é que essas autoridades possuem uma presença em mídias sociais que é muito formal e estruturada. As autoridades publicam conteúdo padronizado para situações típicas e raramente se engajam na discussão provocada pelos cidadãos. O tipo de informação (vídeos de enchentes, fotos, etc), que geralmente circulam intensamente nas redes, não é o tipo de informação que as autoridades climáticas publicam. As autoridades buscam informar e não engajar.
 
 **Referências**
 
 O’Brien, H. L., and Toms, E. G. What is user engagement? A conceptual framework for defining user engagement with technology. Journal of the American Society for Information Science and Technology, 59(6), 938–955 (2008).
 
-Ponciano, L. How citizens engage with the social media presence of climate authorities: the case of five Brazilian cities. npj Climate Action 2, 44 (2023).
+Ponciano, L. How citizens engage with the social media presence of climate authorities: the case of five Brazilian cities. npj Climate Action 2, 44 (2023). [https://doi.org/10.1038/s44168-023-00080-3](https://doi.org/10.1038/s44168-023-00080-3)
 
-Ponciano, L. and Brasileiro, F. Finding Volunteers’ Engagement Profiles in Human Computation for Citizen Science Projects. Human Computation. 1, 2 (2014).
+Ponciano, L. and Brasileiro, F. Finding Volunteers’ Engagement Profiles in Human Computation for Citizen Science Projects. Human Computation. 1, 2 (2014). [https://doi.org/10.15346/hc.v1i2.12](https://doi.org/10.15346/hc.v1i2.12)
 
 
 
