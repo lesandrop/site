@@ -13,3 +13,5 @@
 
 
 ### Cartão de Suporte de SO
+
+Um cartão de suporte (_reference card_ ou _support card_) foi criado para ser usado na disciplina. O cartão está disponível em [Cartão de Suporte de Sistemas Operacionais](https://lesandrop.github.io/site/teaching/Sistemas%20Operacionais%20-%20Cartao%20de%20Suporte.pdf). O processo de criação de cartões de suporte é descrito no artigo ["HCI Support Card: Creating and Using a Support Card for Education in Human-Computer Interaction"](https://arxiv.org/abs/1909.06857).
