@@ -1,7 +1,7 @@
 import requests
 import json
 
-usuario = "" #Precisa ser configurado
+usuario = "lesandrop" #Precisa ser configurado
 token="" #Precisa ser configurado
 
 commits_url = f'https://api.github.com/repos/facebook/react/commits?per_page=100&page=1'
