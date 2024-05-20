@@ -20,5 +20,5 @@ Os objetivos específicos são:
 2. ...
 3. ...
    
-# Metodologia
+# Materiais e Métodos
 Descrever ferramentas, dados, questionários, métricas, forma de amostragem, análise estatística que, quando aplicados, permitem alcançar os objetivos e resolver o problema proposto.
