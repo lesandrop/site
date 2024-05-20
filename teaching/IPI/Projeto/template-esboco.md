@@ -1,3 +1,10 @@
+# Equipe
+
+* Nome do aluno 1
+* Nome do aluno 2
+* Nome do aluno 3 (se houver)
+* Nome do orientador acadêmico e de conteúdo
+
 # Tema
 O tema tratado na pesquisa é ...
 
