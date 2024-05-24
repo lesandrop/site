@@ -101,6 +101,8 @@ https://lesandrop.github.io/site/opinion/citizen-authority-communication.html
 https://lesandrop.github.io/site/opinion/autoridadesClimaticasRedesSociais.html
 https://lesandrop.github.io/site/teaching/IPI/index.html
 https://lesandrop.github.io/site/teaching/IHC/index.html
+https://lesandrop.github.io/site/teaching/PS/index.html
+https://lesandrop.github.io/site/teaching/SO/index.html
 https://lesandrop.github.io/site/teaching/IHC/IHC-01-Os%20sistemas%20interativos%20na%20atividade%20humana.pdf
 https://lesandrop.github.io/site/teaching/IHC/IHC-02-Com%20quem%20ou%20com%20o%20que%20o%20ser%20humano%20interage.pdf
 https://lesandrop.github.io/site/teaching/IHC/IHC-03-Qual%20é%20o%20escopo%20da%20Interação%20Humano-Computador.pdf
