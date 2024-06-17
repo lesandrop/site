@@ -124,6 +124,7 @@ https://lesandrop.github.io/site/teaching/IHC/IHC-17-Avaliação%20Semiótica.pd
 https://lesandrop.github.io/site/teaching/IHC/IHC-18-Avaliação%20da%20acessibilidade.pdf
 https://lesandrop.github.io/site/teaching/IHC/IHC-19-Teste%20de%20Usabilidade.pdf
 https://lesandrop.github.io/site/teaching/IHC/IHC-20-Investigação%20da%20Usabilidade.pdf
+https://lesandrop.github.io/site/teaching/IHC/IHC-21-Compara%C3%A7%C3%A3o%20de%20M%C3%A9todos%20de%20Avalia%C3%A7%C3%A3o.pdf
 https://lesandrop.github.io/site/opinion/DiaNacionalConscientizacaoSobreMudancasClimaticas2024.html
 https://lesandrop.github.io/site/teaching/TS/TS-00-NivelamentoRequisitosEProcessosDeSoftware.pdf
 https://lesandrop.github.io/site/teaching/TS/TS-01-TesteNaQualidadeDeSoftware.pdf
@@ -169,3 +170,6 @@ https://lesandrop.github.io/site/teaching/SO/SO-14-MemoriaVirtual.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-15-Aloca%C3%A7%C3%A3oDeQuadrosDaMem%C3%B3ria.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-16-InterfaceDoSistemaDeArquivos.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-17-ImplementacaoDoSistemaDeArquivos.pdf
+https://lesandrop.github.io/site/teaching/SO/SO-18-Estrutura%20de%20Armazenamento%20de%20Massa.pdf
+https://lesandrop.github.io/site/teaching/SO/SO-19-EscalonamentoDoDisco.pdf
+https://lesandrop.github.io/site/teaching/SO/SO-20-Sistemas%20de%20ES.pdf
