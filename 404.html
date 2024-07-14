@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"
+    />
+    <title>Page not found</title>
+    <style type="text/css" media="screen">
+      // style your 404 nicely
+    </style>
+  </head>
+  <body onload="redirect()">
+    <div class="container">
+      <h1>404</h1>
+      <p><strong>File not found</strong></p>
+      <p>The requested resource does not exist.</p>
+      <div id="suggestions">
+        <a href="/">Bring me back!</a>
+      </div>
+    </div>
+  </body>
+  <script>
+    function redirect() {
+      if (window.location.pathname === '/site/teaching/Teste%20de%20Software%20-%20Cartão%20de%20Suporte.pdf') {
+        window.location = 'https://lesandrop.github.io/site/teaching/Teste%20de%20Software%20-%20Cart%C3%A3o%20de%20Suporte.pdf';
+      }
+    }
+  </script>
+</html>
