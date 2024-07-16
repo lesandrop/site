@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en-US">
-  <head>
+<html lang="pt-BR">
+
+<head>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
@@ -19,19 +20,37 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Lesandro Ponciano's Blog</title>
 
+   <!-- Favicon -->   
+	<link href="../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+
 <style>
     .div-1 {
         background-color: #EBEBEB;
     }
 </style>
-<link rel="stylesheet" href="/site/css/pandoc.css" />
+
+  <link rel="stylesheet" href="../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <link rel="stylesheet" href="../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../css/pandoc.css" />
 
  </head>
 
 <body>
 
-<p><a href="https://lesandrop.github.io">Home</a> / Lesandro Ponciano's Blog</p>
-<p><a href="https://lesandrop.github.io/site/feed.xml">XML RSS feed</a></p>
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="col-md-8 text-md-right">
+               <a href="https://lesandrop.github.io">Home</a> > Lesandro Ponciano's Blog
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+
 
 <script>
 const RSS_URL = `https://lesandrop.github.io/site/feed.xml`;
@@ -42,7 +61,10 @@ fetch(RSS_URL)
   .then(data => {
     console.log(data);
     const items = data.querySelectorAll("item");
-    let html = ``;
+    let html = `<div class="content">
+
+          <p><a href="https://lesandrop.github.io/site/feed.xml">XML RSS feed</a></p>
+     `;
     items.forEach(el => {
       html += `
         <div class="div-1">
@@ -58,8 +80,19 @@ fetch(RSS_URL)
         </div>
       `;
     });
+    html += `</div>
+    	<footer class="footer-section">
+		<div class="container text-center">
+			<div class="copyright">
+The source code of this page is available at https://github.com/lesandrop
+			</div>
+		</div>
+	</footer>
+	      `;
     document.body.insertAdjacentHTML("beforeend", html);
   });
 </script>
+
+
  </body>
 </html>
