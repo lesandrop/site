@@ -367,7 +367,7 @@ ol {
 	Header section
 -----------------------*/
 .header-section {
-	padding: 30px 20px;
+	padding: 15px 0;
 	background: #f2f7f8;
 }
 
@@ -687,7 +687,7 @@ ol {
 -----------------------*/
 .footer-section {
 	background: #40424a;
-	padding: 20px 0;
+	padding: 10px 0;
 }
 
 .copyright {
@@ -842,7 +842,7 @@ ol {
 
 .home-three-style .header-section,
 .home-four-style .header-section {
-	padding: 50px 80px;
+	padding: 15px 0;
 	background: transparent;
 	position: absolute;
 	width: 100%;
@@ -1013,7 +1013,7 @@ ol {
 	Home 5 Style
 -----------------------*/
 .home-five-style .header-section {
-	padding: 50px 80px;
+	padding: 15px 0;
 	background: transparent;
 	position: absolute;
 	width: 100%;
@@ -1118,7 +1118,7 @@ ol {
 }
 
 .home-six-style .header-section {
-	padding: 50px 80px;
+	padding: 15px 0;
 	background: transparent;
 	position: absolute;
 	width: 100%;
@@ -1247,7 +1247,7 @@ ol {
 		height: 310px;
 	}
 	.home-three-style .header-section {
-		padding: 50px 30px;
+		padding: 15px 0;
 	}
 	.home-three-style .main-left-area {
 		padding-right: 30px;
@@ -1264,7 +1264,7 @@ ol {
 		padding: 0;
 	}
 	.home-three-style .header-section {
-		padding: 50px 15px;
+		padding: 15px 0;
 	}
 	.home-three-style .main-left-area {
 		padding-right: 15px;
@@ -1323,7 +1323,7 @@ ol {
 	}
 	.home-five-style .header-section,
 	.home-six-style .header-section {
-		padding: 50px 0;
+		padding: 15px 0;
 	}
 	.info-section .hero-info ul li span {
 		color: #9c9b9b;
@@ -1375,7 +1375,7 @@ ol {
 		margin-bottom: 30px;
 	}
 	.header-section {
-		padding: 50px 0;
+		padding: 15px 0;
 	}
 	.social-section .social-links {
 		display: block;
@@ -1399,7 +1399,7 @@ ol {
 	}
 	.home-five-style .header-section,
 	.home-six-style .header-section {
-		padding: 50px 0;
+		padding: 15px 0;
 	}
 	.info-section .hero-info ul li span {
 		color: #9c9b9b;
