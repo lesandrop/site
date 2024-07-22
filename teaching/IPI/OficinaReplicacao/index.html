@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Oficina de Replicação</title>
+  
+    <!-- Favicon -->   
+  <link href="../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+  
+  
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+
+  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../../css/style.css" />
+  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../../css/pandoc.css" />
+
+</head>
+<body>
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="col-md-8 text-md-right">
+               <a href="https://lesandrop.github.io">Home</a> > <a href="https://lesandrop.github.io/site/teaching/index.html">Teaching</a> > <a href="https://lesandrop.github.io/site/teaching/IPI/index.html">IPI</a> > Oficina de Replicação Científica
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+
+
+<div class="content">
+
+<h1 id="códigos-da-replicação-científica">Códigos da Replicação Científica</h1>
+<p>Esta página apresenta os códigos e dados da oficina de replicação científica.</p>
+
+<h2 id="conceito">Conceito de replicação</h2>
+<p>Há três conceitos relacionados: repetição, replicação e reprodução. A esta oficina interessa apenas o conceito de replicação. Dada uma análise <em>A</em> conduzida no contexto <em>C</em>, replicar essa análise sinifica aplicá-la em um contexto <em>D</em>, que é diferente do contexto <em>C</em>. Nesse caso, tem-se o reuso do método <em>A</em>, mas não dos dados <em>C</em>. Os resultados da replicação em <em>D</em> podem ser diferentes dos resultados que tinham sido obtidos em <em>C</em>.</p>
+
+<h2 id="artigo-base-da-replicação-e-análise-replicada">Artigo-base da replicação e análise replicada</h2>
+<p>O artigo <a href="https://doi.org/10.1109/MCSE.2014.4">Volunteers’ Engagement in Human Computation for Astronomy Projects</a> apresenta uma análise de atividades de voluntários em projetos de ciência cidadã, padrão de que uma minoria de voluntários contribui em muitos dias e uma maioria de voluntários contribui em poucos dias. Ela é materializada como resultado na Figura 3 do artigo.</p>
+
+<img src="Fig3-Ponciano2014.png" style="max-width:100%;" alt="Figura extraída de Ponciano et al (2024) e que mostra no eixo x um ranque de voluntários e no eixo y o número de dias de participação. Poucas pessoas participam em muitos dias.">
+
+<p>O objetivo da oficina de replicação é replicar essa análise para o contexto do repositório de software <code>react</code>. Ou seja,  busca-se responder à seguinte pergunta:  <em>no repositório <code>react</code> há uma minoria de programadores que contribui em muitos dias e uma maioria de programadores que contribui em poucos dias?</em></p>
+
+<h2 id="fases-da-replicação-e-códigos-associados">Fases da replicação e códigos associados</h2>
+<ol type="1">
+<li>Coletar dados de cada commit feito no repositório. Código <a href="getCommits.py"><code>getCommits.py</code></a>;</li>
+<li>Para cada programador, calcular a quantidade de dias em que fez pelo menos um commit no repositório. Código <a href="getDays.py"><code>getDays.py</code></a></li>
+<li>Gerar o gráfico com mesma lógica (eixos X e Y) do artigo-base. Código <a href="graphActivity.R"><code>graphActivity</code></a></li>
+</ol>
+
+<h2 id="dados-usados-coletados-e-gerados-na-replicação">Dados usados coletados e gerados na replicação</h2>
+<p>Os dados brutos coletados por meio da API estão no arquivo <a href="data.json"><code>data.json</code></a>, a coleta foi feita em 01/05/2024. Os dados finais, totalmente processados e prontos para serem exibidos no gráfico, estão no arquivo <a href="activity.data"><code>activity.data</code></a>. O gráfico resultante é <a href="Rplots.pdf"><code>Rplots.pdf</code></a>. </p>
+
+<img src="Rplot-replicacao.png" style="max-width:100%;" alt="Figura da replicação e que mostra no eixo x um ranque de voluntários e no eixo y o número de dias de participação. Poucas pessoas participam em muitos dias.">
+<hr />
+
+</div>
+	<!-- Footer section start -->
+	<footer class="footer-section">
+		<div class="container text-center">
+			<div class="copyright">
+                 The source code of this page is available at https://github.com/lesandrop
+			</div>
+		</div>
+	</footer>
+	<!-- Footer section end -->
+
+</body>
+</html>
