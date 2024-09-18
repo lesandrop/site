@@ -137,6 +137,7 @@ https://lesandrop.github.io/site/teaching/IPI/IPI-11-Projeto-3-MateriaisM%C3%A9t
 https://lesandrop.github.io/site/teaching/IPI/IPI-12-Projeto-4-Classifica%C3%A7%C3%A3oDePesquisa.pdf
 https://lesandrop.github.io/site/teaching/IPI/OficinaReplicacao/index.html
 https://lesandrop.github.io/site/teaching/IPI/dicasDeApresentacao.html
+https://lesandrop.github.io/site/teaching/IPI/percursoPesquisaGraduacao.html
 https://lesandrop.github.io/site/teaching/SO/SO-01-Nivelamento.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-02-ContextualizacaoFuncionamentoDeSOs.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-03-ProjetoEstruturaDeSOs.pdf
