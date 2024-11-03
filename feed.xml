@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-  <title>Blog do Prof. Lesandro Ponciano</title>
+  <title>Academizando Blog</title>
   <link>https://lesandrop.github.io/site/opinion/index.html</link>
   <description>Ciência, educação e reflexões sociais. </description>
   <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
