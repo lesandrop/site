@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-  <title>Lesandro Ponciano Web Site</title>
+  <title>Blog do Prof. Lesandro Ponciano</title>
   <link>https://lesandrop.github.io/site/opinion/index.html</link>
-  <description>Textos e atualizações</description>
+  <description>Ciência, educação e reflexões sociais. </description>
   <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Sustentabilidade sob diferentes olhares: Reflexões e Perspectivas do PSVS24</title>
