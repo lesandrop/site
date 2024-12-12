@@ -58,6 +58,7 @@ https://lesandrop.github.io/site/papers/ic2007avanco2fulltext.pdf
 https://lesandrop.github.io/site/papers/ic2007propostafulltext.pdf
 https://lesandrop.github.io/site/papers/mendeleyCatalog.html
 https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Cap%C3%ADtulo21-2022.pdf
+https://lesandrop.github.io/site/papers/CitizensEngageWithClimateAuthorities.pdf
 https://lesandrop.github.io/site/teaching/SO/Sistemas%20Operacionais%20-%20Cartao%20de%20Suporte.pdf
 https://lesandrop.github.io/site/teaching/TS/Teste%20de%20Software%20-%20Cart%C3%A3o%20de%20Suporte.pdf
 https://lesandrop.github.io/site/teaching/IHC/Intera%C3%A7%C3%A3o%20Humano-Computador%20-%20Cart%C3%A3o%20de%20Suporte.pdf
