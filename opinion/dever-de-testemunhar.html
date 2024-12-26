@@ -2,6 +2,7 @@
 <html lang="pt-BR">
 
 <head>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
 <script>
@@ -13,12 +14,12 @@
 </script>
 
   <meta charset="utf-8" />
-  <meta name="description" content="Atividade prática de algoritmos de substituição de Páginas em Memória Virtual">
+  <meta name="description" content="Testemunhar é declarar ter visto, declarar ter ouvido e declarar ter conhecido. Se não se pode agir ou se qualquer ação que se tenta se mostra inócua, ainda pode-se testemunhar.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Prática - Substituição de Páginas em Memória Virtual</title>
+  <title> Na impossibilidade de agir contra malfeitos e atrocidades, pode-se testemunhar</title>
   
   <!-- Favicon -->   
-  <link href="../../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+  <link href="../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
 
   <style type="text/css">
       code{white-space: pre-wrap;}
@@ -27,10 +28,10 @@
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
   
-  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
-  <link rel="stylesheet" href="../../../css/style.css" />
-  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
-  <link rel="stylesheet" href="../../../css/pandoc.css" />
+  <link rel="stylesheet" href="../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <link rel="stylesheet" href="../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../css/pandoc.css" />
 
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
      crossorigin="anonymous"></script>
@@ -44,7 +45,7 @@
       <div class="row">	
 	    <div class="col-md-4">
 		   <div class="col-md-8 text-md-right">
-               <a href="../../../index.html">Home</a> > <a href="../../index.html">Teaching</a> > <a href="../index.html">Teaching</a>
+               <a href="../index.html">Home</a> > <a href="index.html">blog</a>
            </div>
         </div>
      </div>
@@ -52,84 +53,38 @@
 </header>
 <div class="content">
 
-<h1>Prática - Substituição de Páginas em Memória Virtual</h1>
+<h1 id="dever-de-testemunhar">Na impossibilidade de agir contra malfeitos e atrocidades, pode-se testemunhar</h1>
 
-<p><strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../img/ORCID-iD_icon_24x24.png" alt="ORCID iD"/></a></p>
-<p><i>Última atualização: 26 de dezembro de 2024</i></p>
+<p><strong>Lesandro Ponciano</strong></p>
+<p><i>28 de novembro de 2024</i></p>
 
-    <h2>Objetivos</h2>
-    <p>
-      Esta prática tem por objetivo permitir ao aluno exercitar seus
-      conhecimentos de memória virtual de forma prática. Os objetivos
-      específicos são: exercitar a escrita e leitura em sistemas de arquivos por
-      meio de linguagem de programação; exercitar a programação de algoritmos e
-      estruturas de dados relevantes à implementação de módulos do sistema
-      operacional.
-    </p>
+<p style="margin-left: 50px;"> Estes são tempos de muita divisão e pouco consenso. Diante da necessidade de ações climáticas urgentes, os governos respondem com inércia e impasse, <a href="https://www.bbc.com/portuguese/articles/cyv7zye438lo"> não onerando aqueles que são os maiores causadores do problema</a>. Grandes empresas de tecnologias da informação e comunicação se colocam como donas do mundo, <a href="https://www.correiobraziliense.com.br/politica/2024/10/6963993-entenda-os-desafios-para-a-regulacao-das-big-techs.html"> não reguláveis</a>, como se estivessem acima dos direitos das pessoas e de governos. Comportamentos <a href="https://oglobo.globo.com/brasil/noticia/2024/02/28/xenofobia-violencia-e-discriminacao-relembre-casos-de-brasileiros-agredidos-em-portugal.ghtml"> discriminatórios e preconceituosos</a>, antes ocultos, agora são explicitados contra imigrantes, pobres e toda sorte de menos favorecidos. Guerras quentes e frias se desenham e se desenrolam em novos <a href="https://news.un.org/pt/story/2024/10/1839721"> conflitos entre países</a>. Massacres de inocentes que não têm como se defender. Se antes buscava-se a globalização, agora busca-se a separação. Se antes buscava-se abrir as fronteiras, <a href="https://www.cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/trump-promete-perfurar-e-fechar-fronteiras-em-1o-dia-de-trabalho/"> hoje muitos querem fechá-las</a>.</p>
 
-    <h2>O que deve ser feito</h2>
-    <p>
-      Foram estudados algoritmos de substituição de páginas em memória virtual
-      (FIFO, LRU, LFU, OPT, MFU). Neste trabalho, deve-se implementar um
-      programa em linguagem C/C++ que faz a simulação e a execução desses
-      algoritmos de substituição. O programa deve realizar a simulação da
-      substituição de páginas de acordo com a seguinte especificação:
-    </p>
-    <ul>
-      <li>
-        ler como entrada o arquivo <em>entrada.txt</em> contendo a sequência de
-        referência e o tamanho da memória em quadros. Por exemplo, para a
-        sequência: 2, 3, 4, 6, 6, 7 e o tamanho da memória de 5 quadros o
-        arquivo seria conforme a Figura 1.
-      </li>
-      <li>
-        gerar como saída o arquivo <em>saida.txt</em> contendo a evolução da
-        memória, as páginas que deram acerto, o total de erros, o total de
-        requisições e a taxa de erro. Por exemplo, para a entrada referente à
-        Figura 1, a saída correta, para uma política X é a mostrada na Figura 2.
-      </li>
-    </ul>
+<p style="margin-left: 50px;"> Este é um tempo cheio de malfeitos e atrocidades. Quando leis, regras, acordos e combinados parecem ter sido esquecidos. Quando o dinheiro, a pressão e a influência substituem os fatos e as evidências na análise do que é certo e errado. Quando a busca desenfreada pelo dinheiro se torna o norte da ação de muitos. Quando o desejo é destruir o que existe, mesmo sem saber o que se deseja colocar no lugar. Quando tudo isso está colocado, o que pode fazer o indivíduo que é contrário a elas?</p>
 
-    <table>
-      <tr>
-        <td>
-          <p>2, 3, 4, 6, 6, 7</p>
-          <p>5</p>
-        </td>
-      </tr>
-      <caption>Exemplo de arquivo entrada.txt</caption>
-    </table>
+<p style="margin-left: 50px;"> Sente-se inpotente o indivíduo que é contrário às sandices daqueles que estão em posição de liderança e poder ou que querem se colocar como superiores aos outros. É dura a luta contra a inércia dos governantes diante das mudanças climáticas, contra as grandes corporações internacionais, contra um movimento conservador ou contra aqueles que querem uma guerra. Contra eles há muitas vezes a impossibilidade de agir, pela inefetividade da ação ou por ela não estar ao alcance das mãos. Assim acumula-se angústia e ansiedade. O que o indivíduo lúcido pode fazer? </p>
 
-   <table>
-      <tr>
-        <td>
-          <p>EVOLUCAO</p>
-          <pre>2 2 2 2 _ 2</pre>
-          <pre>  3 3 3 _ 3</pre>
-          <pre>    4 4 _ 4</pre>
-          <pre>      6 _ 6</pre>
-          <pre>          7</pre>
-          <p>ACERTOS</p>
-          <p>6</p>
-          <p>ERROS</p>
-          <p>5</p>
-          <p>TOTAL REQUISICOES</p>
-          <p>6</p>
-          <p>TAXA DE ERRO</p>
-          <p>0.83</p>
-        </td>
-      </tr>
-      <caption>Exemplo de arquivo saida.txt</caption>
-    </table>
+<p> Quase como um monólogo, se desenvolve a conversa no café entre dois amigos, um jovem e um senhor. Estão em uma sala mal iluminada de uma casa simples, típica do interior de Minas Gerais. Sentado em uma cadeira antiga e protegido do frio por algumas mantas, o senhor já fisicamente fragilizado pela idade escutou a descrição e a pergunta do jovem. Após a pausa que se seguiu à pergunta, disse o senhor: "ele pode testemunhar". Essa resposta sai despretensiosa, como alguém que diz, mas logo esquece o que disse, sem se prender em pensamento. O jovem, no entanto, segue pensando no que foi dito.</p>
 
-<h2>Material de Apoio</h2>
+<p> “Testemunhar”. Eis uma palavra intrigante. Seu significado se coloca entre a mera observação e a ação. Testemunhar é declarar ter visto, declarar ter ouvido e declarar ter conhecido. Se não se pode agir ou se qualquer ação que se tenta se mostra inócua, ainda pode-se testemunhar. Pode-se registrar, dizer e declarar ter visto. Cuidar para que malfeitos e atrocidades não fiquem ocultos. Combater o eufemismo que tenta suavizar e esconder a realidade. Só se dispõe a testemunhar quem não é indiferente, quem se importa, quem, se pudesse, teria agido. Testemunhar é o ato ousado de criar memória de malfeitos e atrocidades que alguém deseja (ou um dia desejará) que sejam esquecidos. A motivação do testemunho é a indignação diante do que se vê e é a obrigação de não ser conivente.</p>
 
+<p> São muitos testemunhos destes tempos. Cientistas declaram diariamente que estão vendo os ecossistemas colapsarem. Ativistas declaram os horrores e atrocidades das guerras. Os menos favorecidos declaram que estão vendo a discriminação e o preconceito que sofrem. Jornalistas declaram que estão vendo a fome, os malfeitos e o abandono dos que mais precisam. Em pequenas reuniões, almoços, encontros, conversas, pessoas anônimas têm a coragem de ser testemunhas da sandice da realidade que veem. Algumas vezes esses indivíduos se encontram, se manifestam para declararem juntos o que estão vendo. Já não se trata mais de testemunhos isolados, mas de um movimento por mudança. </p>
+
+<p>...</p>
+
+<p> Caso você tenha gostado deste texto, talvez também se interesse por:</p> 
 <ul>
-  <li><a href="../SO-14-MemoriaVirtual.pdf">"Memória Virtual: Algoritmos de Substituição de Páginas"</a></li>
-  <li><a href="https://doi.org/10.1007/s13173-013-0112-z">"BitTorrent traffic from a caching perspective"</a> mostra as políticas de substituição sendo aplicadas no contexto mais amplo de Caching Web e BitTorrent</li>
+  <li><a href="autoridadesClimaticasRedesSociais.html">"Autoridades climáticas governamentais nas redes sociais: um estudo desencadeado por atividades nas redes sociais no dia mais chuvoso da história de uma cidade Brasileira" </a></li>
+  <li><a href="./blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html">"Aaron Swartz e o uso da tecnologia para melhorar o mundo e não para torná-lo um lugar pior" </a></li>
+  <li><a href="twittereacontradicao.html">"Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição" </a></li>
 </ul>
 
+<p>.</p>
+	
+<p><em>Você pode encontrar informações sobre mim no meu <a href="../index.html">site</a>. Quando escrevo algo, ele aparece <a href="https://lesandrop.github.io/site/feed.xml">neste XML RSS feed</a>, que pode ser cadastrado em leitores de XML RSS feed como a extensão para Chrome <a href="https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp">RSS Feed Reader</a> ou <a href="https://feedly.com">Feedly</a>.</em></p>
+
 </div>
+
 <footer class="footer-section">
     <div class="container text-center">
 	   <div class="copyright">
