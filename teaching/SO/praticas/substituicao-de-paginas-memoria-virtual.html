@@ -18,7 +18,7 @@
   <title>Prática - Substituição de Páginas em Memória Virtual</title>
   
   <!-- Favicon -->   
-  <link href="../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+  <link href="../../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
 
   <style type="text/css">
       code{white-space: pre-wrap;}
@@ -27,10 +27,10 @@
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
   
-  <link rel="stylesheet" href="../css/bootstrap.min.css" />
-  <link rel="stylesheet" href="../css/style.css" />
-  <link rel="stylesheet" href="../css/font-awesome.min.css"/>
-  <link rel="stylesheet" href="../css/pandoc.css" />
+  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../../css/style.css" />
+  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../../css/pandoc.css" />
 
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
      crossorigin="anonymous"></script>
@@ -59,19 +59,34 @@
 
     <h2>Objetivos</h2>
     <p>
-      Esta prática tem por objetivo permitir ao aluno exercitar seus conhecimentos de memória virtual de forma prática. Os objetivos específicos são: exercitar a escrita e leitura em sistemas de arquivos por meio de linguagem de programação; exercitar a programação de algoritmos e estruturas de dados relevantes à implementação de módulos do sistema operacional.
+      Esta prática tem por objetivo permitir ao aluno exercitar seus
+      conhecimentos de memória virtual de forma prática. Os objetivos
+      específicos são: exercitar a escrita e leitura em sistemas de arquivos por
+      meio de linguagem de programação; exercitar a programação de algoritmos e
+      estruturas de dados relevantes à implementação de módulos do sistema
+      operacional.
     </p>
 
     <h2>O que deve ser feito</h2>
     <p>
-      Foram estudados algoritmos de substituição de páginas em memória virtual  (FIFO, LRU, LFU, OPT, MFU). Neste trabalho, deve-se implementar um programa em linguagem C/C++ que faz a simulação e a execução desses algoritmos de substituição. O programa deve realizar a simulação da substituição de páginas de acordo com a seguinte especificação:
+      Foram estudados algoritmos de substituição de páginas em memória virtual
+      (FIFO, LRU, LFU, OPT, MFU). Neste trabalho, deve-se implementar um
+      programa em linguagem C/C++ que faz a simulação e a execução desses
+      algoritmos de substituição. O programa deve realizar a simulação da
+      substituição de páginas de acordo com a seguinte especificação:
     </p>
     <ul>
       <li>
-        ler como entrada o arquivo <em>entrada.txt</em> contendo a sequência de referência e o tamanho da memória em quadros. Por exemplo, para a sequência: 2, 3, 4, 6, 6, 7 e o tamanho da memória de 5 quadros o arquivo seria conforme a Tabela 1.
+        ler como entrada o arquivo <em>entrada.txt</em> contendo a sequência de
+        referência e o tamanho da memória em quadros. Por exemplo, para a
+        sequência: 2, 3, 4, 6, 6, 7 e o tamanho da memória de 5 quadros o
+        arquivo seria conforme a Figura 1.
       </li>
       <li>
-        gerar como saída o arquivo <em>saida.txt</em> contendo a evolução da memória, as páginas que deram acerto, o total de erros, o total de requisições e a taxa de erro. Por exemplo, para a entrada referente à Tabela 1, a saída correta, para uma política X é a mostrada na Tabela 2.
+        gerar como saída o arquivo <em>saida.txt</em> contendo a evolução da
+        memória, as páginas que deram acerto, o total de erros, o total de
+        requisições e a taxa de erro. Por exemplo, para a entrada referente à
+        Figura 1, a saída correta, para uma política X é a mostrada na Figura 2.
       </li>
     </ul>
 
