@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+  <meta charset="utf-8" />
+  <meta name="description" content="Atividade prática de algoritmos de substituição de Páginas em Memória Virtual">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Prática - Substituição de Páginas em Memória Virtual</title>
+  
+  <!-- Favicon -->   
+  <link href="../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  
+  <link rel="stylesheet" href="../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <link rel="stylesheet" href="../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../css/pandoc.css" />
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
+     crossorigin="anonymous"></script>
+  
+</head>
+<body>
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="col-md-8 text-md-right">
+               <a href="../../../index.html">Home</a> > <a href="../../index.html">Teaching</a> > <a href="../index.html">Teaching</a>
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+<div class="content">
+
+<h1>Prática - Substituição de Páginas em Memória Virtual</h1>
+
+<p><strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../img/ORCID-iD_icon_24x24.png" alt="ORCID iD"/></a></p>
+<p><i>Última atualização: 26 de dezembro de 2024</i></p>
+
+    <h2>Objetivos</h2>
+    <p>
+      Esta prática tem por objetivo permitir ao aluno exercitar seus conhecimentos de memória virtual de forma prática. Os objetivos específicos são: exercitar a escrita e leitura em sistemas de arquivos por meio de linguagem de programação; exercitar a programação de algoritmos e estruturas de dados relevantes à implementação de módulos do sistema operacional.
+    </p>
+
+    <h2>O que deve ser feito</h2>
+    <p>
+      Foram estudados algoritmos de substituição de páginas em memória virtual  (FIFO, LRU, LFU, OPT, MFU). Neste trabalho, deve-se implementar um programa em linguagem C/C++ que faz a simulação e a execução desses algoritmos de substituição. O programa deve realizar a simulação da substituição de páginas de acordo com a seguinte especificação:
+    </p>
+    <ul>
+      <li>
+        ler como entrada o arquivo <em>entrada.txt</em> contendo a sequência de referência e o tamanho da memória em quadros. Por exemplo, para a sequência: 2, 3, 4, 6, 6, 7 e o tamanho da memória de 5 quadros o arquivo seria conforme a Tabela 1.
+      </li>
+      <li>
+        gerar como saída o arquivo <em>saida.txt</em> contendo a evolução da memória, as páginas que deram acerto, o total de erros, o total de requisições e a taxa de erro. Por exemplo, para a entrada referente à Tabela 1, a saída correta, para uma política X é a mostrada na Tabela 2.
+      </li>
+    </ul>
+
+    <table>
+      <tr>
+        <td>
+          <p>2, 3, 4, 6, 6, 7</p>
+          <p>5</p>
+        </td>
+      </tr>
+      <caption>Exemplo de arquivo entrada.txt</caption>
+    </table>
+
+   <table>
+      <tr>
+        <td>
+          <p>EVOLUCAO</p>
+          <pre>2 2 2 2 _ 2</pre>
+          <pre>  3 3 3 _ 3</pre>
+          <pre>    4 4 _ 4</pre>
+          <pre>      6 _ 6</pre>
+          <pre>          7</pre>
+          <p>ACERTOS</p>
+          <p>6</p>
+          <p>ERROS</p>
+          <p>5</p>
+          <p>TOTAL REQUISICOES</p>
+          <p>6</p>
+          <p>TAXA DE ERRO</p>
+          <p>0.83</p>
+        </td>
+      </tr>
+      <caption>Exemplo de arquivo saida.txt</caption>
+    </table>
+
+<h2>Material de Apoio</h2>
+
+<ul>
+  <li><a href="../SO-14-MemoriaVirtual.pdf">"Memória Virtual: Algoritmos de Substituição de Páginas"</a></li>
+  <li><a href="https://doi.org/10.1007/s13173-013-0112-z">"BitTorrent traffic from a caching perspective"</a> mostra as políticas de substituição sendo aplicadas no contexto mais amplo de Caching Web e BitTorrent</li>
+</ul>
+
+</div>
+<footer class="footer-section">
+    <div class="container text-center">
+	   <div class="copyright">
+           The source code of this page is available at https://github.com/lesandrop
+	   </div>
+    </div>
+</footer>
+
+</body>
+</html>
