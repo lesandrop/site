@@ -174,6 +174,11 @@ https://lesandrop.github.io/site/teaching/SO/SO-17-ImplementacaoDoSistemaDeArqui
 https://lesandrop.github.io/site/teaching/SO/SO-18-Estrutura%20de%20Armazenamento%20de%20Massa.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-19-EscalonamentoDoDisco.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-20-Sistemas%20de%20ES.pdf
+https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacionais-escalonador-de-tarefas.html
+https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacionais-alocacao-da-memoria-e-substituicao-de-paginas.html
+https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacionais-substituicao-de-paginas-memoria-virtual.html
+https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacionais-my-micro-filesystem-mymfs.html
+https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacionais-escalonador-do-disco.html
 https://lesandrop.github.io/site/teaching/PS/PS-01-Nivelamento.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-02-ProjetoEmProcesso.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-03-ModeloGeralDoProcessoDeProjeto.pdf
