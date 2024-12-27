@@ -65,6 +65,8 @@
     </ol>
     <h2>O que deve ser feito</h2>
     <p>Deve-se implementar as 5 políticas de substituição de páginas estudadas em sala (FIFO, OPT, LRU, LFU, MFU) e propor uma nova política de substituição (MY). A política MY não pode se valer de informações do futuro e deve ser inédita. Todas as implementações devem ser parte de um mesmo projeto. O programa principal deste projeto deve ler um arquivo de entrada (como o exemplificado abaixo), executar as 6 políticas de substituição e, com base nos resultados obtidos, gerar um arquivo de saída (como o exemplificado abaixo).</p>
+
+    <b>Exemplo do Formato do Arquivo de Entrada</b>
     <pre>
         Tamanho(quadros)=3 
         Processos(páginas):
@@ -94,7 +96,8 @@
         P1,0
         P1,1;
     </pre>
-    <b>Exemplo do Formato do Arquivo de Entrada</b>
+
+    <b>Exemplo do Formato do Arquivo de Saída</b>
     <pre>
         Requisições=??
         TaxasDeErros:
@@ -105,9 +108,8 @@
         MFU=?,??
         MY=?,??
     </pre>
-    <b>Exemplo do Formato do Arquivo de Saída</b>
+    
     <p>Note que, o tamanho da memória, o número e tamanho de processos, a política de alocação da memória e a sequência de referência são dependentes do arquivo de entrada. Ou seja, tais parâmetros podem mudar dependendo do arquivo de entrada utilizado. Para teste das implementações, serão utilizados diversos arquivos de entrada diferentes. Alguns testes das implementações serão automáticos, portanto, o arquivo de saída deve seguir rigorosamente o formato exemplificado acima.</p>
-
 
 <h2>Material de Apoio</h2>
 
