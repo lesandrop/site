@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+  <meta charset="utf-8" />
+  <meta name="description" content="Atividade prática de implementação do MY Micro File System (mymfs)">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Prática: MY Micro File System (mymfs)</title>
+  
+  <!-- Favicon -->   
+  <link href="../../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  
+  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../../css/style.css" />
+  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../../css/pandoc.css" />
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
+     crossorigin="anonymous"></script>
+  
+</head>
+<body>
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="col-md-8 text-md-right">
+               <a href="../../../index.html">Home</a> > <a href="../../index.html">Teaching</a> > <a href="../index.html">SO</a>
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+<div class="content">
+
+<h1>Prática de Implementação: MY Micro File System (mymfs)</h1>
+
+<p><strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../../../img/ORCID-iD_icon_24x24.png" alt="ORCID iD"/></a></p>
+<p><i>27 de dezembro de 2024 (<small>última atualização</small>)</i></p>
+
+<h2>Objetivos</h2>
+<p>São dois os objetivos gerais desta prática:</p>
+<ol>
+    <li>Exercitar conhecimentos de conceitos e algoritmos estudados associados a sistemas de arquivos;</li>
+    <li>Implementar mecanismos e políticas fundamentais para o funcionamento de sistemas operacionais, incluindo controle e gerência de recursos.</li>
+</ol>
+<h2>O que deve ser feito</h2>
+<p>Deve-se implementar um sistema de arquivos virtual chamado mymfs, que executa em uma camada acima do sistema de arquivos local da máquina. A implementação deve ser feita em linguagem C ou C++. Pode-se usar bibliotecas C e C++.</p>
+<p>O mymfs deve seguir as seguintes restrições associadas à sua construção:</p>
+<ol>
+    <li>Ele executa em um conjunto de unidades de armazenamento. Esse conjunto tem no mínimo 3 e no máximo N unidades. Cada unidade é uma pendrive independente. O conjunto de unidades é aqui definido como unidade RAID X. Na prática, X é um RAID 5.</li>
+    <li>Internamente e de forma transparente ao usuário, o mymfs é capaz de manipular arquivos de tamanho máximo de 500KB. Ou seja, internamente, e de forma transparente, dentro da unidade RAID X não pode existir nenhum arquivo com tamanho superior a 500KB.</li>
+    <li>Todo e qualquer dado que precise ser armazenado pelo mymfs deve ser armazenado na unidade RAID X. A única exceção é o arquivo mymfs.temp que pode estar em uma pasta temp da máquina e neste arquivo pode conter apenas os nomes das unidades que compõem a unidade RAID X.</li>
+    <li>Todos os dados de controle usados pelo mymfs (exceto o especificado no item acima) devem ficar dentro da unidade RAID X, em um único arquivo chamado mymfs.config, e em formato texto; esse arquivo deve ter tamanho máximo de 50KB.</li>
+    <li>O arquivo de código executável deve ter nome mymfs.</li>
+</ol>
+
+<p>O mymfs deve prover ao usuário as seguintes funcionalidades: config, import, listall, export, nlines, remove, removeall, grep, head100 e tail100. Cada uma dessas funcionalidades são executadas de forma parametrizada na chamada do executável. Seguir a especificação a seguir:</p>
+
+<table width="680" cellpadding="0" cellspacing="0">
+    <col width="680"/>
+    <tr>
+        <td>
+            <p><b><u>config</u></b></p>
+            <ul>
+                <li><b>Exemplo de comando de execução:</b> <i>mymfs.exe X config D E F</i></li>
+                <li><b>Pré-condição</b>: Não existe nenhum arquivo nas unidades D, E e F. Não existe um sistema de arquivos RAID X mymfs nas unidades D, E, F. (note que D, E e F é apenas um exemplo, podem ser outros nomes e quantidade maior que 3)</li>
+                <li><b>Pós-condição</b>: Existe um sistema de arquivos mymfs na unidade RAID X, que é composta das unidades D, E, F. No terminal, confirmação da configuração ou erro associado à pré-condição. </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b><u>import</u></b></p>
+            <ul>
+                <li><b>Exemplo de comando de execução:</b> <i>mymfs.exe X import file.txt</i></li>
+                <li><b>Pré-condição:</b> Existe um arquivo file.txt no local indicado fora do mymfs. Existe um sistema de arquivos mymfs na unidade RAID X. Não existe um arquivo file.txt, pelo mymfs, dentro da unidade RAID X.</li>
+                <li> <b>Pós-condição</b>: O arquivo file.txt está pelo mymfs dentro da unidade RAID X. No terminal, confirmação da importação ou erro associado à pré-condição.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b><u>listall</u></b></p>
+            <ul>
+                <li><b>Exemplo de comando de execução:</b> <i>mymfs.exe X listall</i></li>
+                <li><b>Pré-condição</b>: Existe um sistema de arquivos mymfs na unidade RAID X.</li>
+                <li> <b>Pós-condição</b>: Os nomes dos arquivos existentes na unidade RAID X, pelo mymfs, estão listados no terminal, um por linha. (Note que são os arquivos percebidos pelo usuário). O estado da unidade RAID X pelo mymfs não foi alterado.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b><u>export</u></b></p>
+            <ul>
+                <li><b>Exemplo de comando de execução:</b> <i>mymfs.exe X export file.txt C:/file.txt</i></li>
+                <li><b>Pré-condição</b>: Existe um sistema de arquivos mymfs na unidade raid X. O arquivo file.txt está, pelo mymfs, dentro da unidade RAID X. Não há um arquivo C:/file.txt.</li>
+                <li><b>Pós-condição</b>: O estado da unidade RAID X pelo mymfs não foi alterado. O arquivo file.txt está em “C:” No terminal, confirmação da exportação ou erro associado à pré-condição.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b><u>remove</u></b></p>
+            <ul>
+                <li><b>Exemplo de comando de execução:</b> <i>mymfs.exe X remove file.txt</i></li>
+                <li><b>Pré-condição</b>: Existe um sistema de arquivos mymfs na unidade RAID X. O arquivo file.txt está, pelo mymfs, dentro da unidade RAID X.</li>
+                <li> <b>Pós-condição</b>: Remove o arquivo file.txt da unidade RAID X. O estado da unidade RAID X pelo mymfs foi alterado.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b><u>removeall</u></b></p>
+            <ul>
+                <li><b>Exemplo de comando de execução:</b> <i>mymfs.exe X removeall</i></li>
+                <li><b>Pré-condição</b>: Existe um sistema de arquivos mymfs na unidade raid X.</li>
+                <li><b>Pós-condição</b>: Remove todos os arquivos que estão, pelo mymfs, na unidade RAID X. O estado da unidade RAID X pelo mymfs foi alterado. No terminal, confirmação da remoção ou erro associado à pré-condição.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b><u>head100</u></b></p>
+            <ul>
+                <li><b>Exemplo de comando de execução: <i>mymfs.exe X read100 file.txt</i></li>
+                <li> <b>Pré-condição</b>: Existe um sistema de arquivos mymfs na unidade RAID X. O arquivo file.txt está, pelo mymfs, dentro da unidade RAID X.</li>
+                <li> <b>Pós-condição</b>: No terminal, as 100 primeiras linhas do arquivo file.txt estão exibidas ou está exibido erro associado à pré-condição. O estado da unidade RAID X, pelo mymfs, não foi alterado.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b><u>tail100</u></b></p>
+            <ul>
+                <li> <b>Exemplo de comando de execução:</b> <i>mymfs.exe X tail100 file.txt</i></li>
+                <li> <b>Pré-condição</b>: Existe um sistema de arquivos mymfs na unidade RAID X. O arquivo file.txt está, pelo mymfs, dentro da unidade RAID X. </li>
+                <li> <b>Pós-condição</b>: No terminal, as 100 últimas linhas do arquivo file.txt estão exibidas ou está exibido erro associado à pré-condição. O estado da unidade RAID X, pelo mymfs, não foi alterado. </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b><u>grep</u></b></p>
+            <ul>
+                <li> <b>Exemplo de comando de execução:</b> <i>mymfs.exe X grep word file.txt</i></li>
+                <li> <b>Pré-condição</b>: Existe um sistema de arquivos mymfs na unidade RAID X. O arquivo file.txt está, pelo mymfs, dentro da unidade RAID X.</li>
+                <li> <b>Pós-condição</b>: Se existe word no arquivo file.txt, está escrito no terminal “Encontrado” seguido do número da primeira linha do arquivo no qual word foi encontrado. Se não existe word no arquivo, está escrito no terminal apenas “Não encontrado”. Se alguma pré-condição não foi satisfeita, um erro está exibido no terminal. O estado da unidade RAID X, pelo mymfs, não foi alterado. </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<h2>Confiabilidade e Desempenho</h2>
+<p>Na prática, X é um RAID 5, que tolera falha em até 1 das unidades que o compõe. Ou seja, pode-se remover 1 pendrive e nenhum dado será perdido, pois há redundância de acordo com o definido do RAID 5. No entanto, em vez de bit de paridade por setor, nossa versão simplificada do RAID funciona com compactação zip por arquivo interno do mymfs.</p>
+<p>O RAID 5 também implementa desempenho por meio de paralelismo, então deve-se implementar um esquema multithread que faz leitura e escrita simultânea nas diversas unidades que compõe o RAID.</p>
+
+<h2>Material de Apoio</h2>
+
+<ul>
+  <li><a href="../SO-19-EscalonamentoDoDisco.pdf">"Políticas de Escalonamento do Disco"</a></li>
+</ul>
+
+</div>
+<footer class="footer-section">
+    <div class="container text-center">
+	   <div class="copyright">
+           The source code of this page is available at https://github.com/lesandrop
+	   </div>
+    </div>
+</footer>
+
+</body>
+</html>
