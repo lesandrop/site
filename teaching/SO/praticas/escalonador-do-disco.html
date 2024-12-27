@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+  <meta charset="utf-8" />
+  <meta name="description" content="Atividade prática de implementação de um simulador do escalonador do disco">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Prática: Simulação do Escalonamento do Disco</title>
+  
+  <!-- Favicon -->   
+  <link href="../../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  
+  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../../css/style.css" />
+  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../../css/pandoc.css" />
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
+     crossorigin="anonymous"></script>
+  
+</head>
+<body>
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="col-md-8 text-md-right">
+               <a href="../../../index.html">Home</a> > <a href="../../index.html">Teaching</a> > <a href="../index.html">SO</a>
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+<div class="content">
+
+<h1>Prática de Implementação: Simulação do Escalonamento do Disco</h1>
+
+<p><strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../../../img/ORCID-iD_icon_24x24.png" alt="ORCID iD"/></a></p>
+<p><i>27 de dezembro de 2024 (<small>última atualização</small>)</i></p>
+
+    <h2>Objetivos</h2>
+    <p>São dois os objetivos gerais desta prática:</p>
+    <ol>
+        <li>Exercitar conhecimentos sobre os conceitos e os algoritmos de escalonamento de dispositivos de entrada e saída (in/out);</li>
+        <li>Implementar mecanismos e políticas fundamentais para o funcionamento de sistemas operacionais, incluindo gerência da fila, escalonamento do disco e cálculo de métricas de interesse.</li>
+    </ol>
+    <h2>O que deve ser feito</h2>
+    <p>Deve-se implementar a simulação de um sistema com escalonador de disco. As políticas FCFS, SSTF, SCAN, C-SCAN e C-LOOK devem ser implementadas. Também deve-se propor uma política inédita de escalonamento de disco (MY). A política MY não pode se valer de informações do futuro, não pode ser meramente aleatória, não pode requerer alterações no formato dos dados de entrada, não pode ser igual às políticas estudadas. Além disso, a política deve apresentar desempenho superior a pelo menos três das políticas vista em sala para um arquivo de entrada definido pelo estudante.</p>
+    <p>O programa principal desse projeto deve ler um arquivo de entrada, executar as políticas de escalonamento de disco e, com base nos resultados obtidos, gerar um arquivo de saída. O formato do arquivo de entrada e de saída está exemplificado abaixo.</p>
+    <b>Exemplo do formato do arquivo de entrada (in.txt)</b>
+    <pre>
+        NumSectors=200
+        NumTracks=50
+        StartPosition=0
+        R1=0,10,4,3
+        R2=1,20,2,3
+        R3=2,18,2,3
+        R4=3,17,2,4
+        R5=4,30,2,5
+        R6=5,100,2,6
+        R7=6,150,2,7
+        ;
+    </pre>
+    <b>Exemplo do formato do arquivo de saída (out.txt)</b>
+    <pre>
+        FCFS
+        -AccessTime=??.??
+        -WaitingTime=??.??
+        SSTF
+        -AccessTime=??.??
+        -WaitingTime=??.??
+        SCAN
+        -AccessTime=??.??
+        -WaitingTime=??.??
+        C-SCAN
+        -AccessTime=??.??
+        -WaitingTime=??.??
+        C-LOOK
+        -AccessTime=??.??
+        -WaitingTime=??.??
+        MY
+        -AccessTime=??.??
+        -WaitingTime=??.??
+    </pre>
+    <p>No arquivo de entrada, uma requisição ao disco tem o formato “R1=A,B,C,D”, onde A é o tempo de chegada, B é o cilindro desejado, C é a trilha desejada e D é quantidade de dados. Como simplificação, considere seek time=B e transfer time=D. Latency time é dado pela quantidade de cilindros que precisarão ser superados até chegar ao cilindro desejado. Note que a quantidade e as características das requisições podem mudar dependendo dos dados de entrada. Também é importante frisar que os dados de seek time, latency time, transfer time são uma aproximação. Isso é uma simplificação para viabilizar a simulação, pois esses tempos também variam de uma máquina para outra, dependendo da velocidade do disco, etc. Conforme o exemplo, no arquivo de saída deve constar a média do tempo de acesso (accessTime) e do tempo de espera (waitingTime) para cada política de escalonamento.</p>
+    <p>Como tarefa de aquecimento, deve-se elaborar um arquivo de entrada e um de saída que possam ser usados para teste da implementação.</p>
+
+
+<h2>Material de Apoio</h2>
+
+<ul>
+  <li><a href="../SO-19-EscalonamentoDoDisco.pdf">"Políticas de Escalonamento do Disco"</a></li>
+</ul>
+
+</div>
+<footer class="footer-section">
+    <div class="container text-center">
+	   <div class="copyright">
+           The source code of this page is available at https://github.com/lesandrop
+	   </div>
+    </div>
+</footer>
+
+</body>
+</html>
