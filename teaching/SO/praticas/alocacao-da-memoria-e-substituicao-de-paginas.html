@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+  <meta charset="utf-8" />
+  <meta name="description" content="Atividade prática de implementação de um simulador da alocação da memória e substituição de páginas">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Prática - Simulação da Alocação da Memória e Substituição de Páginas</title>
+  
+  <!-- Favicon -->   
+  <link href="../../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  
+  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../../css/style.css" />
+  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../../css/pandoc.css" />
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
+     crossorigin="anonymous"></script>
+  
+</head>
+<body>
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="col-md-8 text-md-right">
+               <a href="../../../index.html">Home</a> > <a href="../../index.html">Teaching</a> > <a href="../index.html">SO</a>
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+<div class="content">
+
+<h1>Prática de Implementação: Simulação da Alocação da Memória e Substituição de Páginas</h1>
+
+<p><strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../../../img/ORCID-iD_icon_24x24.png" alt="ORCID iD"/></a></p>
+<p><i>27 de dezembro de 2024 (<small>última atualização</small>)</i></p>
+
+   <h2>Objetivos</h2>
+    <p>São dois os objetivos gerais desta prática:</p>
+    <ol>
+        <li>Permitir o exercício de conceitos e algoritmos de gerência da memória (alocação de quadros de modo igual, alocação de quadros de modo proporcional, tamanho de processos em número de páginas);</li>
+        <li>Implementar mecanismos e políticas fundamentais para o funcionamento de sistemas operacionais, como alocação de quadros e políticas de substituição.</li>
+    </ol>
+    <h2>O que deve ser feito</h2>
+    <p>Deve-se implementar as 5 políticas de substituição de páginas estudadas em sala (FIFO, OPT, LRU, LFU, MFU) e propor uma nova política de substituição (MY). A política MY não pode se valer de informações do futuro e deve ser inédita. Todas as implementações devem ser parte de um mesmo projeto. O programa principal deste projeto deve ler um arquivo de entrada (como o exemplificado abaixo), executar as 6 políticas de substituição e, com base nos resultados obtidos, gerar um arquivo de saída (como o exemplificado abaixo).</p>
+    <pre>
+        Tamanho(quadros)=3 
+        Processos(páginas):
+        P1=10
+        P2=30;
+        Alocação=Igual
+        Substituição=Local
+        Sequência:
+        P1,7
+        P1,0
+        P1,1
+        P2,2
+        P2,0
+        P2,3
+        P1,0
+        P1,4
+        P1,2
+        P1,3
+        P2,0
+        P2,3
+        P2,2
+        P2,1
+        P1,2
+        P1,0
+        P1,1
+        P1,7
+        P1,0
+        P1,1;
+    </pre>
+    <b>Exemplo do Formato do Arquivo de Entrada</b>
+    <pre>
+        Requisições=??
+        TaxasDeErros:
+        FIFO=?,??
+        OPT=?,??
+        LRU=?,??
+        LFU=?,??
+        MFU=?,??
+        MY=?,??
+    </pre>
+    <b>Exemplo do Formato do Arquivo de Saída</b>
+    <p>Note que, o tamanho da memória, o número e tamanho de processos, a política de alocação da memória e a sequência de referência são dependentes do arquivo de entrada. Ou seja, tais parâmetros podem mudar dependendo do arquivo de entrada utilizado. Para teste das implementações, serão utilizados diversos arquivos de entrada diferentes. Alguns testes das implementações serão automáticos, portanto, o arquivo de saída deve seguir rigorosamente o formato exemplificado acima.</p>
+
+
+<h2>Material de Apoio</h2>
+
+<ul>
+  <li><a href="../SO-14-MemoriaVirtual.pdf">"Memória Virtual: Algoritmos de Substituição de Páginas"</a></li>
+  <li><a href="https://doi.org/10.1007/s13173-013-0112-z">"BitTorrent traffic from a caching perspective"</a> mostra as políticas de substituição sendo aplicadas no contexto mais amplo de Caching Web e BitTorrent</li>
+</ul>
+
+</div>
+<footer class="footer-section">
+    <div class="container text-center">
+	   <div class="copyright">
+           The source code of this page is available at https://github.com/lesandrop
+	   </div>
+    </div>
+</footer>
+
+</body>
+</html>
