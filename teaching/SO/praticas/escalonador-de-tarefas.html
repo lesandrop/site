@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+  <meta charset="utf-8" />
+  <meta name="description" content="Atividade prática de implementação de um simulador do escalonamento de tarefas em sistemas monoprocessados">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Prática - Simulação do Escalonamento de Tarefas em Sistemas Monoprocessados</title>
+  
+  <!-- Favicon -->   
+  <link href="../../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  
+  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../../css/style.css" />
+  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../../css/pandoc.css" />
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
+     crossorigin="anonymous"></script>
+  
+</head>
+<body>
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="col-md-8 text-md-right">
+               <a href="../../../index.html">Home</a> > <a href="../../index.html">Teaching</a> > <a href="../index.html">SO</a>
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+<div class="content">
+
+<h1>Prática de Implementação: Simulação do Escalonamento de Tarefas em Sistemas Monoprocessados</h1>
+
+<p><strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../../../img/ORCID-iD_icon_24x24.png" alt="ORCID iD"/></a></p>
+<p><i>27 de dezembro de 2024 (<small>última atualização</small>)</i></p>
+
+    <h2>Objetivos</h2>
+    <p>São dois os objetivos gerais desta prática:</p>
+    <ol>
+        <li>Permitir o exercício de conceitos e os algoritmos de escalonamento de tarefas em sistemas monoprocessados;</li>
+        <li>Implementar mecanismos e políticas fundamentais para o funcionamento de sistemas operacionais, incluindo os estados dos processos, escalonamento dos processos na memória (escalonamento de longo prazo) e escalonamento dos processos no processador (escalonamento de curto prazo).</li>
+    </ol>
+
+    <h2>O que deve ser feito</h2>
+    <p>Deve-se implementar a simulação de um sistema com escalonador de curto prazo e escalonador de longo prazo. Para o escalonador de longo prazo, deve-se usar a política de escalonamento SJF. Para o escalonador de curto prazo, devem ser implementadas três políticas alternativas (FCFS, Prioridades, Round-Robin com quantum de 20). Também deve-se propor uma nova política de escalonamento (MY) que pode ser de curto ou de longo prazo. A política MY deve ser inédita, não pode se valer de informações do futuro, não pode ser meramente aleatória e não pode requerer alterações no formato dos dados de entrada.</p>
+    <p>O programa principal desse projeto deve ler um arquivo de entrada, executar as 4 políticas de substituição e, com base nos resultados obtidos, gerar um arquivo de saída. O formato do arquivo de entrada e de saída está exemplificado abaixo. O arquivo de entrada informa o nível de multiprogramação, e, para cada processo, respectivamente, o tempo de pico de CPU e ES, bem como a sua prioridade. O tempo que dura as operações de criação de um processo (CPR), troca de contexto de processos (TCP) e término de processos (TPR) também são informados no arquivo de entrada.</p>
+    <b>Exemplo do formato do arquivo de entrada (in.txt)</b>
+    <pre>
+        Multiprogramacao=2
+        Processos:
+        P1=155-CPU,40-ES,5-CPU;1
+        P2=40-CPU,60-ES,125-CPU;2
+        P3=15-CPU,60-ES,15-CPU;3
+        P4=30-CPU,130-ES,30-CPU;0
+        ;
+        Operações do SO:
+        CPR=5
+        TCP=5
+        TPR=5
+    </pre>
+    <b>Exemplo do formato do arquivo de saída (out.txt)</b>
+    <pre>
+        FCFS
+        -TE-P1=?,??
+        -TE-P2=?,??
+        -TE-P3=?,??
+        -TE-P4=?,??
+        -TME=?,??
+        Prioridades-CP
+        -TE-P1=?,??
+        -TE-P2=?,??
+        -TE-P3=?,??
+        -TE-P4=?,??
+        -TME=?,??
+        Round-Robin(20)
+        -TE-P1=?,??
+        -TE-P2=?,??
+        -TE-P3=?,??
+        -TE-P4=?,??
+        -TME=?,??
+    </pre>
+    <p>Note que o nível de multiprogramação, o número de processos, o tamanho dos processos (em uso de CPU e ES) e as prioridades dos processos são dependentes do arquivo de entrada. Ou seja, tais parâmetros podem mudar dependendo do arquivo de entrada utilizado. O mesmo ocorre com o tempo de criação de um processo (CPR), tempo de troca de contexto de processos (TCP) e tempo de término de processos (TPR). É importante frisar que isso é uma simplificação para viabilizar a simulação, pois esses tempos também variam de uma máquina para outra, dependendo da velocidade da memória, do número de registradores a serem copiados e da existência de instruções especiais – como uma única instrução de carga ou armazenamento de todos os registradores.</p>
+    <p>Como tarefa de aquecimento, deve-se: 1) elaborar dois arquivos de entrada e dois arquivos de saída correspondentes que possam ser usados para teste da implementação. Tais arquivos devem ser produzidos com dados obtidos na execução manual dos algoritmos.</p>
+
+
+<h2>Material de Apoio</h2>
+
+<ul>
+  <li><a href="../SO-09-Políticas%20de%20Escalonamento%20da%20CPU.pdf">"Políticas de Escalonamento da CPU"</a></li>
+</ul>
+
+</div>
+<footer class="footer-section">
+    <div class="container text-center">
+	   <div class="copyright">
+           The source code of this page is available at https://github.com/lesandrop
+	   </div>
+    </div>
+</footer>
+
+</body>
+</html>
