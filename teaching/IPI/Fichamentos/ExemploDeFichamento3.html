@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+
+
+  <meta charset="utf-8" />
+  <meta name="description" content="Exemplo de Fichamento de Artigo Científico para Unidades Curriculares de Introdução à Pesquisa em Informática">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Exemplo de Fichamento de Artigo Científico (3)</title>
+  
+  <!-- Favicon -->   
+  <link href="../../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+  
+  
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../../css/style.css" />
+  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../../css/pandoc.css" />
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="text-md-right">
+               <a href="../../../index.html">Home</a> > <a href="../../index.html">Teaching</a> > <a href="../index.html"> IPI </a> > Exemplo de Fichamento (3)
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+
+
+<div class="content">
+
+<h1>Exemplo de Fichamento de Artigo Científico (3)</h1>
+<br><br>
+<p><small><i>(Este exemplo está disponível em markdown <a href="https://github.com/lesandrop/site/blob/master/teaching/IPI/Fichamentos/ExemploDeFichamento3.md"> neste repositório do GitHub </a>. O template deste fichamento está disponível <a href="TemplateDeFichamento.html"> neste site </a> e <a href="https://github.com/lesandrop/site/blob/master/teaching/IPI/Fichamentos/TemplateDeFichamento.md">no GitHub</a>)</i>.</small></p>
+
+<table>
+<tr>
+<td>
+
+<h2 id="on-the-impact-of-energy-saving-strategies-in-opportunistic-grids">On the impact of energy-saving strategies in opportunistic grids</h2>
+<p><small>Ponciano, Lesandro and Brasileiro, Francisco (2010) “On the impact of energy-saving strategies in opportunistic grids,” 11th IEEE/ACM International Conference on Grid Computing, Brussels, pp. 282-289, doi: <a href="https://doi.org/10.1109/GRID.2010.5698003">10.1109/GRID.2010.5698003</a>.</small></p>
+
+<h3 id="fichamento-de-conteúdo">1. Fichamento de Conteúdo</h3>
+<p><small>O artigo trata da economia de energia na execução de aplicações <em>Bag-Of-Tasks</em> (BoT) em infraestrutura de computação distribuída que usa o poder computacional de computadores que não estão em uso pelos seus usuários. Esse é o caso das grades computacionais oportunistas. Quando são submetidas, aplicações BoT usam muitos computadores da infraestrutura, cada um para executar uma tarefa da aplicação. Quando não há uma aplicação a ser executada, tais computadores ficam ociosos esperando a chegada de uma nova aplicação. Nesses momentos eles consomem energia em fazer qualquer computação útil. Diante desse problema, o artigo investiga o uso de três grupos de estratégias de economia de energia: 1) <em>sleeping states</em>, que são standby e hibernate; 2) <em>wake-up strategies</em>, que são Most Recently Sleeping (MRS) e Energy Aware (EA); e, 3) <em>scheduling strategies</em>, que são First Come First Served (FCFS), Fastest Processor to Largest Task (FPLT), Most Energy-Efficiency First (MEEF), Most Energy-Efficient to Largest Task (MEELT). São refeitas simulações da grade com até 350 máquinas e medindo economia de energia e o <em>slowdown</em> em comparação ao <em>baseline</em>, que é manter as máquinas ociosas. Os resultados mostram que: 1) as estratégias são equivalentes quanto ao reduzido impacto no tempo de resposta, e 2) todas as <em>wake-up strategies</em> geram economia de energia, sendo a EA gera maior economia que o MRS em cenário de alta contenção; 3) o <em>sleeping state</em> hibernate também gera maior economia que o estado standby, sendo que ambos geram economia em relação ao estado ocioso.</small></p>
+
+<h3 id="fichamento-bibliográfico">2. Fichamento Bibliográfico</h3>
+<ul>
+<li><em>Bag-of-Tasks</em> (BoT, aplicação do tipo saco-de-tarefas): aplicação composta por uma grande quantidade de tarefas que não se comunicam entre si e que podem ser executadas de forma independente uma das outras (página 1)</li>
+<li><em>Wake-up strategy</em> (estratégia de escolha do recurso a ser acordado): usada para escolher qual máquina acordar primeiro quando chegar uma nova aplicação para ser executada (página 5)</li>
+<li><em>Sleeping states</em> (estratégia de dormência): definidas pela Advanced Configuration and Power Interface (ACPI) e em que partes da máquina são desligadas, gerando economia de energia em relação a manter a máquina ociosa (página 5)</li>
+<li><em>Scheduling strategy</em> (estratégia de escalonamento): usada para escolher qual máquina deve executar cada tarefa. (página 5)</li>
+</ul>
+
+<h3 id="fichamento-de-citações">3. Fichamento de Citações</h3>
+<ul>
+<li><em>“Opportunistic grids are distributed computing infrastructures that harvest the idle computing cycles of computing resources geographically distributed.”</em> (página 1)</li>
+<li><em>“We measured the energy savings of the strategies in a scenario A by comparing the energy consumption of this scenario with the energy consumption of a similar scenario where the only difference is that machines are never placed in a sleeping state, i.e. they can only be in the owner, running and idle states”</em> (página 4)</li>
+<li><em>“The makespan of a BoT job is defined as the difference between the earliest time of submission of any of its tasks, and the latest time of completion of any of its tasks.”</em> (página 4)</li>
+<li><em>“We assumed that all jobs submitted to the grid are CPU-bound, which facilitated the calculation of the energy consumption; other studies have also made a similar simplification”</em> (página 5)</li>
+<li><em>“To represent the variation in the availability of the machines over time, we used a trace of a desktop grid that displays data on the use of machines, identifying the periods when the machines are idle”</em> (página 5)</li>
+<li><em>“The availability of real workloads of BoT applications is rather limited. Thus, we decided to also use synthetic workloads to complement our investigation. To generate the different workloads considered, we used the workload model proposed by Iosup et al. [11].”</em> (página 6)</li>
+</ul>
+</td>
+</tr>
+</table>
+
+</div>
+	<!-- Footer section start -->
+	<footer class="footer-section">
+		<div class="container text-center">
+			<div class="copyright">
+                 The source code of this page is available at https://github.com/lesandrop
+			</div>
+		</div>
+	</footer>
+	<!-- Footer section end -->
+
+</body>
+</html>

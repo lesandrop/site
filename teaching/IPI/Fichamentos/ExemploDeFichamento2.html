@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+
+
+  <meta charset="utf-8" />
+  <meta name="description" content="Exemplo de Fichamento de Artigo Científico para Unidades Curriculares de Introdução à Pesquisa em Informática">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Exemplo de Fichamento de Artigo Científico (2)</title>
+  
+  <!-- Favicon -->   
+  <link href="../../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+  
+  
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="../../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../../css/style.css" />
+  <link rel="stylesheet" href="../../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../../css/pandoc.css" />
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="text-md-right">
+               <a href="../../../index.html">Home</a> > <a href="../../index.html">Teaching</a> > <a href="../index.html"> IPI </a> > Exemplo de Fichamento (2)
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+
+
+<div class="content">
+
+<h1>Exemplo de Fichamento de Artigo Científico (2)</h1>
+<br><br>
+<p><small><i>(Este exemplo está disponível em markdown <a href="https://github.com/lesandrop/site/blob/master/teaching/IPI/Fichamentos/ExemploDeFichamento2.md"> neste repositório do GitHub </a>. O template deste fichamento está disponível <a href="TemplateDeFichamento.html"> neste site </a> e <a href="https://github.com/lesandrop/site/blob/master/teaching/IPI/Fichamentos/TemplateDeFichamento.md">no GitHub</a>)</i>.</small></p>
+<table>
+<tr>
+<td>
+
+<h2 id="search-algorithms-for-regression-test-case-prioritization">Search Algorithms for Regression Test Case Prioritization</h2>
+<p><small>Li, Zheng; Harman, Mark; Hierons, Robert M. (2007) “Search Algorithms for Regression Test Case Prioritization”, IEEE Transactions on Software Engineering, vol. 33, no. 4, pp. 225-237, doi: <a href="https://doi.org/10.1109/TSE.2007.38">10.1109/TSE.2007.38</a></small></p>
+
+<h3 id="fichamento-de-conteúdo">1. Fichamento de Conteúdo</h3>
+<p><small>Testes de regressão são executados em software para verificar se uma mudança introduziu algum erro no software. É um processo demorado. A priorização dos casos de teste visa permitir que falhas (testes que não passam) sejam descobertos o quanto antes. Li, Harman e Hierons (2007) defendem que não há solução ótima para o problema, podendo ele ser mapeado no problema da mochila, que é provadamente NP-difícil. Assim, eles investigam o desempenho de heurísticas na solução desse problema. Em particular, heurísticas baseadas em algoritmos de busca (Hill Climbing e Genetic Algorithms) e algoritmos gulosos (Greedy, Additional Greedy, e 2-Optimal Greedy). Experimentos são realizados com seis programas que variam de 374 a 11.148 linhas de código (LOC, lines of codes) e possuem suítes de teste de tamanho médio que variam de 230 a 4350 testes. Os resultados mostram que as heurísticas Additional Greedy, 2-Optimal e Genetic Algorithm são melhores que Greedy Algorithm puro. A explicação é que nesse tipo de problema há muitos ótimos locais, principalmente em grandes programas, de modo que, algoritmos baseados em busca global tendem a ser melhores do que algoritmos de busca local.</small></p>
+
+<h3 id="fichamento-bibliográfico">2. Fichamento Bibliográfico</h3>
+<ul>
+<li>O algoritmo de Busca Gulosa (Greedy Algorithm) trabalha com o princípio do “próximo melhor”, calcula um peso de cada teste em termos de maximizar a métrica de interesse (como a cobertura do código), e escolhe como próximo teste a ser executado, aquele que possui maior peso.</li>
+<li>O algoritmo de Busca Gulosa Adicional (Additional Greedy Algorithm) calcula o peso de cada teste buscando definir um próximo teste de modo a maximizar a parte dos testes que não foi atingida pelas decisões anteriores. Ou seja, está sempre buscando a parte adicional, não é métrica “geral”.</li>
+<li>O 2-Optimal Algorithm seleciona os próximos 2 testes que juntos maximizam a métrica de interesse.</li>
+<li>Escalada ou subida da colina (Hill Climbing ) é um algoritmo subótimo ou de ótimo local, seleciona o próximo teste baseado no ‘vizinho’ do teste atual que gera melhor resultado na métrica de interesse.</li>
+<li>Algoritmo Genético (Genetic Algorithms) define um cromossomo composto por todos os testes. Cada posição do cromossomo indica ordem em que respectivo teste será executado. A função de aptidão do indivíduo é calculada baseada no valor obtido para o indivíduo e na ordem do indivíduo na população. São realizadas mutações e cruzamentos. (No texto não está muito clara a condição de término)</li>
+</ul>
+
+<h3 id="fichamento-de-citações">3. Fichamento de Citações</h3>
+<ul>
+<li><em>“Test case prioritization (…) orders test cases so that the test cases with highest priority, according to some criterion (a”fitness metric“), are executed first.”</em></li>
+<li><em>Given a function f that assesses the rate of achievement of code coverage, an efficient solution to the test case prioritization problem would provide an efficient solution to the knapsack problem, which is known to be NP-hard [7]. Thus, prioritization techniques for code coverage are necessarily heuristic [18]."</em></li>
+<li><em>“The following two research questions motivated this study: Q1. Which algorithm is most effective in solving the test case prioritization problem for regression testing? Q2. What factors could affect the efficiency of algorithms for the test case prioritization problem for regression testing?”</em></li>
+<li><em>“The results of the empirical study show that the Additional Greedy, 2-Optimal, and Genetic Algorithms always outperform the Greedy Algorithm. These results for the programs studied are shown to be statistically significant for all programs studied.”</em></li>
+<li><em>“The fact that there are many local optima in the search space indicates that, for large test suites, the fitness landscapes are likely to be inherently multimodal. This result suggests that global search techniques could outperform local search techniques for regression testing prioritization problems, particularly for larger test suites.”</em></li>
+</ul>
+</td>
+</tr>
+</table>
+
+</div>
+	<!-- Footer section start -->
+	<footer class="footer-section">
+		<div class="container text-center">
+			<div class="copyright">
+                 The source code of this page is available at https://github.com/lesandrop
+			</div>
+		</div>
+	</footer>
+	<!-- Footer section end -->
+
+</body>
+</html>
