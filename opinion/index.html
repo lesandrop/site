@@ -74,11 +74,11 @@ fetch(RSS_URL)
     items.forEach(el => {
       html += `
         <div class="div-1">
-          <h3>
+          <h2>
             <a href="${el.querySelector("link").innerHTML}">
               ${el.querySelector("title").innerHTML}
             </a>
-          </h3>
+          </h2
           <p><em>${el.querySelector("pubDate").innerHTML}</em></p>
           <p>${el.querySelector("description").innerHTML} <a href="${el.querySelector("link").innerHTML}">
              leia o texto.
