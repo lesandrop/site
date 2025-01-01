@@ -844,6 +844,7 @@ ol {
 .home-three-style .header-section,
 .home-four-style .header-section {
 	padding: 15px 0;
+	font-size: 16px;
 	background: transparent;
 	position: absolute;
 	width: 100%;
