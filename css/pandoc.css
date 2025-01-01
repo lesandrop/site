@@ -25,12 +25,12 @@ body {
 }
 
 a {
-  color: #e95555;
+  color: #9A1313;
   text-decoration: none;
 }
 
 a:visited {
-  color: #e95555;
+  color: #9A1313;
 }
 
 a:hover {
@@ -38,7 +38,7 @@ a:hover {
 }
 
 a:active {
-  color: #e95555;
+  color: #9A1313;
 }
 
 a:focus {
@@ -57,12 +57,12 @@ a:focus {
 
 a::-moz-selection {
   background: rgba(255, 255, 0, 0.3);
-  color: #e95555;
+  color: #9A1313;
 }
 
 a::selection {
   background: rgba(255, 255, 0, 0.3);
-  color: #e95555;
+  color: #9A1313;
 }
 
 p {
