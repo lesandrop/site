@@ -66,7 +66,6 @@ https://lesandrop.github.io/site/opinion/Opiniao-CienciaCidadaNoBrasil-EstadoDeM
 https://lesandrop.github.io/site/opinion/EstadoDeMinas-2019-EstimuloACuriosidade.pdf
 https://lesandrop.github.io/site/opinion/Lesandro-SE-Talk-Description.pdf
 https://lesandrop.github.io/site/opinion/Civis-2023-InteligenciaArtificialEmCi%C3%AAnciaParticipativaECidada.pdf
-https://lesandrop.github.io/site/opinion/readingrecommendation.html
 https://lesandrop.github.io/site/opinion/Inforuso-2018-EntrevistaIntel4004.pdf
 https://lesandrop.github.io/site/opinion/blog/2020-06-25_O-primeiro-laboratorio-de-pesquisa-em-que-atuei.html
 https://lesandrop.github.io/site/opinion/blog/2019-12-23_Incrementos--sobre-Ano-Novo--infancia-e-sprints.html
@@ -200,3 +199,6 @@ https://lesandrop.github.io/site/teaching/PS/PS-14-ArquiteturaDeSoftware.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-15-SequenciaMVC.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-16-MapeamentoObjetoRelacional.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-17-Arquiteturas%20de%20SD.pdf
+https://lesandrop.github.io/site/reading/papers-reading-recommendation.html
+https://lesandrop.github.io/site/contact/index.html
+https://lesandrop.github.io/site/about/lesandro-ponciano-en.html
