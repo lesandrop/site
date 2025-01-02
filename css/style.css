@@ -51,6 +51,10 @@ textarea:focus {
 	outline: none;
 }
 
+a {
+  color: #097DD5;
+}
+
 a:hover,
 a:focus {
 	text-decoration: none;
@@ -169,11 +173,13 @@ li {
 	background-color: #fff;
 	margin-right: 10px;
 	border: 2px solid #40424a;
-	color: #40424a;
+	color: #097DD5;
 	font-weight: 700;
 }
 
-.site-btn:hover {
+.site-btn:hover,
+.site-btn:active,
+.site-btn:visited {
 	color: #097DD5;
 
 }
