@@ -4,7 +4,6 @@ https://lesandrop.github.io/site/slides/index.html
 https://lesandrop.github.io/site/opinion/index.html
 https://lesandrop.github.io/site/papers/index.html
 https://lesandrop.github.io/site/teaching/index.html
-https://lesandrop.github.io/site/img/index.html
 https://lesandrop.github.io/site/cv/CV-LesandroPonciano-ShortVersion.pdf
 https://lesandrop.github.io/site/history/consideracaoesIniciaisCienciaAberta.html
 https://lesandrop.github.io/site/history/discursoDeParaninfoSI20211PUCMinas.html
@@ -202,3 +201,16 @@ https://lesandrop.github.io/site/teaching/PS/PS-17-Arquiteturas%20de%20SD.pdf
 https://lesandrop.github.io/site/reading/papers-reading-recommendation.html
 https://lesandrop.github.io/site/contact/index.html
 https://lesandrop.github.io/site/about/lesandro-ponciano-en.html
+https://lesandrop.github.io/site/img/index.html
+https://lesandrop.github.io/site/img/Foto-Lesandro-2007.png
+https://lesandrop.github.io/site/img/Foto-Lesandro-2008.jpg
+https://lesandrop.github.io/site/img/Foto-Lesandro-2010.JPG
+https://lesandrop.github.io/site/img/Foto-Lesandro-2018.jpg
+https://lesandrop.github.io/site/img/LesandroPonciano.jpg
+https://lesandrop.github.io/site/img/about.png
+https://lesandrop.github.io/site/img/blog.png
+https://lesandrop.github.io/site/img/events.png
+https://lesandrop.github.io/site/img/presentation.png
+https://lesandrop.github.io/site/img/reading.png
+https://lesandrop.github.io/site/img/research.png
+https://lesandrop.github.io/site/img/teaching.png
