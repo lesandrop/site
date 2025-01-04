@@ -198,6 +198,7 @@ https://lesandrop.github.io/site/teaching/PS/PS-14-ArquiteturaDeSoftware.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-15-SequenciaMVC.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-16-MapeamentoObjetoRelacional.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-17-Arquiteturas%20de%20SD.pdf
+https://lesandrop.github.io/site/reading/index.html
 https://lesandrop.github.io/site/reading/papers-reading-recommendation.html
 https://lesandrop.github.io/site/contact/index.html
 https://lesandrop.github.io/site/about/lesandro-ponciano-en.html
