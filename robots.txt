@@ -5,3 +5,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://lesandrop.github.io/site/sitemaps/urllist.txt
+Sitemap: https://lesandrop.github.io/site/sitemaps/images.xml
