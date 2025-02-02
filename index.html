@@ -109,7 +109,25 @@
                              <h2>Recent blog post </h2>                       
 							<script>
 								const RSS_URL = `https://lesandrop.github.io/site/feed.xml`;
-
+								function addLeadingZero(num) {
+								  num = num.toString();
+								  while (num.length < 2) num = "0" + num;
+								  return num;
+								}
+								
+								function buildRFC822Date(dateString) {
+								  const monthStrings = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
+								
+								  const timeStamp = Date.parse(dateString);
+								  const date = new Date(timeStamp);
+								
+								  const dayNumber = addLeadingZero(date.getDate());
+								  const month = monthStrings[date.getMonth()];
+								  const year = date.getFullYear();
+								
+								  //10 de Janeiro de 2025
+								  return `${dayNumber} de ${month} de ${year} `;
+								}
 								fetch(RSS_URL)
  									 .then(response => response.text())
  									 .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
@@ -117,7 +135,7 @@
     								  const items = data.querySelectorAll("item");
     								  let html = `<p> Publicação no Blog Academizando: `;
     								  el = items[0]
-    								  html += `<b>${el.querySelector("title").innerHTML}</b>(<em>${el.querySelector("pubDate").innerHTML}</em>) <a href="${el.querySelector("link").innerHTML}">leia o texto no Blog. </a></p>`; html += ``;
+    								  html += `<b>${el.querySelector("title").innerHTML}</b>(<em>${buildRFC822Date(el.querySelector("pubDate").innerHTML)}</em>) <a href="${el.querySelector("link").innerHTML}">leia o texto no Blog. </a></p>`; html += ``;
     								  document.getElementById("blogL").innerHTML+=html
   									});
 							    </script>
