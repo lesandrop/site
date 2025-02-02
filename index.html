@@ -126,7 +126,7 @@
 								  const year = date.getFullYear();
 								
 								  //10 de Janeiro de 2025
-								  return `${dayNumber} de ${month} de ${year} `;
+								  return `${dayNumber} de ${month} de ${year}`;
 								}
 								fetch(RSS_URL)
  									 .then(response => response.text())
@@ -135,7 +135,7 @@
     								  const items = data.querySelectorAll("item");
     								  let html = `<p> Publicação no Blog Academizando: `;
     								  el = items[0]
-    								  html += `<b>${el.querySelector("title").innerHTML}</b>(<em>${buildRFC822Date(el.querySelector("pubDate").innerHTML)}</em>) <a href="${el.querySelector("link").innerHTML}">leia o texto no Blog. </a></p>`; html += ``;
+    								  html += `<b>${el.querySelector("title").innerHTML}</b> (<em>${buildRFC822Date(el.querySelector("pubDate").innerHTML)}</em>) <a href="${el.querySelector("link").innerHTML}">leia o texto no Blog. </a></p>`; html += ``;
     								  document.getElementById("blogL").innerHTML+=html
   									});
 							    </script>
