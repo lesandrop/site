@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use anything from this repository, please cite it as below."
+authors:
+  - family-names: Ponciano
+    given-names: Lesandro
+    orcid: https://orcid.org/0000-0002-5724-0094
+title: "Blog, Research and Teaching Activities by Lesandro Ponciano"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/lesandrop/site"
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: Ponciano
+    given-names: Lesandro
+    orcid: https://orcid.org/0000-0002-5724-0094
+  title: "Blog, Research and Teaching Activities by Lesandro Ponciano"
+  url: "https://lesandrop.github.io/site"
+  year: 2025
