@@ -128,6 +128,7 @@ https://lesandrop.github.io/site/teaching/IHC/IHC-19-Teste%20de%20Usabilidade.pd
 https://lesandrop.github.io/site/teaching/IHC/IHC-20-M%C3%A9todoDeAvalia%C3%A7%C3%A3oDoPercursoCognitivo.pdf
 https://lesandrop.github.io/site/teaching/IHC/IHC-21-System%20Usability%20Scale.pdf
 https://lesandrop.github.io/site/teaching/IHC/IHC-22-Compara%C3%A7%C3%A3o%20de%20M%C3%A9todos%20de%20Avalia%C3%A7%C3%A3o.pdf
+https://lesandrop.github.io/site/teaching/IHC/aulas-de-IHC-com-debate-estruturado.html
 https://lesandrop.github.io/site/teaching/TS/TS-00-NivelamentoRequisitosEProcessosDeSoftware.pdf
 https://lesandrop.github.io/site/teaching/TS/TS-01-TesteNaQualidadeDeSoftware.pdf
 https://lesandrop.github.io/site/teaching/TS/TS-02-Introdu%C3%A7%C3%A3oETerminologia.pdf
