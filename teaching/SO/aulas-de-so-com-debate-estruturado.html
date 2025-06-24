@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="">
+<head>
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ppda8aahae");
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+
+  <meta charset="utf-8" />
+  <meta name="description" content="Notas de aulas da disciplina de Sistemas Operacionais conduzidas com a dinâmica de Debate Estruturado">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Aulas de Sistemas Operacionais com Debates Estruturados</title>
+  <!-- Favicon -->   
+ <link href="../../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+  
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="../../css/bootstrap.min.css" />
+  <link rel="stylesheet" href="../../css/style.css" />
+  <link rel="stylesheet" href="../../css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../../css/pandoc.css" />
+        
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932"
+       crossorigin="anonymous"></script>
+	
+</head>
+<body>
+
+
+<!-- Header section start -->
+<header class="header-section">
+   <div class="container-fluid">
+      <div class="row">	
+	    <div class="col-md-4">
+		   <div class="text-md-right">
+               <a href="../../index.html">Home</a> > <a href="../index.html">Teaching</a> > <a href="index.html">IHC</a> > Debate Estruturado
+           </div>
+        </div>
+     </div>
+   </div>
+</header>
+
+
+<div class="content">
+
+<h1>Aulas de Sistemas Operacionais com Debates Estruturados</h1>
+<p>O <a href="https://doi.org/10.5753/ihc.2018.4209">Debate Estruturado</a> é estratégia didático-pedagógica aplicada no ensino e aprendizagem. Ela foi publicada em 2019 no Workshop sobre Educação em IHC (WEIHC) da Sociedade Brasileira de Computação. Posteriormente, passou a ser aplicada na disciplina de Sistemas Operacionais. Nesta página estão reunidas anotações de debates estruturados conduzidos pelo Prof. <strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../../img/ORCID-iD_icon_24x24.png" alt="ORCID iD"/></a> entre os anos de 2019 e 2024. Para mais informações sobre a estratégia de Debate Estruturado, veja o artigo científico <em><a href="https://doi.org/10.5753/ihc.2018.4209">Debate Estruturado</a></em>.</p>
+
+<div id="indice">
+    <h2>Índice de Debates Estruturados</h2>
+    <ol>
+      <li><a href="#eficiencia-desempenho">Relações entre eficiência energética e desempenho: carga de trabalho, centralização e distribuição</a></li>
+      <li><a href="#economia-energia">Consumo e Economia de Energia em Sistemas Computacionais</a></li>
+      <li><a href="#privacidade-camadas">Privacidade e Camadas do Sistema Computacional</a></li>
+      <li><a href="#localidade-temporal-desempenho">Localidade temporal e desempenho em sistemas computacionais</a></li>
+      <li><a href="#cachig-armazenamento">Caching: armazenamento temporário de dados e efeitos no desempenho</a></li>
+      <li><a href="#ia-malware">Interseções entre Inteligência Artificial e Malwares</a></li>
+      <li><a href="#energia-performance">Performance e consumo de energia em sistemas de computação</a></li>
+      <li><a href="#vulnerabilidade-seguranca">Vulnerabilidade e Segurança em Sistemas Operacionais</a></li>
+      <li><a href="#confiabilidade-desempenho">Confiabilidade e Desempenho de cima para baixo e de baixo para cima</a></li>
+      <li><a href="#vulnerabilidade-resistencia">Vulnerabilidades e resistência a ataques em Sistemas Operacionais</a></li>
+      <li><a href="#evolucao-systemcall">Evolução e utilidades das chamadas de sistemas</a></li>
+    </ol>
+  </div>
+	
+<hr>
+ <div>
+  <a name="eficiencia-desempenho"></a><h2>Relações entre eficiência energética e desempenho: carga de trabalho, centralização e distribuição</h2>
+  <h3>Data do Debate: Maio/2025</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>Por que a economia de energia é uma consideração relativamente nova no design de sistemas computacionais? De que forma a busca por economia de energia afeta o projeto desses sistemas? Os projetistas mudam a decisão de projeto do sistema computacional dependendo do requisito de economia de energia?</li>
+    <li>Quais os principais mecanismos implementados quando se deseja economizar energia no sistema computacional? De quem é a responsabilidade pela economia de energia no sistema computacional? Seria a aplicação, sistema operacional ou hardware? Por quê?</li>
+    <li>Estratégias de dormência (sleep) colocam um trade-off entre economia de energia e desempenho, como economizar 80% e ter um makespan de 2%; Como lidar com esse trade-off? Quais questões se considerar desse trade-off quando se deseja-se utilizar esse mecanismo, por exemplo, em data centers baseados em alocação de VM?</li>
+    <li>O mecanismo de realocação de VM tem custo adicional de movimentação da VM. A relação entre economia de energia e impacto no desempenho é satisfatória? Em quais situações faz sentido fazer uso desse mecanismo e em quais não faz? Seria possível usar esse mecanismo em ambientes distribuídos, como as Grades Computacionais?
+</li>
+  </ul>
+</div>
+<hr>
+
+ <div>
+  <a name="economia-energia"></a><h2>Consumo e Economia de Energia em Sistemas Computacionais</h2>
+  <h3>Data do Debate: Maio/2025</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>Quando se fala de estratégias modernas de economia de energia, o hardware é o vilão ou é um aliado? Qual papel o hardware desempenha? O que é necessário em nível de hardware para que a economia de energia seja possível e quais são os custos disso?</li>
+    <li>Quando se fala de estratégias modernas de economia de energia, o sistema operacional é o vilão ou é um aliado? Qual papel o sistema operacional desempenha? Em que medida a eficácia do sistema operacional no contexto de economia de energia depende mais do hardware e das aplicações  do que do sistema operacional?</li>
+    <li>Quais são as principais diferenças quando se trata de economia de energia em uma arquitetura de um processador versus uma arquitetura com processadores de múltiplos cores? O que funciona para um processador não funciona para vários? Por quê? Qual a responsabilidade do sistema operacional nesse contexto?</li>
+    <li>Por que critérios como justiça (fairness) e produtividade (productivity) se tornam relevantes quando se aborda estratégias de economia de energia? De que forma isso se relaciona com a abordagem de política e mecanismo que é fundamental em sistemas operacionais? De quem deve ser a responsabilidade de garantir essa justiça e produtividade?
+</li>
+  </ul>
+</div>
+<hr>
+
+
+ <div>
+  <a name="privacidade-camadas"></a><h2>Privacidade e Camadas do Sistema Computacional</h2>
+  <h3>Data do Debate: Maio/2025</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>Qual a importância de estudantes (e as pessoas de forma geral) conhecerem os recursos de privacidade fornecidos pelo sistema operacional instalado em seus dispositivos? Não está o sistema operacional por padrão contendo a melhor definição de privacidade para o usuário? Se não está, por que não? Não seria isso uma falha grave do sistema operacional?</li>
+    <li>Na perspectiva do sistema operacional, o Tor browser é apenas um processo. Se esse processo tem algo de especial que lhe torna melhor que outros em termos de privacidade/segurança, o que seria isso? Por que dedicar esforço implementando privacidade/segurança no nível do browser se o gerente que tem acesso a todo e qualquer recurso do dispositivo é o sistema operacional?</li>
+    <li>Em quais aspectos o problema da segurança e/ou privacidade deve ser resolvido no nível tecnológico e em que medida ele precisa ser resolvido no nível comportamental? Por exemplo, se nem mesmo estudantes de Ciência da Computação leem as políticas de privacidade, como a tecnologia poderia resolver isso? E se houve um vazamento de dados ou ataque, há situações em que é possível atribuir o problema à tecnologia?</li>
+    <li>Por construção, quais garantias a Tor network oferece me confidencialidade e quais ele não consegue entregar? Há o risco de usar essa tecnologia achando erroneamente que está protegido? Pela análise forense, quais tipos de proteção ou garantia de confiabilidade que realmente pode-se obter ao se usar essa tecnologia?</li>
+  </ul>
+</div>
+<hr>
+
+
+ <div>
+  <a name="localidade-temporal-desempenho"></a><h2>Localidade temporal e desempenho em sistemas computacionais</h2>
+  <h3>Data do Debate: Maio/2025</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>O princípio da localidade temporal é recorrente em sistemas computacionais como servidores da Internet, banco de dados, bloqueio de spam, mecanismos de busca, sistemas de comércio eletrônico, sistemas de e-mail, etc. O que torna esse princípio tão frequente? De que forma isso pode ser uma influência do comportamento do humano que usa esses sistemas? Como a forma de uso do sistema pelo usuário pode causar ou não temporalidade no baixo nível?</li>
+    <li>É claro que se o princípio da localidade temporal existir em um dado sistema, ele poderá ser explorado na engenharia desse sistema. Como surge a localidade temporal no caso de sistema local que há apenas um computador? De que forma o surgimento da localidade temporal pode estar relacionada à forma como nós projetamos esses sistemas, como linguagem de programação e estilos arquiteturais?</li>
+    <li>Considerando o contexto de aplicações de computação de alto desempenho (HPC Applications) como a exploração do princípio da localidade temporal permite melhoria de desempenho? Quais os mecanismos existentes nesse sistema em que políticas que exploram a temporalidade permitem ganho de desempenho? Qual o papel do sistema operacional nesse contexto?</li>
+    <li>Além do princípio da localidade temporal, sistemas computacionais também costumam exibir localidade espacial ou localidade de referência. Sempre que há localidade temporal também há localidade espacial? Por que? Como diferenciar essas localidades de modo a identificar (ou explorar) a influência que cada uma tem no desempenho de um dado sistema?
+</li>
+  </ul>
+</div>
+<hr>
+
+
+ <div>
+  <a name="cachig-armazenamento"></a><h2>Caching: armazenamento temporário de dados e efeitos no desempenho</h2>
+  <h3>Data do Debate: Maio/2025</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>O sistema computacional tem vários mecanismos implementados em software e hardware, incluindo escalonamento e caching. Como o caching é implementado em software para dispositivos móveis e para sistemas de distribuição de arquivos? O que exatamente esses sistemas buscam ao usar caching e por que caching é uma solução para isso?</li>
+    <li>Caching pode ser implementada por software em diferentes locais, como nos dispositivos dos usuários (como em PWA), nos servidores intermediários (como BitTorrent Caching), ou nos servidores de conteúdo. De que forma o comportamento humano pode afetar o desempenho desses dois tipos de cache?</li>
+    <li>Como o conceito de caching implementada por software se assemelha ao conceito de memória virtual implementada pelo sistema operacional? E como ele difere? Conceitualmente, como o fator de temporalidade e frequência de acesso afetam o desempenho desses mecanismos?</li>
+    <li>Qual é o fator (ou métrica) determinante quando se busca implementar caching via software como no ambiente BitTorrent e PWA? Qual é a métrica de interesse que se busca melhorar nesse contexto? É possível enunciar um contexto geral em que, sempre que o projetista estiver, a solução será usar caching? Se sim, qual contexto geral é esse?</li>
+  </ul>
+</div>
+<hr>
+
+
+ <div>
+  <a name="ia-malware"></a><h2>Interseções entre Inteligência Artificial e Malwares</h2>
+  <h3>Data do Debate: outubro/2024</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>Um processo que monitora o fluxo de chamadas de sistemas de um processo alvo precisa ser executado em modo núcleo? Em poucos segundos, um processo típico realiza milhares de system calls, é eficaz e eficiente realizar esse tipo de monitoramento em um sistema multitarefa típicos com dezenas de processos? Como lidar com isso?</li>
+    <li>Qual o risco de usar um sistema não determinístico com Generative IA (ex: ChatGPT) para gerar interpretações para relatórios de malwares? De quem é a culpa se a IA generativa omitir algo relevante? Qual o risco de fornecer para uma IA generativa dados tão sensíveis? Não pode a IA ter malwares?</li>
+    <li>O que exatamente é possível detectar no fluxo de chamadas de sistemas de um processo e que revelaria que um processo alvo é um malware? E o que exatamente é possível (e desejável) uma IA aprender nesse contexto? Qual a chance e o risco de um falso negativo neste contexto?</li>
+    <li>Como avaliar se o mecanismo de redução de redundância permite reduzir o tamanho do grafo ASG sem perder informação? O que exatamente a redundância significa? Não seria redundância informação relevante na detecção de malware? Por exemplo, o relevante é apenas usar sleep, quando, em que sequência e por quantas vezes sleep é usado?</li>
+  </ul>
+</div>
+<hr>
+
+
+ <div>
+  <a name="energia-performance"></a><h2>Performance e consumo de energia em sistemas de computação</h2>
+  <h3>Data do Debate: Outubro/2021</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>Qual a diferença entre a busca de economia de energia no nível de sistema em um sistema computacional centralizado (como realizado pelo PAFS) e em um sistema distribuído (como a realizada no grid)? Quais as diferenças dos mecanismos e políticas de energia nesses contextos?</li>
+    <li>Por que em um Grid além de escolher qual máquina colocar para dormir também é necessário decidir também qual máquina acordar?  No PAFS, o que influencia a decisão de mudar a frequência do processador?  Qual o papel do escalonador de tarefas no contexto do consumo de energia? </li>
+    <li>Qual a relação de custo-benefício no contexto de consumo de energia? A economia de energia é obtida sem nenhum custo? Se há custo, a que esse custo está associado? Quem se beneficia das abordagens de redução do consumo de energia? Quem paga eventual custo?</li>
+    <li>Qual a relação entre "computação verde" e "economia de energia" em sistemas computacionais? Por que é relevante buscar a economia de energia em sistemas computacionais? Isso é algo a ser resolvido no nível do software ou há também responsabilidades no nível do software (sistema e aplicação)? Se há, quais?</li>
+  </ul>
+</div>
+<hr>
+
+ <div>
+  <a name="vulnerabilidade-resistencia"></a><h2>Vulnerabilidades e resistência a ataques em Sistemas Operacionais</h2>
+  <h3>Data do Debate: Maio/2021</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>Quão vulneráveis são os sistemas operacionais? Os sistemas operacionais modernos são seguros? Se sim, o que garante a segurança? Se não, de que advém a insegurança?</li>
+    <li>Por que é tão difícil detectar um malware? Chega-se a combinar três níveis de verificação (estática, dinâmica e com aprendizagem de máquina)! Diante dessa complexidade, a quem deve caber a detecção de malware? Sistema operacional, antivírus, ou programas do usuário?</li>
+    <li>Uma das dificuldades de implementar mecanismos de proteção e segurança é que eles têm um custo. Por exemplo, um mecanismo para detectar malware vai consumir memória e CPU e pode ser intrusivo. Como prover a detecção de malware e ainda ser eficiente?</li>
+    <li>Muitas vezes engenheiros de software acreditam que é sua responsabilidade criar código seguro. No entanto, uma vulnerabilidade na camada inferior, como no Sistema Operacional, compromete tudo que está acima. Como fazer software seguro quando o problema pode estar na camada inferior? Como um engenheiro de software pode lidar com isso?</li>
+    <li>O tempo decorrido entre uma vulnerabilidade ser detectada e uma correção ser liberada é o mais crítico para os usuários. É um período em que a vulnerabilidade é conhecida e ainda não se tem uma proteção. Isso pode durar vários dias. Como engenheiros de software e usuários podem agir nesse contexto? Fazer de conta que o problema não existe?</li>
+    <li>Aparentemente há um padrão de vulnerabilidades que ocorrem em diferentes operacionais. Por que há um padrão nas vulnerabilidades? Por que sistemas operacionais que estão sendo desenvolvidos há décadas ainda têm vulnerabilidades? Está a engenharia de sistemas operacionais falhando? </li>
+  </ul>
+</div>
+<hr>
+
+
+ <div>
+  <a name="confiabilidade-desempenho"></a><h2>Confiabilidade e Desempenho de cima para baixo e de baixo para cima</h2>
+  <h3>Data do Debate: Maio/2021</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>Quando se fala de Intel Software Guard Extensions (SGX) se fala de algo muito micro na execução em uma máquina, mas quando se fala de BOINC e sistemas como SETI@home se fala de algo macro com centenas de milhares de máquinas. O que há de comum nesses dois contextos?</li>
+    <li>De que forma os mecanismos de implementação de segurança podem ser providos pelo hardware de processamento como o Intel SGX? Como isso viabiliza novas tecnologias, serviços e aplicações em ambientes como Computação na Nuvem?</li>
+    <li>No caso de sistemas de computação voluntária, como aqueles que usam o BOINC, qual é característica da carga de trabalho (tarefas) que tornaria o uso desse ambiente conveniente/vantajoso? Como avaliar o desempenho e a confiabilidade nesse contexto?</li>
+    <li>Qual a relação entre middleware e sistema operacional no caso de sistemas como o BOINC? Como as atividades de segurança e escalonamento se colocam nessa relação?</li>
+  </ul>
+</div>
+<hr>
+
+
+
+ <div>
+  <a name="vulnerabilidade-seguranca"></a><h2>Vulnerabilidade e Segurança em Sistemas Operacionais</h2>
+  <h3>Data do Debate: Outubro/2020</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>Por que é necessário o uso de algoritmos de Machine Learning para tentar prever o efeito ou  severidade de uma vulnerabilidade recém descoberta? Não seria apenas o caso de olhar no código do SO e ver o efeito? Há algo ambiental? O que torna o National Vulnerability Database uma fonte de dados adequada para treinar tais algoritmos?</li>
+    <li>Há um número maior de vulnerabilidades de alta severidade no SO Windows e há um um número maior de vulnerabilidades de média severidade no SO Linux. Por que isso ocorre? O quanto a fatia de mercado e disponibilidade do código fonte afeta esse padrão?</li>
+    <li>Diferentemente do SO, o processador acompanha a execução de cada instrução do processo. Diferentemente do processador, o SO tem poder de gerência sobre o processo, podendo encerrá-lo e limitar seu acesso a recursos, por exemplo. Nesse sentido, quais funções cada um desses componentes desempenham no combate a malwares? Como a eficácia e eficiência desse combate é afetada pelos dois?</li>
+    <li>Análise de instruções do binário, padrões de chamadas de sistemas, injeção de DLL são formas em software de detectar malware. Por que essas técnicas por si só não são suficientes? Qual é a dificuldade, para o SO, detectar que um processo está computando algo que ele não deveria computar ou acessando algo que ele não deveria acessar?</li>
+    <li>Observa-se um menor número de vulnerabilidades no SO da Apple.  Trata-se de não haver problemas ou de, na perspectiva do atacante, não valer a pena buscar por vulnerabilidade? Como saber qual o nível efetivo de segurança do sistema operacional se ele não for submetido a tentativa de ataque?</li>
+    <li>Técnicas de reconstrução do código como grafo de fluxo de controle e grafo de chamadas desempenham qual papel na detecção de malware? Por que o emprego dessas técnicas geralmente não é feito pelos sistemas operacionais e sim por software aplicativos, com os antivírus e antimalware.
+</li>
+  </ul>
+</div>
+<hr>
+
+
+
+
+ <div>
+  <a name="evolucao-systemcall"></a><h2>Evolução e utilidades das chamadas de sistemas</h2>
+  <h3>Data do Debate: Outubro/2019</h3>
+  <h3>Textos de referência para o debate</h3>
+  <ol>
+  <li> <a href=""></a>
+  <li> <a href=""></a>
+  </ol>
+  <h3>Questões colocadas durante o debate</h3>
+  <ul>
+    <li>De forma geral, o código do sistema operacional é antigo e está em constante evolução. Há elementos de estruturas antigas. Pode-se ir ajustando ou será que já podemos dizer que o tempo das chamadas de sistemas já passou? É chegada a hora de mudar para uma outra forma de interface?</li>
+    <li>Quem se beneficia desses estudos acerca da evolução das chamadas de sistemas e acerca de como o padrão de realização de chamadas pode revelar comportamentos maliciosos? O que mais poderia ser feito para maximizar esse benefício?</li>
+    <li>Como está a qualidade do código do sistema operacional, em termos de erros e de arquitetura? O que nos revela o fato de que 1/3 dos commits sobre system calls serem para correção de bugs? Por que tanta refatoração?
+</li>
+    <li>Por que algumas chamadas de sistemas (como ptrace) são mais difíceis de manter do que outras? Como lidar com código de chamadas de sistemas para diferente arquiteturas sobre as quais o sistema operacional executa? Em termos de engenharia de software, como lidar com isso?</li>
+  </ul>
+</div>
+<hr>
+
+	
+</div>
+	<!-- Footer section start -->
+	<footer class="footer-section">
+		<div class="container text-center">
+			<div class="copyright">
+                 The source code of this page is available at https://github.com/lesandrop
+			</div>
+		</div>
+	</footer>
+	<!-- Footer section end -->
+</body>
+</html>
