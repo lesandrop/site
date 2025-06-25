@@ -190,6 +190,7 @@ https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacion
 https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacionais-substituicao-de-paginas-memoria-virtual.html
 https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacionais-my-micro-filesystem-mymfs.html
 https://lesandrop.github.io/site/teaching/SO/praticas/pratica-sistemas-operacionais-escalonador-do-disco.html
+https://lesandrop.github.io/site/teaching/SO/aulas-de-sistemas-operacionais-com-debate-estruturado.html
 https://lesandrop.github.io/site/teaching/PS/PS-01-Nivelamento.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-02-ProjetoEmProcesso.pdf
 https://lesandrop.github.io/site/teaching/PS/PS-03-ModeloGeralDoProcessoDeProjeto.pdf
