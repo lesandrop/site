@@ -18,6 +18,12 @@ body {
   background: #F9F5E9;
 }
 
+.content-wide{
+  padding: 5em;
+  margin: auto;
+  max-width: 72em;
+}
+
 .content{
   padding: 1em;
   margin: auto;
