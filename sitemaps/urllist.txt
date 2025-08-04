@@ -168,6 +168,7 @@ https://lesandrop.github.io/site/teaching/IPI/Fichamentos/ExemploDeFichamento1.h
 https://lesandrop.github.io/site/teaching/IPI/Fichamentos/ExemploDeFichamento2.html
 https://lesandrop.github.io/site/teaching/IPI/Fichamentos/ExemploDeFichamento3.html
 https://lesandrop.github.io/site/teaching/IPI/percursoPesquisaGraduacao.html
+https://lesandrop.github.io/site/teaching/IPI/VidaDeCientista/Todo%20Imp%C3%A9rio%20Cient%C3%ADfico%20Chega%20ao%20Fim.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-01-Nivelamento.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-02-ContextualizacaoFuncionamentoDeSOs.pdf
 https://lesandrop.github.io/site/teaching/SO/SO-03-ProjetoEstruturaDeSOs.pdf
