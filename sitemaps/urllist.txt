@@ -48,6 +48,7 @@ https://lesandrop.github.io/site/papers/O%20papel%20do%20h%C3%A1bito%20de%20estu
 https://lesandrop.github.io/site/papers/Estrat%C3%A9gias%20de%20obten%C3%A7%C3%A3o%20de%20um%20item%20m%C3%A1ximo%20em%20Computa%C3%A7%C3%A3o%20por%20Humanos.pdf
 https://lesandrop.github.io/site/papers/An%C3%A1lise%20de%20Estrat%C3%A9gias%20de%20Computa%C3%A7%C3%A3o%20Verde%20em%20Grades%20Computacionais%20Oportunistas.pdf
 https://lesandrop.github.io/site/papers/CSA2017-E-01%20Symposium%20Advancing%20our%20Global%20Understanding%20of%20Citizen%20Science%20Engagement%20through%20Cross%20Programmatic%20Research%20-%20Abstracts.pdf
+https://lesandrop.github.io/site/papers/Finding-Volunteer-Engagement-Profiles-In-Human-Computation-For-Citizen-Science.pdf
 https://lesandrop.github.io/site/papers/reic2009tecnicafulltext.pdf
 https://lesandrop.github.io/site/papers/ctic2008descobertafulltext.pdf
 https://lesandrop.github.io/site/papers/ic2008analisefulltext.pdf
