@@ -20,7 +20,8 @@ main, article, .content {
 /* === Títulos com Elegância === */
 h1, h2, h3 {
   color: #1a1a1a;
-  margin: 40px 0 20px;
+  margin-top: 40px;
+  margin-bottom: 20px;
   font-weight: 600;
   position: relative;
 }
@@ -47,7 +48,7 @@ a:hover {
 
 /* === Navegação === */
 nav {
-  background-color: #fff;
+  background-color: #ffffff;
   border-bottom: 1px solid #ddd;
   padding: 10px 20px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
@@ -60,7 +61,7 @@ nav a:hover {
   color: #000;
 }
 
-/* === Blocos de Destaque === */
+/* === Blocos de Destaque com leve animação === */
 blockquote, .highlight {
   background-color: #eef6ff;
   border-left: 4px solid #3498db;
@@ -75,7 +76,7 @@ blockquote:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.06);
 }
 
-/* === Listas === */
+/* === Listas com espaçamento elegante === */
 ul, ol {
   padding-left: 25px;
   margin-bottom: 20px;
@@ -84,126 +85,167 @@ li {
   margin-bottom: 10px;
 }
 
-/* === Tabelas Responsivas === */
+
+/* Estilos para a tabela responsiva */
 .table-responsive {
-  width: 100%;
-  overflow-x: auto;
-  margin: 30px 0;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  border-radius: 6px;
+    width: 100%;
+    overflow-x: auto;
+    margin: 30px 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    border-radius: 6px;
 }
 
 .responsive-table {
-  width: 100%;
-  border-collapse: collapse;
-  min-width: 800px;
-}
-.responsive-table caption {
-  font-size: 1.1em;
-  font-weight: 600;
-  text-align: left;
-  margin-bottom: 10px;
-  color: #2c3e50;
-}
-.responsive-table th {
-  background-color: #eaeaea;
-  font-weight: 600;
-  position: sticky;
-  top: 0;
-}
-.responsive-table tr:nth-child(even) {
-  background-color: #f9f9f9;
-}
-.responsive-table tr:hover {
-  background-color: #f0f7ff;
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 800px; /* Largura mínima antes de ativar a rolagem horizontal */
 }
 
-/* Colunas específicas */
-.year-col, .access-col, .citations-col {
-  width: 80px;
+.responsive-table caption {
+    font-size: 1.1em;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 10px;
+    color: #2c3e50;
 }
+
+.responsive-table th,
+.responsive-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+.responsive-table th {
+    background-color: #eaeaea;
+    font-weight: 600;
+    position: sticky;
+    top: 0;
+}
+
+.responsive-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.responsive-table tr:hover {
+    background-color: #f0f7ff;
+}
+
+.responsive-table a {
+    color: #2980b9;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.responsive-table a:hover {
+    color: #1c5980;
+    text-decoration: underline;
+}
+
+/* Colunas específicas com largura otimizada */
+.year-col, .access-col, .citations-col {
+    width: 80px;
+}
+
 .citations-col {
-  text-align: center;
+    text-align: center;
 }
 
 .table-footnotes {
-  font-size: 0.9em;
-  color: #666;
-  margin-top: 10px;
-  padding: 10px;
-  border-top: 1px dashed #ddd;
-}
-
-/* === Media Queries === */
-@media screen and (max-width: 768px) {
-  .table-responsive {
-    box-shadow: none;
-    border: 1px solid #ddd;
-  }
-  .responsive-table {
-    min-width: 100%;
-  }
-  .responsive-table thead {
-    display: none;
-  }
-  .responsive-table tr {
-    display: block;
-    margin-bottom: 15px;
-    border: 1px solid #ddd;
-    border-radius: 6px;
+    font-size: 0.85em;
+    color: #666;
+    margin-top: 10px;
     padding: 10px;
-  }
-  .responsive-table td {
-    display: block;
-    border: none;
-    padding: 8px 10px 8px 50%;
-    position: relative;
-    text-align: left;
-  }
-  .responsive-table td:before {
-    content: attr(data-label);
-    position: absolute;
-    left: 10px;
-    width: 45%;
-    font-weight: 600;
-    color: #2c3e50;
-  }
-  .responsive-table td:not(:last-child) {
-    border-bottom: 1px dashed #eee;
-  }
-  .year-col, .access-col, .citations-col {
-    width: auto;
-  }
-  .citations-col {
-    text-align: left;
-  }
-  .semantic-scholar-info {
-    margin: 8px 0;
-    padding: 6px 10px;
-  }
-  .impact-content p {
-    margin-bottom: 8px;
-  }
+    border-top: 1px dashed #ddd;
 }
 
-/* === Conteúdo de impacto === */
+/* Estilos para dispositivos móveis */
+@media screen and (max-width: 768px) {
+    .table-responsive {
+        box-shadow: none;
+        border: 1px solid #ddd;
+    }
+    
+    .responsive-table {
+        min-width: 100%;
+    }
+    
+    .responsive-table thead {
+        display: none; /* Oculta cabeçalho em telas pequenas */
+    }
+    
+    .responsive-table tr {
+        display: block;
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 10px;
+    }
+    
+    .responsive-table td {
+        display: block;
+        text-align: left;
+        border: none;
+        padding: 8px 10px;
+        position: relative;
+        padding-left: 50%;
+    }
+    
+    .responsive-table td:before {
+        content: attr(data-label);
+        position: absolute;
+        left: 10px;
+        width: 45%;
+        font-weight: 600;
+        color: #2c3e50;
+    }
+    
+    .responsive-table td:not(:last-child) {
+        border-bottom: 1px dashed #eee;
+    }
+    
+    /* Ajustes para colunas específicas em mobile */
+    .year-col, .access-col, .citations-col {
+        width: auto;
+    }
+    
+    .citations-col {
+        text-align: left;
+    }
+}
+
+/* Estilos adicionais para o conteúdo de impacto */
 .impact-content {
-  font-size: 0.9em;
-  line-height: 1.5;
-}
-.semantic-scholar-info {
-  background-color: #f0f7ff;
-  border-left: 3px solid #3498db;
-  padding: 8px 12px;
-  margin-top: 10px;
-  font-size: 0.85em;
-  border-radius: 0 4px 4px 0;
-}
-.semantic-scholar-info strong {
-  color: #2c3e50;
+    font-size: 0.9em;
+    line-height: 1.5;
 }
 
-/* === Tabelas gerais === */
+.semantic-scholar-info {
+    background-color: #f0f7ff;
+    border-left: 3px solid #3498db;
+    padding: 8px 12px;
+    margin-top: 10px;
+    font-size: 0.85em;
+    border-radius: 0 4px 4px 0;
+}
+
+.semantic-scholar-info strong {
+    color: #2c3e50;
+}
+
+/* Ajustes para mobile */
+@media screen and (max-width: 768px) {
+    .semantic-scholar-info {
+        margin: 8px 0;
+        padding: 6px 10px;
+    }
+    
+    .impact-content p {
+        margin-bottom: 8px;
+    }
+}
+
+/* === Tabelas com estilo limpo === */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -220,7 +262,7 @@ th {
   font-weight: 600;
 }
 
-/* === Imagens === */
+/* === Imagens centralizadas e suaves === */
 img {
   max-width: 100%;
   height: auto;
@@ -229,26 +271,12 @@ img {
   border-radius: 6px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
-figure {
-  text-align: center;
-  margin: 20px auto;
-  max-width: 80%;
-}
-figure img {
-  border-radius: 8px;
-}
-figcaption {
-  font-size: 0.9em;
-  color: #555;
-  margin-top: 8px;
-  font-style: italic;
-}
 
-/* === Seções === */
+/* === Seções com respiro e destaque === */
 section {
   margin-bottom: 50px;
   padding: 30px 40px;
-  background-color: #fff;
+  background-color: #ffffff;
   border-radius: 10px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.04);
   transition: box-shadow 0.3s ease;
@@ -257,7 +285,7 @@ section:hover {
   box-shadow: 0 4px 16px rgba(0,0,0,0.08);
 }
 
-/* === Rodapé === */
+/* === Rodapé elegante === */
 footer {
   text-align: center;
   font-size: 14px;
@@ -268,14 +296,79 @@ footer {
   background-color: #f0f0f0;
 }
 
-/* === Índice === */
-.indice a,
-.indice a:visited {
+.indice {
+  margin: 40px 0;
+  padding: 0;
+  margin-left: 40px; /* recuo à esquerda */
+}
+.indice h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: #2c3e50;
+}
+.indice ul {
+  list-style: none;
+  padding-left: 0;
+}
+.indice li {
+  margin-bottom: 10px;
+}
+.indice a {
+  font-size: 18px;
   color: #2980b9;
   text-decoration: none;
+  padding-left: 18px;
+  position: relative;
+}
+.indice a::before {
+  content: "➤";
+  position: absolute;
+  left: 0;
+  color: #3498db;
+  font-size: 14px;
+}
+.indice a:hover {
+  text-decoration: underline;
+  color: #1c5980;
 }
 
-.indice a:hover {
-  color: #1c5980;
-  text-decoration: underline;
+.nota {
+  float: right;
+  width: 30%;
+  background: #eef6ff;
+  border: 1px solid #cce0ff;
+  padding: 8px;
+  margin: 0 0 1em 1em;
+  font-size: 0.9em;
 }
+
+figure {
+  text-align: center;       /* Centraliza imagem e legenda */
+  margin: 20px auto;        /* Espaçamento e centralização */
+  max-width: 80%;           /* Ajusta largura máxima */
+}
+
+figure img {
+  max-width: 100%;          /* Imagem responsiva */
+  height: auto;             /* Mantém proporção */
+  border-radius: 8px;       /* Bordas arredondadas (opcional) */
+}
+
+figcaption {
+  font-size: 0.9em;         /* Texto um pouco menor */
+  color: #555;              /* Cor mais suave */
+  margin-top: 8px;          /* Espaço entre imagem e legenda */
+  font-style: italic;       /* Destaque sutil */
+}
+
+   /* Estilo para notas em rodapé */
+    .footnotes {
+      font-size: 0.85em;
+      color: #444;
+      border-top: 1px dashed #ccc;
+      padding-top: 0.5em;
+    }
+
+    .footnotes li {
+      margin-bottom: 0.3em;
+    }
