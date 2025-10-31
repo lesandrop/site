@@ -152,7 +152,7 @@ li {
 }
 
 .table-footnotes {
-    font-size: 0.85em;
+    font-size: 0.9em;
     color: #666;
     margin-top: 10px;
     padding: 10px;
@@ -361,14 +361,15 @@ figcaption {
   font-style: italic;       /* Destaque sutil */
 }
 
-   /* Estilo para notas em rodapé */
-    .footnotes {
+/* Estilo para notas em rodapé */
+.footnotes {
       font-size: 0.85em;
       color: #444;
       border-top: 1px dashed #ccc;
       padding-top: 0.5em;
-    }
+}
 
-    .footnotes li {
+.footnotes li {
       margin-bottom: 0.3em;
-    }
+ }
+
