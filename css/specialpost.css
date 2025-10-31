@@ -157,6 +157,13 @@ li {
     margin-top: 10px;
     padding: 10px;
     border-top: 1px dashed #ddd;
+   line-height: 1.4;      /* harmoniza leitura */
+
+}
+
+.table-footnotes p {
+  font-size: inherit;    /* força herdar do contêiner */
+  margin: 0;             /* evita espaçamento que parece “maior” */
 }
 
 /* Estilos para dispositivos móveis */
@@ -372,4 +379,5 @@ figcaption {
 .footnotes li {
       margin-bottom: 0.3em;
  }
+
 
