@@ -127,7 +127,7 @@ li {
 }
 
 .table-footnotes {
-  font-size: 0.85em;
+  font-size: 0.9em;
   color: #666;
   margin-top: 10px;
   padding: 10px;
@@ -269,5 +269,13 @@ footer {
 }
 
 /* === Índice === */
-.indice {
-  margin: 40px 0 0 40
+.indice a,
+.indice a:visited {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.indice a:hover {
+  color: #1c5980;
+  text-decoration: underline;
+}
