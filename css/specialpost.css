@@ -349,6 +349,18 @@ footer {
   font-size: 0.9em;
 }
 
+/* em telas menores: empilhar no fluxo do texto */
+@media (max-width: 768px) {
+  .nota {
+    float: none;          /* remove o alinhamento lateral */
+    width: 100%;          /* ocupa toda a largura */
+    margin: 1em 0;        /* espaçamento acima/abaixo */
+    padding: 0.5em 1em;   /* respiro interno */
+    background: #f9f9f9;  /* destaque leve */
+    border-left: 3px solid #ccc; /* marcador visual */
+  }
+}
+
 figure {
   text-align: center;       /* Centraliza imagem e legenda */
   margin: 20px auto;        /* Espaçamento e centralização */
@@ -397,3 +409,4 @@ figcaption {
     line-height: 1.75; 
     letter-spacing: 0.2px;
 }
+
