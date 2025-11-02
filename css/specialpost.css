@@ -356,7 +356,7 @@ footer {
     width: 100%;          /* ocupa toda a largura */
     margin: 1em 0;        /* espaçamento acima/abaixo */
     padding: 0.5em 1em;   /* respiro interno */
-    background: #f9f9f9;  /* destaque leve */
+    background: #eef6ff;  /* destaque leve */
     border-left: 3px solid #ccc; /* marcador visual */
   }
 }
@@ -409,4 +409,5 @@ figcaption {
     line-height: 1.75; 
     letter-spacing: 0.2px;
 }
+
 
