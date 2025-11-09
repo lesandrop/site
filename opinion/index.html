@@ -73,6 +73,10 @@
 </header>
 
 
+<div class="content" id="one">
+<h1>Blog Academizando </h1>
+<p>Blog de Lesandro Ponciano</p>
+
 <script>
 const RSS_URL = `https://lesandrop.github.io/site/feed.xml`;
 
@@ -101,11 +105,7 @@ fetch(RSS_URL)
   .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
   .then(data => {
     const items = data.querySelectorAll("item");
-    let html = `<div class="content">
-          <h1>Blog Academizando </h1>
-	  <p>Blog de Lesandro Ponciano</p>
-          <p><a href="https://lesandrop.github.io/site/feed.xml">XML RSS feed</a></p>
-     `;
+    let html = `<p><a href="https://lesandrop.github.io/site/feed.xml">XML RSS feed</a></p>`;
     items.forEach(el => {
       html += `
         <div class="div-1">
@@ -121,19 +121,19 @@ fetch(RSS_URL)
         </div>
       `;
     });
-    html += `</div>
-    	<footer class="footer-section">
-		<div class="container text-center">
-			<div class="copyright">
-The source code of this page is available at https://github.com/lesandrop
-			</div>
-		</div>
-	</footer>
-	      `;
-    document.body.insertAdjacentHTML("beforeend", html);
+    var d1 = document.getElementById("one");
+    d1.insertAdjacentHTML("afterend", html);
   });
 </script>
 
+</div>
+    	<footer class="footer-section">
+		<div class="container text-center">
+			<div class="copyright">
+				The source code of this page is available at https://github.com/lesandrop
+			</div>
+		</div>
+	</footer>
 
  </body>
 </html>
