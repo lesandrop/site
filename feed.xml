@@ -7,10 +7,21 @@
   <description>Ciência, educação e reflexões sociais</description>
   <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
   <item>
+  <title>O que estudantes de Engenharia de Software aprendem e que todos deveriam saber?</title>
+  <link>https://lesandrop.github.io/site/opinion/aos-olhos-de-um-estudante-de-engenharia-de-software.html</link>
+  <guid>https://lesandrop.github.io/site/opinion/aos-olhos-de-um-estudante-de-engenharia-de-software.html</guid>
+  <pubDate>Sun, 07 Dec 2025 10:00:00 GMT</pubDate>
+  <author>Lesandro Ponciano</author>
+  <category>Blog Academizando</category>
+ <description>Este texto apresenta reflexões de estudantes de Engenharia de Software sobre problemas reais do cotidiano relacionados ao uso da tecnologia. Elas estão registradas em um vídeo-documentário produzido como atividade de extensão universitária: "Problemas do Dia a Dia pelos Olhos de Estudantes de Engenharia de Software". Ele desenvolve a ideia de que talvez seja hora de convidar todos a parar de apenas consumir tecnologia e começar a compreendê-la de verdade.</description>
+</item>
+  <item>
   <title>Memórias digitais e presente conectado: a internet está chata?</title>
   <link>https://lesandrop.github.io/site/opinion/a-internet-esta-chata.html</link>
   <guid>https://lesandrop.github.io/site/opinion/a-internet-esta-chata.html</guid>
   <pubDate>Sat, 29 Nov 2025 10:00:00 GMT</pubDate>
+  <author>Lesandro Ponciano</author>
+  <category>Blog Academizando</category>
   <description>Reflexão sobre a evolução dos sistemas online, nostalgia de plataformas descontinuadas como MSN e Orkut, e debate sobre se a internet perdeu espontaneidade ao se tornar dominada por big techs e conteúdos artificiais. Relatos de uma prática extensionista em que estudantes gravaram um documentário sobre sistemas populares na internet que foram descontinuados.</description>
 </item>
   <item>
@@ -18,39 +29,51 @@
   <link>https://lesandrop.github.io/site/opinion/livro-ciencia-cidada-alan-irwin-30-anos-depois.html</link>
   <guid>https://lesandrop.github.io/site/opinion/livro-ciencia-cidada-alan-irwin-30-anos-depois.html</guid>
   <pubDate>Mon, 14 Nov 2025 10:00:00 GMT</pubDate>
-  <description> Quais discussões estiveram na origem da proposta do conceito de ciência cidadã? Reli o livro Ciência Cidadã, de Alan Irwin, três décadas após sua publicação. A obra discute a necessidade de promover uma ciência democrática que tenha relevância para a sociedade. Nos últimos anos, surgiram diversas associações e projetos, hoje impulsionados pela internet e pelos smartphones. A ciência cidadã se consolidou como referência para o engajamento das pessoas com a ciência. Nesta resenha, apresento algumas reflexões sobre esse conceito, articulando o cenário atual com o contexto e a origem da obra.</description>
+  <author>Lesandro Ponciano</author>
+  <category>Blog Academizando</category>
+  <description> Quais discussões estiveram na origem da proposta do conceito de ciência cidadã? Reli o livro Ciência Cidadã, de Alan Irwin, três décadas após sua publicação. A obra discute a necessidade de promover uma ciência democrática que tenha relevância para a sociedade. Nesta resenha, apresento algumas reflexões sobre esse conceito, articulando o cenário atual com o contexto e a origem da obra.</description>
 </item>
   <item>
   <title>O doutorado 10 anos depois da defesa</title>
   <link>https://lesandrop.github.io/site/opinion/10-anos-do-doutorado.html</link>
   <guid>https://lesandrop.github.io/site/opinion/10-anos-do-doutorado.html</guid>
   <pubDate>Mon, 03 Nov 2025 10:00:00 GMT</pubDate>
-  <description> Neste mês completam 10 anos da defesa do meu trabalho de doutorado. Neste artigo, revisito minha tese sobre computação por humanos, refletindo sobre engajamento, credibilidade e os desdobramentos dez anos após a defesa. Muitos relatos e histórias apresentados aqui não estão presentes na tese. São conteúdos muito pessoais que não cabiam ser discutidos na tese ou cujo significado e importância ainda não eram plenamente compreendidos. Aprendi, sobretudo, que a ciência nunca é uma jornada solitária: ela floresce no diálogo com colegas, voluntários e comunidades, e esse caráter coletivo revela lições que ultrapassam fronteiras disciplinares e permanecem válidas ao longo do tempo. </description>
+  <author>Lesandro Ponciano</author>
+  <category>Blog Academizando</category>
+  <description> Neste mês completam 10 anos da defesa do meu trabalho de doutorado. Neste artigo, revisito minha tese sobre computação por humanos, refletindo sobre engajamento, credibilidade e os desdobramentos dez anos após a defesa. Muitos relatos e histórias apresentados aqui não estão presentes na tese. </description>
 </item>
   <item>
   <title>O nacionalismo brasileiro é daqueles que ama, defende, questiona e confronta o Brasil</title>
     <pubDate>Mon, 04 Aug 2025 10:00:00 GMT</pubDate>
-    <link>https://lesandrop.github.io/site/opinion/nacionalismo-brasileiro-ama-defende-questiona-e-confronta-o-Brasil.html</link>
-    <description>Neste texto, reflito um pouco sobre o nacionalismo brasileiro — aquele que confronta o país com críticas e xingamentos, mas também o defende com paixão. A partir de minhas observações do país atualmente e da análise do poema “Brasil Atrapalhado” de Djalma Andrade, vejo como o amor à pátria está presente até nas reclamações mais duras. O poema, que eu recitei quando era estudante do ensino fundamental, é o retrato mais fiel que conheço do nacionalismo brasileiro — daquele que ama o país, mas, ao mesmo tempo, o confronta, o xinga... </description>
-    <guid>https://lesandrop.github.io/site/opinion/nacionalismo-brasileiro-ama-defende-questiona-e-confronta-o-Brasil.html</guid>
+    <link>https://lesandrop.github.io/site/opinion/nacionalismo-brasileiro-ama-defende-questiona-e-confronta-o-Brasil.html</link>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
+    <guid>https://lesandrop.github.io/site/opinion/nacionalismo-brasileiro-ama-defende-questiona-e-confronta-o-Brasil.html</guid>
+    <description>Neste texto, reflito um pouco sobre o nacionalismo brasileiro — aquele que confronta o país com críticas e xingamentos, mas também o defende com paixão. A partir de minhas observações do país atualmente e da análise do poema “Brasil Atrapalhado” de Djalma Andrade, vejo como o amor à pátria está presente até nas reclamações mais duras. </description>
   </item>
   <item>
   <title>Livros bons exigem sintonia: notas sobre “O Mercador de Veneza” e “Em Busca de Mim”</title>
     <pubDate>Sun, 27 Jul 2025 10:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/livros-sintonia-mercador-veneza-em-busca-de-mim.html</link>
-    <description>Livros bons exigem muito do leitor. É preciso sintonia. Durante meu recesso, li dois livros que estavam há algum tempo esperando o momento. Comecei com "O Mercador de Veneza", inspirado pela interpretação que Lázaro Ramos fez das palavras de Shylock sobre nossa humanidade compartilhada. Depois, li "Em Busca de Mim", autobiografia da Viola Davis. É um livro muito bom. Se você já viveu — ou vive — a pobreza, a violência física e psicológica, o racismo, ou foi considerado fisicamente feio pela sociedade, é muito provável que esse livro vá te impactar. Neste texto, compartilho algumas reflexões sobre essas obras... </description>
+    <description>Livros bons exigem muito do leitor. É preciso sintonia. Durante meu recesso, li dois livros que estavam há algum tempo esperando o momento. Comecei com "O Mercador de Veneza", inspirado pela interpretação que Lázaro Ramos fez das palavras de Shylock sobre nossa humanidade compartilhada. Depois, li "Em Busca de Mim", autobiografia da Viola Davis. Neste texto, compartilho algumas reflexões sobre essas obras... </description>
     <guid>https://lesandrop.github.io/site/opinion/livros-sintonia-mercador-veneza-em-busca-de-mim.html</guid>
   </item>
   <item>
   <title>A conquista do universo digital pela Inteligência Artificial</title>
     <pubDate>Wed, 16 Jul 2025 10:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/ia-conquista-universo-digital.html</link>
-    <description>Em plataformas como YouTube e TikTok, conteúdos criados por Inteligência Artificial dominam sua timeline. Seja no entretenimento — como os vídeos das adolescentes góticas de Xique-Xique, Bahia — ou na sátira política “Hugo Nem Se Importa”, a inteligência artificial mostra-se ferramenta indispensável ao produzir som e imagem com realismo impressionante. Este ano completam 10 anos desde a defesa da minha tese de doutorado, revisitei o texto e pedi uma ajudinha da Inteligência Artificial para sintetizar as informações por meio de um episódio de podcast. O resultado me surpreendeu... </description>
+    <description>Em plataformas como YouTube e TikTok, conteúdos criados por Inteligência Artificial dominam sua timeline. Seja no entretenimento — como os vídeos das adolescentes góticas de Xique-Xique, Bahia — ou na sátira política “Hugo Nem Se Importa”, a inteligência artificial mostra-se ferramenta indispensável ao produzir som e imagem com realismo impressionante. Neste texto, reflito um pouco sobre o uso de inteligência artificial.</description>
     <guid>https://lesandrop.github.io/site/opinion/ia-conquista-universo-digital.html</guid>
   </item>
   <item>
   <title>Dia Nacional de Conscientização sobre as Mudanças Climáticas 2025: Falta Conhecimento, Falta Interesse e Sobra Inércia</title>
     <pubDate>Sat, 15 Mar 2025 10:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/DiaNacionalConscientizacaoSobreMudancasClimaticas2025.html</link>
     <description>O Dia Nacional de Conscientização sobre as Mudanças Climáticas foi decretado pela Lei Nº 12.533, de 2 de dezembro de 2011. Qual é o propósito de instituir esse dia, se ações concretas de conscientização continuam ausentes ano após ano? Fora cientistas e ambientalistas, quem sabe da existência do Dia Nacional de Conscientização sobre as Mudanças Climáticas?...</description>
     <guid>https://lesandrop.github.io/site/opinion/DiaNacionalConscientizacaoSobreMudancasClimaticas2025.html</guid>
@@ -58,27 +81,35 @@
   <item>
   <title>A autopreservação no poema “Não! Só quero a liberdade!” de Fernando Pessoa</title>
     <pubDate>Wed, 05 Mar 2025 10:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/a-autopreservacao-no-poema-nao-so-quero-a-liberdade-de-fernando-pessoa.html</link>
-    <description>Neste feriado de Carnaval, entre um vídeo e outro, encontrei na TV uma playlist de poemas de Fernando Pessoa. Ouvi 15 poemas. O poema “Não! Só quero a liberdade!” chamou a minha atenção. Ele é um grito de protesto. É como se o autor dissesse “me deixe em paz” ou “fique com suas coisas e me deixe com as minhas”. Ele chega ao nosso tempo quase que com afronta ou desprezo pelo estilo de vida atual...</description>
+    <description>Neste feriado de Carnaval, entre um vídeo e outro, encontrei na TV uma playlist de poemas de Fernando Pessoa. Ouvi 15 poemas. O poema “Não! Só quero a liberdade!” chamou a minha atenção. Ele é um grito de protesto. É como se o autor dissesse “me deixe em paz” ou “fique com suas coisas e me deixe com as minhas”. Ele chega ao nosso tempo quase que com afronta ou desprezo pelo estilo de vida atual.</description>
     <guid>hhttps://lesandrop.github.io/site/opinion/a-autopreservacao-no-poema-nao-so-quero-a-liberdade-de-fernando-pessoa.html</guid>
   </item>
   <item>
   <title>Estamos defendendo um mundo velho e fadado à morte?</title>
     <pubDate>Sun, 09 Feb 2025 10:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/defendendo-mundo-velho.html</link>
-    <description>Há momentos em que insistimos em querer que as coisas sejam como eram ou como as conhecíamos. Será que estamos defendendo um mundo que está em decadência, que está morrendo? Estamos relutantes enquanto sentimos a vertigem e as dores do nascimento inevitável de um mundo novo e desconhecido? Pensemos um pouco sobre algumas situações atuais...</description>
+    <description>Há momentos em que insistimos em querer que as coisas sejam como eram ou como as conhecíamos. Será que estamos defendendo um mundo que está em decadência, que está morrendo? Estamos relutantes enquanto sentimos a vertigem e as dores do nascimento inevitável de um mundo novo e desconhecido? Pensemos um pouco sobre algumas situações atuais.</description>
     <guid>https://lesandrop.github.io/site/opinion/defendendo-mundo-velho.html</guid>
   </item>
   <item>
   <title>"De onde saiu isso?": Bolhas e Mundos Informacionais Online</title>
     <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/de-onde-saiu-isso.html</link>
-    <description>Já aconteceu de você se deparar com um vídeo publicado há anos, com milhões de visualizações, e ser algo totalmente desconhecido para você? E não apenas você não conhecia o vídeo como também não sabia do conteúdo nele discutido? Ainda, já aconteceu de você tomar conhecimento de um influenciador que tem milhões de seguidores e você nunca ter ouvido falar dele? Não se trata de ser mal informado. A segmentação feita pelas plataformas coloca cada pessoa fechada em um mundo informacional...</description>
+    <description>Já aconteceu de você se deparar com um vídeo publicado há anos, com milhões de visualizações, e ser algo totalmente desconhecido para você? E não é apenas que você não conhecia o vídeo, mas também você não sabia do conteúdo nele discutido? Ainda, já aconteceu de você tomar conhecimento de um influenciador que tem milhões de seguidores e você nunca ter ouvido falar dele? Não se trata de ser mal informado. A segmentação feita pelas plataformas coloca cada pessoa fechada em um mundo informacional.</description>
     <guid>https://lesandrop.github.io/site/opinion/de-onde-saiu-isso.html</guid>
   </item>
   <item>
   <title>As bases, força e persistência daquilo que faz sentido</title>
     <pubDate>Fri, 19 Jan 2025 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/forca-persistencia-faz-sentido.html</link>
     <description>Sabemos que buscamos constantemente encontrar sentido no que está à nossa volta. Mas como percebemos que algo faz sentido? Qual é a base sobre a qual se constrói o sentido? Em quais situações nos equivocamos ao atribuir sentido? Esta reflexão agrega noções da razão por que percebemos que algo faz sentido e de por que coisas que fazem sentido tendem a resistir ao teste do tempo...</description>
     <guid>https://lesandrop.github.io/site/opinion/forca-persistencia-faz-sentido.html</guid>
@@ -86,6 +117,8 @@
   <item>
   <title>O Risco de Propagação do Modelo Elon Musk</title>
     <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/modelo-elon-musk.html</link>
     <description>A cultura das empresas de tecnologia está mudando profundamente. Os nerds visionários estão perdendo espaço, enquanto os empresários e estrategistas estão entrando em cena. Tais empresas sabem o poder que seus sistemas têm. Estão pressionando para saber até onde conseguem ditar a forma de funcionamento da sociedade, controlar as opiniões das pessoas e se colocar como um poder supranacional...</description>
     <guid>https://lesandrop.github.io/site/opinion/modelo-elon-musk.html</guid>
@@ -93,6 +126,8 @@
   <item>
   <title>Resumo dos principais tópicos em educação, ciência e tecnologia acompanhados ao longo de 2024</title>
     <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/educacao-ciencia-tecnologia-2024.html</link>
     <description>A reflexão sobre o ano que termina não é saudosismo ou melancolismo, mas sim uma análise que permite distinguir o que deve ficar no passado e o que deve seguir como aprendizado. A reflexão leva ao aprendizado que é essencial para o futuro. Aqui coloco apenas algumas reflexões sobre tópicos que tenho escolhido acompanhar, que são importantes para mim....</description>
     <guid>https://lesandrop.github.io/site/opinion/educacao-ciencia-tecnologia-2024.html</guid>
@@ -100,6 +135,8 @@
   <item>
     <title>A Relevância da Leitura na Era dos Vídeos, Audiobooks e Inteligência Artificial</title>
     <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/leitura-na-era-dos-videos-audiobooks-e-ias.html</link>
     <description>A discussão sobre ter ou não um hábito de leitura desperta algumas emoções, principalmente nas pessoas mais jovens, que atualmente se envolvem mais com imagens e vídeos do que com textos. É importante olhar com realismo a construção do hábito de leitura nos dias atuais. É válido tentar se valer de outras mídias. Em alguns casos, elas são realmente efetivas. No entanto, é perigoso apenas abandonar o hábito de leitura ou tratá-lo como algo obsoleto, desnecessário...</description>
     <guid>https://lesandrop.github.io/site/opinion/leitura-na-era-dos-videos-audiobooks-e-ias.html</guid>
@@ -107,6 +144,8 @@
   <item>
     <title>Por que redes sociais como Mastodon ainda não são amplamente usadas no Brasil?</title>
     <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/mastodon-ainda-pouco-usado.html</link>
     <description>Este texto discute o funcionamento básico das redes sociais descentralizadas, como Mastodon, e analisa os argumentos sobre por que essas redes ainda não são amplamente usadas no Brasil. Em particular, analisa-se os argumentos de que as pessoas não querem migrar da rede que já usam, de que a interface do Mastodon é difícil de usar e de que há desafios técnicos, econômicos e de governança que são barreiras à ampla adoção...</description>
     <guid>https://lesandrop.github.io/site/opinion/mastodon-ainda-pouco-usado.html</guid>
@@ -114,48 +153,62 @@
   <item>
     <title>Na impossibilidade de agir contra malfeitos e atrocidades, pode-se testemunhar</title>
     <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/dever-de-testemunhar.html</link>
-    <description>“Testemunhar”. Eis uma palavra intrigante. Seu significado se coloca entre a mera observação e a ação. Testemunhar é declarar ter visto, declarar ter ouvido e declarar ter conhecido. Se não se pode agir ou se qualquer ação que se tenta se mostra inócua, ainda pode-se testemunhar. Pode-se registrar, dizer e declarar ter visto. Cuidar para que malfeitos e atrocidades não fiquem ocultos. Combater o eufemismo que tenta suavizar e esconder a realidade. Só se dispõe a testemunhar quem não é indiferente, quem se importa, quem, se pudesse, teria agido...</description>
+    <description>“Testemunhar”. Eis uma palavra intrigante. Testemunhar é declarar ter visto, declarar ter ouvido e declarar ter conhecido. Se não se pode agir ou se qualquer ação que se tenta se mostra inócua, ainda pode-se testemunhar. Pode-se registrar, dizer e declarar ter visto. Só se dispõe a testemunhar quem não é indiferente, quem se importa, quem, se pudesse, teria agido...</description>
     <guid>https://lesandrop.github.io/site/opinion/dever-de-testemunhar.html</guid>
   </item>
   <item>
     <title>Participação na Masterclass sobre Ciência Cidadã organizada pela CEPAL/ONU e LIBER</title>
     <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/ciencia-cidada-CEPAL-LIBER.html</link>
-    <description>Nas últimas duas semanas, revisitei e busquei me atualizar sobre o que tem ocorrido em ciências participativas. Estava preparando a palestra intitulada "Construindo Capacidade: Dados, Informações e Conhecimentos na Construção e Partilha do Saber". Essa palestra foi parte de um conjunto de master class sobre Ciência Cidadã organizadas pela Comissão Econômica para a América Latina e o Caribe (CEPAL) das Organizações das Nações Unidas (ONU) e Association of European Research Libraries (LIBER). O foco da palestra foi discutir como o conhecimento é construído pelos participantes junto com os cientistas...</description>
+    <description>Neste texto, discuto um pouco sobre a palestra que ministrei como parte de um conjunto de master class sobre Ciência Cidadã organizadas pela Comissão Econômica para a América Latina e o Caribe (CEPAL) das Organizações das Nações Unidas (ONU) e Association of European Research Libraries (LIBER). O foco da palestra foi discutir como o conhecimento é construído pelos participantes junto com os cientistas...</description>
     <guid>https://lesandrop.github.io/site/opinion/ciencia-cidada-CEPAL-LIBER.html</guid>
   </item>
   <item>
     <title>Alguns casos de definição de área e questão de pesquisa científica</title>
     <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/casos-questao-pesquisa-mestrado.html</link>
-    <description>A internet está cheia de dicas sobre como um estudante ou pesquisador pode escolher um tema ou área para sua pesquisa científica. Apesar de haver várias dicas relevantes, a validade delas varia muito com o contexto em que a pessoa se encontra. Eu já me encontrei em todos esses contextos, mas neste texto estou interessado no caso do estudante. Em particular, as reflexões desse texto são mais pertinentes ao contexto do estudante em nível de mestrado. Primeiro, vou discutir algumas dicas baseadas na experiência de bons pesquisadores: Donald Knuth e Arthur Ávila. Depois disso, vou contar o caso do meu trabalho de mestrado, quais escolhas precisei fazer para chegar aos trabalhos que fiz e o que aprendi com essas escolhas....</description>
+    <description>A internet oferece muitas dicas sobre como escolher um tema ou área de pesquisa científica. A validade dessas orientações depende do contexto, mas aqui foco no estudante de mestrado. Primeiro, apresento algumas reflexões inspiradas na experiência de pesquisadores como Donald Knuth e Arthur Ávila. Em seguida, relato meu próprio trabalho de mestrado, as escolhas que precisei fazer e os aprendizados que obtive nesse processo.</description>
     <guid>https://lesandrop.github.io/site/opinion/casos-questao-pesquisa-mestrado.html</guid>
   </item>
   <item>
     <title>Sustentabilidade sob diferentes olhares: Reflexões e Perspectivas do PSVS24</title>
     <pubDate>Wed, 29 Oct 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/sustentabilidade-psvs24.html</link>
-    <description>Entre os dias 21 e 25 de outubro de 2024, aconteceu em Recife, Pernambuco, o Pernambuco Seminar on Visualization and Sustainability (PSVS24). Participei do evento a convite dos organizadores, os professores Luiz Augusto Morais e Nivan Roberto Ferreira Júnior, da Universidade Federal de Pernambuco. Minha percepção geral é que o evento permitiu analisar a sustentabilidade sob uma diversidade de olhares. O nível de interseção entre os conteúdos das apresentações foi o mínimo necessário. Cada palestrante trouxe uma perspectiva única. O resultado é um conjunto de perspectivas construídas a partir de diferentes realidades, diferentes locais de existência...</description>
+    <description>Entre 21 e 25 de outubro de 2024, ocorreu em Recife o Pernambuco Seminar on Visualization and Sustainability (PSVS24). Participei a convite dos professores Luiz Augusto Morais e Nivan Roberto Ferreira Júnior, da UFPE. O evento possibilitou analisar a sustentabilidade sob múltiplos olhares, com mínima interseção entre os conteúdos. Cada palestrante trouxe uma visão única, resultando em um conjunto de perspectivas oriundas de diferentes realidades.</description>
     <guid>https://lesandrop.github.io/site/opinion/sustentabilidade-psvs24.html</guid>
   </item>
   <item>
     <title>Sobre analfabetismo, visualização, correção com caneta vermelha, notas vermelhas e azuis</title>
     <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/analfabetismo-visualizacao-vermelho-azul.html</link>
-    <description>Vivíamos em um mundo bem diferente no fim da década de 80 e início da década de 90 do século XX. Naquela época, o boletim escolar aterrorizava muito as crianças. O boletim era a materialização do sucesso ou do insucesso. No bairro em que eu morava, grande parte das mães e pais eram analfabetos. Eles entendiam as notas? Eles entendiam os conteúdos curriculares? Creio que eles não entendiam nada disso. No entanto, a escola tinha um recurso que era muito inteligente. Quando a nota do estudante no bimestre estava abaixo da média (abaixo de 60% dos pontos distribuídos), a nota era escrita com caneta vermelha. Senão, ela era escrita com caneta azul. Era uma visualização muito simples, mas também muito efetiva...</description>
+    <description>No fim dos anos 80 e início dos 90, o boletim escolar aterrorizava crianças, simbolizando sucesso ou fracasso. Muitos pais eram analfabetos e não compreendiam notas ou conteúdos. A escola, porém, usava um recurso simples e eficaz: notas abaixo da média eram escritas em vermelho; acima, em azul. Essa visualização direta transmitia claramente o desempenho.</description>
     <guid>https://lesandrop.github.io/site/opinion/analfabetismo-visualizacao-vermelho-azul.html</guid>
   </item>
   <item>
     <title>Ansiedade e normalização climática em meio à dificuldade de respirar em Belo Horizonte</title>
     <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/ansiedade-normalizacao-belo-horizonte.html</link>
-    <description>Este ano Belo Horizonte chegou a completar 155 dias de seca. A cidade ficou sem chuva entre os dias de 18 de abril de 2024 a 21 de setembro de 2024. Não se observava um período de estiagem tão longo há mais de meio século. O maior período de estiagem na cidade foi em 1961, com 198 dias sem chuva, segundo dados do Instituto Nacional de Meteorologia (Inmet). No bairro em que moro, a chuva de 21 de setembro, que interrompeu o longo período de estiagem, consistiu em apenas 5 minutos de chuvisco. Foi o que vi da minha janela. A percepção é que a seca permanece...</description>
+    <description>Este ano Belo Horizonte chegou a completar 155 dias de seca. A cidade ficou sem chuva entre os dias de 18 de abril de 2024 a 21 de setembro de 2024. Não se observava um período de estiagem tão longo há mais de meio século. O maior período de estiagem na cidade foi em 1961, com 198 dias sem chuva, segundo dados do Inmet. No bairro em que moro, a chuva de 21 de setembro, que interrompeu o longo período de estiagem, consistiu em apenas 5 minutos de chuvisco. Foi o que vi da minha janela. A percepção é que a seca permanece...</description>
     <guid>https://lesandrop.github.io/site/opinion/ansiedade-normalizacao-belo-horizonte.html</guid>
   </item>
   <item>
     <title>Qual é a mensagem de Seu Tomás da bolandeira em “Vidas Secas”?</title>
     <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/SeuTomasDaBolandeiraEmVidasSecas.html</link>
     <description> Gosto de personagens interessantes e hoje vejo Vidas Secas como uma preciosidade nesse aspecto. Sinhá Vitória, Fabiano, o Filho Mais Novo, o Filho Mais Velho, o Soldado Amarelo e Baleia são destacados, cada um tem um momento reservado na narrativa. É como se Graciliano Ramos dissesse  “olha, veja esse personagem” e não apenas “veja essa ação na história”. Há um personagem apenas lembrado, mas com uma mensagem muito forte. Estou me referindo a seu Tomás da bolandeira...</description>
     <guid>https://lesandrop.github.io/site/opinion/SeuTomasDaBolandeiraEmVidasSecas.html</guid>
@@ -163,6 +216,8 @@
   <item>
     <title>Nada a comemorar neste Dia Nacional de Conscientização sobre as Mudanças Climáticas de 2024</title>
     <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/DiaNacionalConscientizacaoSobreMudancasClimaticas2024.html</link>
     <description> O dia 16 de março é institucionalizado no Brasil como o Dia Nacional de Conscientização sobre as Mudanças Climáticas. Isso foi decretado pela Lei Nº 12.533 de 2 de dezembro de 2011. No seu artigo 2, a lei diz "Nesse dia, as escolas promoverão atos, eventos, debates e mobilizações relacionados a medidas de proteção dos ecossistemas brasileiros". O título da lei é muito pertinente "Conscientização sobre as Mudanças Climáticas". ...</description>
     <guid>https://lesandrop.github.io/site/opinion/DiaNacionalConscientizacaoSobreMudancasClimaticas2024.html</guid>
@@ -170,6 +225,8 @@
   <item>
     <title>Autoridades climáticas governamentais nas redes sociais: um estudo desencadeado por atividades nas redes sociais no dia mais chuvoso da história de uma cidade Brasileira</title>
     <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/autoridadesClimaticasRedesSociais.html</link>
     <description> No mês de janeiro de 2020, ocorreu uma grande chuva na cidade de Belo Horizonte, onde resido. Trata-se de uma cidade localizada no sudeste do Brasil e que tem mais de 2.5 milhões de habitantes. O evento climático de 2020, incluiu o que foi considerado o dia mais chuvoso da história da cidade de Belo Horizonte, que tem pouco mais de 100 anos. Durante o evento, as redes sociais  (o Twitter, atual X, em particular) foram inundadas de imagens e vídeos de enchentes em várias partes da cidade...</description>
     <guid>https://lesandrop.github.io/site/opinion/autoridadesClimaticasRedesSociais.html</guid>
@@ -177,6 +234,8 @@
   <item>
     <title>Como os cidadãos se engajam com a presença das autoridades climáticas nas redes sociais?</title>
     <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/citizen-authority-communication.html</link>
     <description> Este texto apresenta uma análise do artigo científico "How citizens engage with the social media presence of climate authorities: the case of five Brazilian cities." publicado na revista npj Climate Action.</description>
     <guid>https://lesandrop.github.io/site/opinion/citizen-authority-communication.html</guid>
@@ -184,6 +243,8 @@
   <item>
     <title>Como a relação entre o ser humano e a computação tem evoluído ao longo do tempo e quais os riscos nessa evolução?</title>
     <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/humano-computacao-e-interacao.html</link>
     <description> Este texto foi elaborado como fala inicial no evento "Diálogos Pertinentes: Filosofia, Ética e Tecnologia" do IFTDJ/PUC Minas. </description>
     <guid>https://lesandrop.github.io/site/opinion/humano-computacao-e-interacao.html</guid>
@@ -191,6 +252,8 @@
   <item>
     <title>O que dizer de Rodion Românovitch Raskólnikov?</title>
     <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/DizerDeRodionRomanovitchRaskolnikov.html</link>
     <description> Personagens marcantes são essenciais em bons livros. Há vários exemplos disso. Eduardo Marciano (de Encontro Marcado, Fernando Sabino), Holden Caulfield (de The Catcher in the Rye, J. D. Salinger), Bertoleza (de O Cortiço, Aluísio de Azevedo), e Al Mustafá (de The Prophet, Kahlil Gibran) são apenas alguns de personagens cujas identidades dão estrutura aos livros. Ao longo dos últimos meses, li “Crime e Castigo” de Fiódor Dostoiévski. É um clássico que eu ainda não havia me interessado em ler. Ele me apresentou mais um personagem marcante. Trata-se de Rodion Românovitch Raskólnikov...  </description>
     <guid>https://lesandrop.github.io/site/opinion/DizerDeRodionRomanovitchRaskolnikov.html</guid>
@@ -198,6 +261,8 @@
   <item>
     <title>Emprego de Inteligência Artificial em Ciência Participativa e Cidadã</title>
     <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/ia-cienciacidada.html</link>
     <description> Escrevi para a plataforma Civis o texto intitulado "Reflexões sobre o Emprego de Inteligência Artificial em Ciência Participativa e Cidadã". O texto aborda diversos tópicos sobre como projetos de ciência cidadã fazem uso de IA, em quais situações esse uso ocorre e quais os riscos que surgem com esse uso... </description>
     <guid>https://lesandrop.github.io/site/opinion/ia-cienciacidada.html</guid>
@@ -205,6 +270,8 @@
   <item>
     <title>Leitura da história mascarada do negro brasileiro segundo Abdias Nascimento</title>
     <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/historiaMascaradaDoNegroBrasileiro.html</link>
     <description>O estudo de como as sociedades se organizam e evoluem é revelador. Um fator que me interessa há muito tempo na dinâmica de organização e evolução social é a experiência de racismo, discriminação e segregação. Terminei de ler, nos últimos dias, o livro “O Genocídio do Negro Brasileiro” do autor Abdias Nascimento (2016, 3 ed., Editora Perspectiva) - a primeira edição é de 1978... </description>
     <guid>https://lesandrop.github.io/site/opinion/historiaMascaradaDoNegroBrasileiro.html</guid>
@@ -212,6 +279,8 @@
   <item>
     <title>Inteligência artificial, avaliação de pesquisas e pesquisadores e panorama de pesquisas no Brasil</title>
     <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html</link>
     <description>Atualmente, a prática científica envolve diversas organizações, incluindo universidades, centros de pesquisa, editoras e agências de avaliação. Recentemente, estudei três documentos importantes sobre o cenário atual de pesquisa científica tendo em conta essas organizações. Tratam-se do livro publicado pela... </description>
     <guid>https://lesandrop.github.io/site/opinion/ia-cienciapesquisasnoBrasil.html</guid>
@@ -219,6 +288,8 @@
   <item>
     <title>Seres Humanos vivendo as Mudanças Climáticas</title>
     <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/serhumanoeclima.html</link>
     <description>O tópico das mudanças climáticas requer atenção de todos nós. Meu interesse nesse tópico aumentou em 2020 com o evento climático na cidade de Belo Horizonte, estado de Minas Gerais. Em Janeiro de 2020, observamos grandes chuvas e alagamentos em Belo Horizonte. Nessa ocasião, o alagamento foi ... </description>
     <guid>https://lesandrop.github.io/site/opinion/serhumanoeclima.html</guid>
@@ -226,6 +297,8 @@
   <item>
     <title>Sobre o livro “Seara Vermelha” e questões sociais e políticas</title>
     <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/searavermelhapolitica.html</link>
     <description>O livro Seara Vermelha publicado por Jorge Amado, em 1946, estava na minha lista de leitura há muitos anos. Passei muitas horas em aeroportos entre fevereiro e abril e aproveitei a oportunidade para lê-lo. A história narrada no livro se passa por volta dos anos de 1930 e mostra luta dos sertanejos do Nordeste do Brasil, sua situação de trabalho semi-feudal, fome e retirada para a cidade de São Paulo, localizada no sudeste do país e conhecida como rica e próspera. Neste texto, eu não pretendo fazer uma resenha do livro. Busco apenas destacar algumas percepções pessoais. ... </description>
     <guid>https://lesandrop.github.io/site/opinion/searavermelhapolitica.html</guid>
@@ -233,6 +306,8 @@
   <item>
     <title>Mastodon: boas práticas de design e administração em comunidades online descentralizadas</title>
     <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/usandomastodon.html</link>
     <description>Mastodon traz de volta uma série de recursos de design e de comunidades descentralizadas que eram comuns na internet...</description>
     <guid>https://lesandrop.github.io/site/opinion/usandomastodon.html</guid>
@@ -240,6 +315,8 @@
   <item>
     <title>Atualmente ser usuário do Twitter e ter o bem comum como um valor é viver uma grande contradição</title>
     <pubDate>Sat, 04 Feb 2023 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/twittereacontradicao.html</link>
     <description>Neste texto explico um pouco da minha experiência com o Twitter ao longo de mais de uma década e de por que optei por deixar a plataforma.</description>
     <guid>https://lesandrop.github.io/site/opinion/twittereacontradicao.html</guid>
@@ -247,6 +324,8 @@
     <item>
     <title>O primeiro “laboratório de pesquisa” em que atuei</title>
     <pubDate>Thu, 25 Jun 2020 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/blog/2020-06-25_O-primeiro-laboratorio-de-pesquisa-em-que-atuei.html</link>
     <description>Sobre influência, oficinas pedagógicas e vida acadêmica.</description>
     <guid>https://lesandrop.github.io/site/opinion/blog/2020-06-25_O-primeiro-laboratorio-de-pesquisa-em-que-atuei.html</guid>
@@ -254,6 +333,8 @@
   <item>
     <title>Incrementos: sobre Ano Novo, infância e sprints</title>
     <pubDate>Mon, 23 Dec 2019 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/blog/2019-12-23_Incrementos--sobre-Ano-Novo--infancia-e-sprints.html</link>
     <description>Um pouco sobre como eu via a mudança de ano quando era criança e como vejo hoje.</description>
     <guid>https://lesandrop.github.io/site/opinion/blog/2019-12-23_Incrementos--sobre-Ano-Novo--infancia-e-sprints.html</guid>
@@ -261,6 +342,8 @@
   <item>
     <title>O que eu protejo e contra o que eu resisto durante a tempestade que se anuncia</title>
     <pubDate>Sun, 28 Oct 2018 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/blog/2018-10-28_O-que-eu-protejo-e-contra-o-que-eu-resisto.html</link>
     <description>Como vejo o cenário político ameaçador que se iniciará em 2019 a partir dos resultados das eleições.</description>
     <guid>https://lesandrop.github.io/site/opinion/blog/2018-10-28_O-que-eu-protejo-e-contra-o-que-eu-resisto.html</guid>
@@ -268,6 +351,8 @@
   <item>
     <title>A Ascensão da Ciência Cidadã</title>
     <pubDate>Wed, 11 Jan 2017 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/blog/2017-01-11_A-Ascensao-da-Ciencia-Cidada.html</link>
     <description>Reflexões sobre experiências, princípios e críticas à ciência cidadã.</description>
     <guid>https://lesandrop.github.io/site/opinion/blog/2017-01-11_A-Ascensao-da-Ciencia-Cidada.html</guid>
@@ -275,6 +360,8 @@
   <item>
     <title>Aaron Swartz e o uso da tecnologia para melhorar o mundo e não para torná-lo um lugar pior</title>
     <pubDate>Sun, 03 Jul 2016 00:00:00 GMT</pubDate>
+    <author>Lesandro Ponciano</author>
+    <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html</link>
     <description>Minhas percepções sobre a história de Aaron Swartz.</description>
     <guid>https://lesandrop.github.io/site/opinion/blog/2016-07-03_Aaron-Swartz-e-o-uso-da-tecnologia-para-melhorar-o-mundo-e-n-o-para-torn--lo-um-lugar-pior.html</guid>
