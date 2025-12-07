@@ -114,6 +114,7 @@ https://lesandrop.github.io/site/opinion/PET%20News%20Computacao%20Por%20humanos
 https://lesandrop.github.io/site/opinion/10-anos-do-doutorado.html
 https://lesandrop.github.io/site/opinion/livro-ciencia-cidada-alan-irwin-30-anos-depois.html
 https://lesandrop.github.io/site/opinion/a-internet-esta-chata.html
+https://lesandrop.github.io/site/opinion/aos-olhos-de-um-estudante-de-engenharia-de-software.html
 https://lesandrop.github.io/site/teaching/IPI/index.html
 https://lesandrop.github.io/site/teaching/IHC/index.html
 https://lesandrop.github.io/site/teaching/PS/index.html
