@@ -7,8 +7,8 @@
   <description>Ciência, educação e reflexões sociais</description>
   <image>
   <url>https://lesandrop.github.io/site/img/lesandro-ponciano-icon.png</url>
-  <title>lesandrop.github.io/site/opinion</title>
-  <link>https://lesandrop.github.io/site</link>
+  <title>Blog Academizando</title>
+  <link>https://lesandrop.github.io/site/opinion/index.html</link>
   </image>
   <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
   <item>
@@ -35,7 +35,7 @@
   <title>O Livro Ciência Cidadã, de Alan Irwin, 30 Anos Depois</title>
   <link>https://lesandrop.github.io/site/opinion/livro-ciencia-cidada-alan-irwin-30-anos-depois.html</link>
   <guid>https://lesandrop.github.io/site/opinion/livro-ciencia-cidada-alan-irwin-30-anos-depois.html</guid>
-  <pubDate>Mon, 14 Nov 2025 10:00:00 GMT</pubDate>
+  <pubDate>Fri, 14 Nov 2025 10:00:00 GMT</pubDate>
   <author>Lesandro Ponciano</author>
   <category>Blog Academizando</category>
   <media:content medium="image" url="https://lesandrop.github.io/site/img/thumbnails/pesquisa-muro-funed-bh.jpg" width="1280" height="720" />
@@ -94,7 +94,7 @@
     <category>Blog Academizando</category>
     <link>https://lesandrop.github.io/site/opinion/a-autopreservacao-no-poema-nao-so-quero-a-liberdade-de-fernando-pessoa.html</link>
     <description>Neste feriado de Carnaval, entre um vídeo e outro, encontrei na TV uma playlist de poemas de Fernando Pessoa. Ouvi 15 poemas. O poema “Não! Só quero a liberdade!” chamou a minha atenção. Ele é um grito de protesto. É como se o autor dissesse “me deixe em paz” ou “fique com suas coisas e me deixe com as minhas”. Ele chega ao nosso tempo quase que com afronta ou desprezo pelo estilo de vida atual.</description>
-    <guid>hhttps://lesandrop.github.io/site/opinion/a-autopreservacao-no-poema-nao-so-quero-a-liberdade-de-fernando-pessoa.html</guid>
+    <guid>https://lesandrop.github.io/site/opinion/a-autopreservacao-no-poema-nao-so-quero-a-liberdade-de-fernando-pessoa.html</guid>
   </item>
   <item>
   <title>Estamos defendendo um mundo velho e fadado à morte?</title>
