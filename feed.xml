@@ -5,6 +5,11 @@
   <title>Blog Academizando</title>
   <link>https://lesandrop.github.io/site/opinion/index.html</link>
   <description>Ciência, educação e reflexões sociais</description>
+  <image>
+  <url>https://lesandrop.github.io/site/img/lesandro-ponciano-icon.png</url>
+  <title>lesandrop.github.io/site/opinion</title>
+  <link>https://lesandrop.github.io/site</link>
+  </image>
   <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
   <item>
   <title>O que estudantes de Engenharia de Software aprendem e que todos deveriam saber?</title>
