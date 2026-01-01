@@ -131,7 +131,7 @@ fetch(RSS_URL)
     let html = ``;
     items.forEach(el => {
       html += `
-        <div class="div-1 col-md-5" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
+        <div class="div-1 col-md-15" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
           <h2>
             <a href="${el.querySelector("link").innerHTML}">
               ${el.querySelector("title").innerHTML}
@@ -164,6 +164,7 @@ fetch(RSS_URL)
 
  </body>
 </html>
+
 
 
 
