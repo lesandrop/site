@@ -98,7 +98,7 @@
 
 <section class="hero-section spad">
 <div class="container-fluid">
-	<div id="two" class="row g-4">		
+	<div id="two" class="row mx-n2">		
 <script>
 const RSS_URL = `https://lesandrop.github.io/site/feed.xml`;
 
@@ -130,7 +130,7 @@ fetch(RSS_URL)
     let html = ``;
     items.forEach(el => {
       html += `
-        <div col-md-4><div class="div-1" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
+        <div class="div-1 col-md-4 col-lg-4 mb-4 px-2" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
           <h2>
             <a href="${el.querySelector("link").innerHTML}">
               ${el.querySelector("title").innerHTML}
@@ -140,7 +140,7 @@ fetch(RSS_URL)
           <p>${el.querySelector("description").innerHTML} <a href="${el.querySelector("link").innerHTML}">
              leia o texto.
             </a> </p> 
-        </div></div>
+        </div>
       `;
     });
     var d1 = document.getElementById("two");
@@ -161,6 +161,7 @@ fetch(RSS_URL)
 
  </body>
 </html>
+
 
 
 
