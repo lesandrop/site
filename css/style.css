@@ -1662,7 +1662,7 @@ p a:hover::after {
 .div-1 {
     position: relative; 
     transition: all 0.3s ease;
-    cursor: pointer;
+    cursor: default;
 }
 .div-1 h2 a::after {
     content: "";
