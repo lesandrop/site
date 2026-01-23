@@ -135,8 +135,8 @@ fetch(RSS_URL)
 		  const desc = el.querySelector("description").innerHTML;
 		
 		  html += `
-		    <a href="${link}" class="blog-card-link"><div class="col-md-6 px-2 mb-4">
-		      <div class="div-1" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
+		    <div class="col-md-6 px-2 mb-4">
+		      <a href="${link}" class="blog-card-link"> <div class="div-1" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
 		        <h2>
 		          <a href="${link}">${title}</a>
 		        </h2>
@@ -144,8 +144,8 @@ fetch(RSS_URL)
 		        <p>${desc} 
 		          <a href="${link}" style="position: relative; z-index: 3;">leia o texto.</a>
 		        </p> 
-		      </div>
-		    </div></a>
+		      </div></a>
+		    </div>
 		  `;
 	});
     var d1 = document.getElementById("two");
@@ -166,6 +166,7 @@ fetch(RSS_URL)
 
  </body>
 </html>
+
 
 
 
