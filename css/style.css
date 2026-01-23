@@ -1605,3 +1605,83 @@ p a:hover::after {
         max-width: none;
     }
 }
+
+/* ============================================================
+   ESTILIZAÇÃO DOS CARDS DO BLOG (PÁGINA DE LISTAGEM)
+   ============================================================ */
+
+/* 1. O Card (Container Principal) */
+.div-1 {
+    background-color: #ffffff !important; /* Fundo branco para limpeza visual */
+    border: 1px solid #eee !important;
+    border-radius: 16px !important;
+    padding: 30px !important; /* Mais espaço interno */
+    margin-bottom: 10px;
+    height: 100%; /* Garante que cards na mesma linha tenham mesma altura */
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+    transition: all 0.3s ease;
+}
+
+.div-1:hover {
+    transform: translateY(-5px); /* Efeito de levante */
+    box-shadow: 0 12px 24px rgba(0,0,0,0.1);
+    border-color: #097DD5 !important;
+}
+
+/* 2. Títulos das Postagens */
+.div-1 h2 {
+    font-size: 22px !important; /* Menor que o h2 padrão para caber melhor na grade */
+    line-height: 1.3;
+    margin-bottom: 12px;
+}
+
+.div-1 h2 a {
+    color: #40424a !important;
+    transition: color 0.2s;
+}
+
+.div-1 h2 a:hover {
+    color: #097DD5 !important;
+}
+
+/* 3. Estilização da Data */
+.div-1 p em {
+    font-style: normal;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #9c9b9b;
+    display: block;
+    margin-bottom: 15px;
+}
+
+/* 4. Descrição e Link "Leia o texto" */
+.div-1 p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.div-1 a[href*="leia o texto"] {
+    font-weight: 700;
+    color: #097DD5;
+    text-decoration: none;
+    display: inline-block;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+}
+
+.div-1 a:hover {
+    border-bottom: 2px solid #097DD5;
+}
+
+/* Ajuste para o grid mobile */
+@media (max-width: 768px) {
+    .div-1 {
+        padding: 20px !important;
+    }
+}
