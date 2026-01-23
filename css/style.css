@@ -1479,15 +1479,16 @@ h1, h2, h3 {
     display: inline-flex !important;
     align-items: center;
     justify-content: center;
-    border-radius: 50px !important; /* Bordas arredondadas (Pill shape) */
-    border: 1px solid #e0e0e0 !important; /* Borda mais fina e clara */
-    box-shadow: 0 4px 10px rgba(0,0,0,0.05); /* Sombra muito suave */
+    border-radius: 50px !important; 
+    border: 1px solid #e0e0e0 !important; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05); 
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
-    text-transform: none !important; /* Remove o excesso de grifos em caixa alta */
+    text-transform: none !important; 
     font-weight: 500 !important;
-    padding: 12px 25px !important;
-    min-height: auto !important;
-    height: 50px;
+    /* Linhas que restauram o tamanho original: */
+    min-width: 213px !important;
+    max-width: 213px !important;
+    padding: 20px 10px 15px !important;
     margin-bottom: 15px;
 }
 
