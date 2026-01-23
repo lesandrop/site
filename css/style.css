@@ -1681,6 +1681,11 @@ p a:hover::after {
     z-index: 2;
 }
 
+.card-link { display: block;/* ocupa todo o espaço do card */
+             text-decoration: none; /* remove sublinhado */
+             color: inherit; /* mantém a cor original */ 
+}
+
 /* Ajuste para o grid mobile */
 @media (max-width: 768px) {
     .div-1 {
