@@ -126,23 +126,28 @@ fetch(RSS_URL)
   .then(response => response.text())
   .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
   .then(data => {
-    const items = data.querySelectorAll("item");
-    let html = ``;
-    items.forEach(el => {
-      html += `
-        <div class="col-md-6 px-2 mb-4"><div class="div-1" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
-          <h2>
-            <a href="${el.querySelector("link").innerHTML}">
-              ${el.querySelector("title").innerHTML}
-            </a>
-          </h2>
-          <p><em>${buildRFC822Date(el.querySelector("pubDate").innerHTML)}</em></p>
-          <p>${el.querySelector("description").innerHTML} <a href="${el.querySelector("link").innerHTML}">
-             leia o texto.
-            </a> </p> 
-        </div></div>
-      `;
-    });
+   const items = data.querySelectorAll("item");
+   let html = ``;
+	items.forEach(el => {
+		  const link = el.querySelector("link").innerHTML;
+		  const title = el.querySelector("title").innerHTML;
+		  const date = buildRFC822Date(el.querySelector("pubDate").innerHTML);
+		  const desc = el.querySelector("description").innerHTML;
+		
+		  html += `
+		    <div class="col-md-6 px-2 mb-4">
+		      <div class="div-1" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
+		        <h2>
+		          <a href="${link}">${title}</a>
+		        </h2>
+		        <p><em>${date}</em></p>
+		        <p>${desc} 
+		          <a href="${link}" style="position: relative; z-index: 3;">leia o texto.</a>
+		        </p> 
+		      </div>
+		    </div>
+		  `;
+	});
     var d1 = document.getElementById("two");
     d1.insertAdjacentHTML("beforeend", html);
   });
@@ -161,6 +166,7 @@ fetch(RSS_URL)
 
  </body>
 </html>
+
 
 
 
