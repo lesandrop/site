@@ -1489,10 +1489,10 @@ li {
 
 /* 2. DOBRANDO O TAMANHO DA IMAGEM */
 .site-btn img {
-    width: 60px !important; /* Tamanho bem destacado */
-    height: 60px !important;
-    margin-right: 0 !important; /* Remove margem lateral */
-    margin-bottom: 15px !important; /* Espaço entre ícone e texto */
+    width: 90px; /* Tamanho bem destacado */
+    height: 90px;
+    margin-right: 0; /* Remove margem lateral */
+    margin-bottom: 15pxt; /* Espaço entre ícone e texto */
     object-fit: contain;
     filter: drop-shadow(0 4px 4px rgba(0,0,0,0.1)); /* Leve sombra no ícone */
 }
