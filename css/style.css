@@ -1479,25 +1479,37 @@ h1, h2, h3 {
     display: inline-flex !important;
     align-items: center;
     justify-content: center;
-    border-radius: 50px !important; 
+    
+    /* VOLTANDO AO TAMANHO ORIGINAL */
+    min-width: 213px !important;
+    min-height: 83px !important; /* Altura original exata */
+    padding: 15px 20px !important;
+    
+    /* ESTILO MODERNO */
+    border-radius: 12px !important; /* Arredondado, mas não totalmente circular (mais elegante) */
     border: 1px solid #e0e0e0 !important; 
-    box-shadow: 0 4px 10px rgba(0,0,0,0.05); 
-    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
-    text-transform: none !important; 
-    font-weight: 500 !important;
-    margin-bottom: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08) !important; 
+    background-color: #f2f7f8 !important; /* Mantendo sua cor original de fundo */
+    
+    /* TIPOGRAFIA E TRANSIÇÃO */
+    color: #40424a !important;
+    text-transform: none !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    transition: all 0.3s ease !important;
+    margin-bottom: 20px;
 }
 
 .site-btn:hover {
-    transform: translateY(-3px); /* Efeito de levitação */
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transform: translateY(-4px) !important;
+    box-shadow: 0 12px 20px rgba(0,0,0,0.12) !important;
     background-color: #ffffff !important;
     border-color: #097DD5 !important;
 }
 
 .site-btn img {
-    margin-right: 12px;
-    width: 20px; /* Ícones mais sutis */
+    margin-right: 15px;
+    width: 24px !important; /* Ícones um pouco maiores para equilibrar o botão grande */
     height: auto;
 }
 
