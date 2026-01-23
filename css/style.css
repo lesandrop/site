@@ -1487,10 +1487,10 @@ li {
     text-align: center;
 }
 
-/* 2. DOBRANDO O TAMANHO DA IMAGEM */
+/* 2. AJUSTANDO O TAMANHO DA IMAGEM */
 .site-btn img {
-    width: 90px; /* Tamanho bem destacado */
-    height: 90px;
+    width: 110px; /* Tamanho bem destacado */
+    height: 110px;
     margin-right: 0; /* Remove margem lateral */
     margin-bottom: 15pxt; /* Espaço entre ícone e texto */
     object-fit: contain;
