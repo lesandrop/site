@@ -1485,10 +1485,6 @@ h1, h2, h3 {
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
     text-transform: none !important; 
     font-weight: 500 !important;
-    /* Linhas que restauram o tamanho original: */
-    min-width: 213px !important;
-    max-width: 213px !important;
-    padding: 20px 10px 15px !important;
     margin-bottom: 15px;
 }
 
