@@ -1659,24 +1659,26 @@ p a:hover::after {
 }
 
 /* 4. Descrição e Link "Leia o texto" */
-.div-1 p {
-    font-size: 16px;
-    color: #555;
-    line-height: 1.6;
-    margin-bottom: 20px;
+.div-1 {
+    position: relative; 
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.div-1 h2 a::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1; /* Garante que o clique cubra tudo */
 }
 
-.div-1 a[href*="leia o texto"] {
-    font-weight: 700;
-    color: #097DD5;
-    text-decoration: none;
-    display: inline-block;
-    border-bottom: 2px solid transparent;
-    transition: all 0.2s;
-}
-
-.div-1 a:hover {
-    border-bottom: 2px solid #097DD5;
+/* Garante que outros links (como o "leia o texto") fiquem por cima do clique geral, 
+   caso você queira que eles tenham estilos de hover próprios */
+.div-1 a {
+    position: relative;
+    z-index: 2;
 }
 
 /* Ajuste para o grid mobile */
