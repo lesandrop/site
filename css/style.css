@@ -1457,3 +1457,113 @@ li {
 		padding-top: 250px;
 	}
 }
+
+
+
+/* ============================================================
+   CUSTOM MODERNIZATION - Lesandro Ponciano Website
+   ============================================================ */
+
+/* 1. Refinamento de Tipografia e Cores Gerais */
+body {
+    color: #4a4a4a; /* Cinza escuro é mais moderno que o preto puro */
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+    letter-spacing: -1px; /* Títulos mais compactos e elegantes */
+}
+
+/* 2. Modernização dos Botões da Hero Section */
+.site-btn {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px !important; /* Bordas arredondadas (Pill shape) */
+    border: 1px solid #e0e0e0 !important; /* Borda mais fina e clara */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05); /* Sombra muito suave */
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+    text-transform: none !important; /* Remove o excesso de grifos em caixa alta */
+    font-weight: 500 !important;
+    padding: 12px 25px !important;
+    min-height: auto !important;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.site-btn:hover {
+    transform: translateY(-3px); /* Efeito de levitação */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    background-color: #ffffff !important;
+    border-color: #097DD5 !important;
+}
+
+.site-btn img {
+    margin-right: 12px;
+    width: 20px; /* Ícones mais sutis */
+    height: auto;
+}
+
+/* 3. Transformação das seções inferiores em "Cards" */
+#blogL, 
+.hero-section.spad.pb-0 .col-lg-4 {
+    background: #ffffff;
+    padding: 30px !important;
+    border-radius: 16px;
+    border: 1px solid #f0f0f0;
+    transition: all 0.3s ease;
+    margin-bottom: 20px;
+}
+
+#blogL:hover, 
+.hero-section.spad.pb-0 .col-lg-4:hover {
+    box-shadow: 0 12px 30px rgba(0,0,0,0.07);
+    border-color: #e0e0e0;
+}
+
+/* Ajuste nos títulos dos cards */
+#blogL h2, 
+.hero-section.spad.pb-0 .col-lg-4 h2 {
+    font-size: 22px;
+    margin-bottom: 15px;
+    color: #097DD5; /* Cor de destaque nos títulos */
+}
+
+/* 4. Limpeza da Seção Social */
+.social-section {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.social-section .social-link-warp:after {
+    display: none; /* Remove a linha cinza horizontal antiga */
+}
+
+.social-links a {
+    background: #fff;
+    width: 55px;
+    height: 55px;
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50% !important; /* Ícones circulares */
+    margin-right: 15px !important;
+    border: 1px solid #eee !important;
+    color: #40424a !important;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.social-links a:hover {
+    color: #fff !important;
+    background-color: #097DD5;
+    border-color: #097DD5 !important;
+    transform: scale(1.1);
+}
+
+/* 5. Ajustes de espaçamento responsivo */
+@media (max-width: 768px) {
+    .site-btn {
+        width: 100%; /* Botões ocupam largura total no mobile para facilitar o clique */
+        max-width: none;
+    }
+}
