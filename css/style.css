@@ -14,14 +14,6 @@ body {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
-/* === Layout Centralizado === */
-main, article, .content {
-  max-width: 900px;   /* limita a largura para não colar nas bordas */
-  margin: 0 auto;     /* centraliza o conteúdo */
-  padding: 20px;      /* cria espaço interno */
-  line-height: 1.6;   /* melhora a legibilidade */
-}
-
 h1,
 h2,
 h3,
