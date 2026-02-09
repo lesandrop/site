@@ -1528,7 +1528,7 @@ li {
 }
 
 /* 1. Efeito Glassmorphism nos Cards */
-#blogL, .col-lg-4 {
+.col-lg-4 {
     background: rgba(255, 255, 255, 0.7) !important;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
@@ -1577,7 +1577,7 @@ p a:hover::after {
 }
 
 /* 5. Ajustes de Cards de Conteúdo (Blog, Pubs, Cursos) */
-#blogL, .col-lg-4 {
+.col-lg-4 {
     background: #ffffff;
     padding: 35px !important;
     border-radius: 20px;
@@ -1585,7 +1585,7 @@ p a:hover::after {
     transition: 0.3s;
 }
 
-#blogL:hover, .col-lg-4:hover {
+.col-lg-4:hover {
     box-shadow: 0 10px 40px rgba(0,0,0,0.06);
 }
 
