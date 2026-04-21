@@ -4,9 +4,9 @@ https://lesandrop.github.io/site/opinion/index.html
 https://lesandrop.github.io/site/papers/index.html
 https://lesandrop.github.io/site/teaching/index.html
 https://lesandrop.github.io/site/cv/CV-LesandroPonciano-ShortVersion.pdf
-https://lesandrop.github.io/site/history/consideracaoesIniciaisCienciaAberta.html
-https://lesandrop.github.io/site/history/discursoDeParaninfoSI20211PUCMinas.html
-https://lesandrop.github.io/site/history/memorial-2008.html
+https://lesandrop.github.io/site/opinion/consideracaoesIniciaisCienciaAberta.html
+https://lesandrop.github.io/site/opinion/discursoDeParaninfoSI20211PUCMinas.html
+https://lesandrop.github.io/site/teaching/IPI/VidaDeCientista/memorial-2008.html
 https://lesandrop.github.io/site/slides/LesandroPonciano-IHC2019.pdf
 https://lesandrop.github.io/site/slides/LesandroPonciano-WEIHC2019.pdf
 https://lesandrop.github.io/site/slides/LesandroPonciano-IHC2017.pdf
