@@ -4,9 +4,9 @@ authors:
   - family-names: Ponciano
     given-names: Lesandro
     orcid: https://orcid.org/0000-0002-5724-0094
-title: "Blog, Research and Teaching Activities"
-version: 1.0.0
-date-released: 2025-01-01
+title: "Research, Teaching & Technical Work"
+version: 1.0.1
+date-released: 2026-01-01
 url: "https://github.com/lesandrop/site"
 preferred-citation:
   type: generic
@@ -14,6 +14,6 @@ preferred-citation:
   - family-names: Ponciano
     given-names: Lesandro
     orcid: https://orcid.org/0000-0002-5724-0094
-  title: "Blog, Research and Teaching Activities"
+  title: "Research, Teaching & Technical Work"
   url: "https://lesandrop.github.io/site"
-  year: 2025
+  year: 2026
