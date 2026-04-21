@@ -48,10 +48,4 @@
          <image:loc>https://lesandrop.github.io/site/img/LesandroPonciano.jpg</image:loc>
       </image:image>
    </url>
-   <url>
-      <loc>https://lesandrop.github.io/site/history/index.html</loc>
-      <image:image>
-         <image:loc>https://lesandrop.github.io/site/opinion/RevistaPUCMinas-2018-CienciaCidada.png</image:loc>
-      </image:image>
-   </url>
 </urlset>
