@@ -229,3 +229,4 @@ https://lesandrop.github.io/site/reading/papers-reading-recommendation.html
 https://lesandrop.github.io/site/contact/index.html
 https://lesandrop.github.io/site/about/lesandro-ponciano-en.html
 https://lesandrop.github.io/site/img/index.html
+https://lesandrop.github.io/site/technical-work/index.html
