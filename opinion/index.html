@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting</title>
+    <script>
+        // Pega o idioma principal do navegador (ex: 'pt', 'en', 'es')
+        const userLanguage = navigator.language || navigator.userLanguage;
+        
+        // Define o caminho da versão em português
+        const portuguesePage = 'academizando.html'; 
+        // Define o caminho da versão em inglês 
+        const englishPage = 'academizando-global-essays.html'; 
+
+        // Verifica se o idioma do navegador começa com 'pt'
+        if (userLanguage.startsWith('pt')) {
+            window.location.href = portuguesePage; // Redireciona para português
+        } else {
+            // Para qualquer outro idioma, vai para a versão em inglês como padrão
+            window.location.href = englishPage;
+        }
+    </script>
+</head>
+<body>
+    <!-- Uma mensagem simples caso o JavaScript esteja desabilitado -->
+    <p>Please, choose your language: 
+        <a href="/index-pt.html">Portuguese</a> | 
+        <a href="/en/index.html">English</a>
+    </p>
+</body>
+</html>
