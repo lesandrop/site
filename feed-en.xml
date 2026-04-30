@@ -14,14 +14,24 @@
   </image>
   <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-  <title>The PhD 10 years after the oral examination (viva)</title>
-  <link>https://lesandrop.github.io/site/opinion/phd-10-years-after-the-defence.html</link>
-  <guid>https://lesandrop.github.io/site/opinion/phd-10-years-after-the-defence.html</guid>
-  <pubDate>Mon, 03 Nov 2025 10:00:00 GMT</pubDate>
-  <dc:creator>Lesandro Ponciano</dc:creator>
-  <category>Blog Academizando</category>
-  <media:content medium="image" url="https://lesandrop.github.io/site/img/defesa-doutorado-lesandro-ponciano.jpg" width="1280" height="720" />
-  <description> This month marks 10 years since the oral examination of my doctoral thesis. In this post, I revisit my thesis on human-centered computing, human computation, reflecting on engagement, credibility, and the developments ten years after the oral defence. What interesting activities occurred after the PhD thesis oral examination? What was the main challenge and the main satisfaction of the PhD research? What is the future of research in the areas investigated during the PhD? Many accounts and stories presented here are not present in the thesis. </description>
-</item>
+  	  <title>The PhD 10 years after the oral examination (viva)</title>
+	  <link>https://lesandrop.github.io/site/opinion/phd-10-years-after-the-defence.html</link>
+	  <guid>https://lesandrop.github.io/site/opinion/phd-10-years-after-the-defence.html</guid>
+	  <pubDate>Mon, 03 Nov 2025 10:00:00 GMT</pubDate>
+	  <dc:creator>Lesandro Ponciano</dc:creator>
+	  <category>Blog Academizando</category>
+	  <media:content medium="image" url="https://lesandrop.github.io/site/img/defesa-doutorado-lesandro-ponciano.jpg" width="1280" height="720" />
+	  <description> This month marks 10 years since the oral examination of my doctoral thesis. In this post, I revisit my thesis on human-centered computing, human computation, reflecting on engagement, credibility, and the developments ten years after the oral defence. What interesting activities occurred after the PhD thesis oral examination? What was the main challenge and the main satisfaction of the PhD research? What is the future of research in the areas investigated during the PhD? Many accounts and stories presented here are not present in the thesis. </description>
+   </item>
+  <item>
+  	  <title>How Citizens Engage with Climate Authorities on Social Media</title>
+	  <link>https://lesandrop.github.io/site/papers/how-citizens-engage-with-the-social-media-presence-of-climate-authorities.html</link>
+	  <guid>https://lesandrop.github.io/site/papers/how-citizens-engage-with-the-social-media-presence-of-climate-authorities.html</guid>
+	  <pubDate>Mon, 12 May 2025 10:00:00 GMT</pubDate>
+	  <dc:creator>Lesandro Ponciano</dc:creator>
+	  <category>Research Article</category>
+	  <media:content medium="image" url="https://lesandrop.github.io/site/img/thumbnails/rainy-day-bh-december-17-2025.jpg" width="1280" height="720" />
+	  <description>This study published in npj Climate Action (Nature Portfolio) explores how citizens interact with climate authorities on social media in five Brazilian cities during extreme weather events. Key findings reveal that authorities rely on passive posting, citizen engagement is short-term and reactive, replies focus on corrections rather than climate change links, and limited two-way communication occurs. The page includes datasets, science outreach articles, a podcast, and conference presentation slides. </description>
+   </item>
 </channel>
 </rss>
