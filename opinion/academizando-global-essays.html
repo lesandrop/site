@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ppda8aahae");
+</script>
+
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ppda8aahae");
+</script>
+	
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PS6CQ7DZZD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PS6CQ7DZZD');
+</script>
+
+    <meta charset="UTF-8">
+    <meta name="description" content="Global essays of Blog Academizando is a selection and  english version of main Prof. Lesandro Ponciano blog writings..">
+    <meta name="keywords" content="science, education, research, society, citizenship, academia, university, technology">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Blog Academizando">
+	<meta property="og:description" content="Global essays of Blog Academizando is a selection and  english version of main Prof. Lesandro Ponciano blog writings.">
+	<meta property="og:url" content="https://lesandrop.github.io/site/opinion/index.html">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="lesandrop">
+	<<meta property="og:locale" content="en_GB" />
+	<meta property="author" content="Lesandro Ponciano">
+
+	<title>Blog Academizando</title>
+
+   <!-- Favicon -->   
+	<link href="../img/lesandro-ponciano-icon.png" rel="shortcut icon"/>
+
+	<style>
+    .div-1 {
+        background-color: #EBEBEB;
+    }
+	</style>
+
+  <!-- Pré-carregar fontes críticas -->    
+  <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/pandoc.css">
+  <link rel="stylesheet" href="../css/specialpost.css">
+
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8152535423798932" crossorigin="anonymous"></script>
+ </head>
+
+<body>
+	
+ <!-- Header section start -->
+  <header class="header-section">
+    <div class="container-fluid">
+      <div class="row">	
+	 <div class="col-md-4">
+		 <div class="col-md-8 text-md-right">
+		 	<a href="../index.html">Home</a> > Blog Academizando
+		 </div>
+	</div>
+      </div>
+   </div>
+ </header>
+
+<div class="content-wide" id="one">
+<section class="hero-section spad">  
+<div id="one">
+	
+<h1>Blog Academizando </h1>
+
+<p>By <strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../img/ORCID-iD_icon_24x24.png" alt="ORCID iD" style="display:inline-block; margin:0; padding:0; vertical-align:middle; max-width:100%; height:auto;"/></a></p>
+	
+<p> This is the <strong>Global essays of Blog Academizando</strong>, a selection and english version of main Prof. Lesandro Ponciano blog writings. The Academizando Blog is a space for sharing reflections on science, education, and civic participation, bridging the gap between academic knowledge and everyday life. Below is a list of selected publications adapted into English, from most recent to oldest.</p>
+
+<p><a href="../feed.xml">XML RSS feed</a></p>
+</div>
+</section>
+
+<section class="hero-section spad">
+<div class="container-fluid">
+	<div id="two" class="row mx-n2">		
+<script>
+const RSS_URL = "../feed.xml";
+
+function addLeadingZero(num) {
+  num = num.toString();
+  while (num.length < 2) num = "0" + num;
+  return num;
+}
+
+function buildRFC822Date(dateString) {
+  const monthStrings = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+  const timeStamp = Date.parse(dateString);
+  const date = new Date(timeStamp);
+
+  const dayNumber = addLeadingZero(date.getDate());
+  const month = monthStrings[date.getMonth()];
+  const year = date.getFullYear();
+
+  //10 de Janeiro de 2025
+  return `${dayNumber} de ${month} de ${year} `;
+}
+
+fetch(RSS_URL)
+  .then(response => response.text())
+  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+  .then(data => {
+   const items = data.querySelectorAll("item");
+   let html = ``;
+	items.forEach(el => {
+		  const link = el.querySelector("link").innerHTML;
+		  const title = el.querySelector("title").innerHTML;
+		  const date = buildRFC822Date(el.querySelector("pubDate").innerHTML);
+		  const desc = el.querySelector("description").innerHTML;
+		
+		  html += `
+		    <div class="col-md-6 px-2 mb-4">
+		      <div class="div-1" id="blogL" style="padding-left: 10pt; padding-right: 10pt; padding-top: 1pt;">
+		        <h2>
+		          <a href="${link}">${title}</a>
+		        </h2>
+		        <p><em>${date}</em></p>
+		        <p>${desc} 
+		          <a href="${link}" style="position: relative; z-index: 3;">leia o texto.</a>
+		        </p> 
+		      </div>
+		    </div>
+		  `;
+	});
+    var d1 = document.getElementById("two");
+    d1.insertAdjacentHTML("beforeend", html);
+  });
+</script>
+</div>
+</div>
+</section>
+</div>
+    	<footer class="footer-section">
+		<div class="container text-center">
+			<div class="copyright">
+				The source code of this page is available at https://github.com/lesandrop
+			</div>
+		</div>
+	</footer>
+
+ </body>
+</html>
+
+
+
