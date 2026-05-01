@@ -521,7 +521,6 @@ li {
 	Resume section
 ----------------------*/
 .resume-section.with-bg {
-	background-image: url(../img/resume-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -731,7 +730,6 @@ li {
 	Home 2 Style
 -----------------------*/
 .home-two-style {
-	background-image: url(../img/home-2-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top center;
@@ -977,7 +975,6 @@ li {
 	height: 800px;
 	top: 0;
 	left: 0;
-	background-image: url("../img/home-4-bg.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
