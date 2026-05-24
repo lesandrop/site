@@ -14,7 +14,16 @@
   </image>
   <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-  	  <title>The PhD 10 years after the oral examination (viva)</title>
+	  <title>Human Engagement with Technology Far Beyond Counting Views, Clicks and Likes</title>
+	  <link>https://lesandrop.github.io/site/papers/engagement-beyond-clicks-and-likes.html</link>
+	  <guid>https://lesandrop.github.io/site/papers/engagement-beyond-clicks-and-likes.html</guid>
+	  <pubDate>Sun, 24 May 2026 10:00:00 GMT</pubDate>
+	  <dc:creator>Lesandro Ponciano</dc:creator>
+	  <category>Research Activities</category>
+	  <description>Over the last 15 years, our research has systematically investigated how people engage with technology-mediated systems. This summary synthesises key findings on human engagement far beyond counting clicks and likes. It covers the operational definition of engagement, probability distributions that best describe engagement behaviour, five reproducible volunteer profiles, cross-project engagement patterns on multi-project platforms, the relationship between credibility assessment and engagement, and how citizens engage with climate authorities on social media. Sustained digital engagement is the exception, not the rule, read why.</description>
+  </item>
+  <item>
+  	  <title>The PhD 10 years after the oral examination</title>
 	  <link>https://lesandrop.github.io/site/opinion/phd-10-years-after-the-defence.html</link>
 	  <guid>https://lesandrop.github.io/site/opinion/phd-10-years-after-the-defence.html</guid>
 	  <pubDate>Mon, 03 Nov 2025 10:00:00 GMT</pubDate>
@@ -28,7 +37,7 @@
 	  <link>https://lesandrop.github.io/site/papers/how-citizens-engage-with-the-social-media-presence-of-climate-authorities.html</link>
 	  <guid>https://lesandrop.github.io/site/papers/how-citizens-engage-with-the-social-media-presence-of-climate-authorities.html</guid>
 	  <pubDate>Mon, 12 May 2025 10:00:00 GMT</pubDate>
-	  <dc:creator>Lesandro Ponciano</dc:creator>
+	  <dc:creator>Lesandro Activities</dc:creator>
 	  <category>Research Article</category>
 	  <media:content medium="image" url="https://lesandrop.github.io/site/img/thumbnails/rainy-day-bh-december-17-2025.jpg" width="1280" height="720" />
 	  <description>This study published in npj Climate Action (Nature Portfolio) explores how citizens interact with climate authorities on social media in five Brazilian cities during extreme weather events. Key findings reveal that authorities rely on passive posting, citizen engagement is short-term and reactive, replies focus on corrections rather than climate change links, and limited two-way communication occurs. The page includes datasets, science outreach articles, a podcast, and conference presentation slides. </description>
