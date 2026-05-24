@@ -31,7 +31,7 @@
 
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://lesandrop.github.io/site/papers/engagement-beyond-clicks-and-likes.html">
-    <meta property="og:title" content="Human Engagement with Technology Far Beyond Counting Clicks and Likes">
+    <meta property="og:title" content="Human Engagement with Technology Far Beyond Counting Views, Clicks and Likes">
     <meta property="og:description" content="Sustained digital engagement is the exception, not the rule. Explore five reproducible volunteer profiles and how the public interacts with platforms.">
 
     <meta property="twitter:card" content="summary_large_image">
@@ -69,13 +69,13 @@
 
 <p>By <strong>Lesandro Ponciano</strong> <a href="https://orcid.org/0000-0002-5724-0094" aria-label="View ORCID record"> <img src="../img/ORCID-iD_icon_24x24.png" alt="ORCID iD" style="display:inline-block; margin:0; padding:0; vertical-align:middle; max-width:100%; height:auto;"/></a>, on 24 May 2026.</p>
 
-<p>Our research over the last 15 years has systematically investigated how people engage with technology-mediated systems. The primary pursuit is both scientific and technological. The scientific aspect focuses on understanding of human behaviour when engaging in activities that require some kind of action on their part. We are especially interested in contexts where these actions not financial motivated, which includes contexts spanning citizen science platforms, human computation projects, and social media for climate action. The technological aim is to model how people interact with technology, so that it can be redesigned to meet their needs better.</p>
+<p>Our research over the last 15 years has systematically investigated how people engage with technology-mediated systems. The primary pursuit is both scientific and technological. The scientific aspect focuses on understanding of human behaviour when engaging in activities that require some kind of action on their part. We are especially interested in contexts where these actions are not financially motivated, which includes contexts spanning citizen science platforms, human computation projects, and social media for climate action. The technological aim is to model how people interact with technology, so that it can be redesigned to meet their needs better.</p>
 
 <p>Here, we put it all together summarizing what we have learned. It is organised into the following questions.</p>
 	<nav class="indice">
 	  <ul>
             <li><a href="#operational-definition">What is the operational definition of human engagement?</a></li>
-            <li><a href="#probability-distribution">Which probability distribution best describes engagement behavior?</a></li>
+            <li><a href="#probability-distribution">Which probability distribution best describes engagement behaviour?</a></li>
             <li><a href="#profiles">What are the engagement profiles that people typically exhibit when participating through technology?</a></li>
             <li><a href="#multiple-projects">On platforms that host multiple projects, people test various projects, get involved in all of them, just explore, or what?</a></li>
 		    <li><a href="#credibility-assessment">How does credibility assessment relate to engagement, and why does it matter?</a></li>
@@ -98,7 +98,7 @@ This framework conceptualises engagement as a process comprising four distinct s
 
 <hr>
 
-<h2 id="probability-distribution">Which probability distribution best describes engagement behavior?</h2>
+<h2 id="probability-distribution">Which probability distribution best describes engagement behaviour?</h2>
 
 <p>Published in 2014, the <a href="https://doi.org/10.1109/MCSE.2014.4"><em>Volunteers' Engagement in Human Computation for Astronomy Projects</em></a> study is the first to characterise statistics distribution of engagement of volunteers in citizen science and human computation fields. It is based on four primary metrics:</p>
 <ul>
@@ -206,7 +206,7 @@ Inequality metrics (Gini > 0.9 on Crowdcrafting) show that a tiny subset of proj
 <li><strong>Reputed agreement</strong>: propagates credibility through the network of agreements. A participant's credibility increases when they agree with highly credible participants and decreases when they disagree with them.</li>
 </ul>
 
-<p><span class="nota"> <strong>Task replication</strong> is the strategy of having the same task executed multiple times by different participants. It is the standard mechanism for quality assurance in human computation systems, including citizen science platforms.</span>The study also proposes an <strong>adaptive credibility-based task replication algorithm</strong>. Instead of replicating every task a fixed number of times (e.g., always 10 or 38 replicas), the algorithm stops replication as soon as a group of answers reaches a required credibility threshold. If participants strongly agree on an answer, fewer replicas are needed. If they disagree, the algorithm continues replicating until either the credibility requirement is met or a maximum replication limit is reached.</p>
+<p><span class="nota"> <strong>Task replication</strong> is the strategy of having the same task executed multiple times by different participants. It is the standard mechanism for quality assurance in human computation systems, including citizen science platforms.</span> The study also proposes an <strong>adaptive credibility-based task replication algorithm</strong>. Instead of replicating every task a fixed number of times (e.g., always 10 or 38 replicas), the algorithm stops replication as soon as a group of answers reaches a required credibility threshold. If participants strongly agree on an answer, fewer replicas are needed. If they disagree, the algorithm continues replicating until either the credibility requirement is met or a maximum replication limit is reached.</p>
 	
 <p>The evaluation used data from two real projects: <strong>Sentiment Analysis</strong> and <strong>Fact Evaluation</strong>. The results show that the adaptive algorithm reduces the number of replicas without compromising accuracy. Experienced agreement and reputed agreement consistently outperform surface agreement, appearing exclusively in the Pareto-optimal configurations. Task difficulty, measured via Shannon entropy, strongly correlates negatively with both answer credibility and replication reduction. Difficult tasks yield lower credibility and require more replicas. The replication algorithm allows requesters to balance competing requirements through three parameters: required credibility (desired confidence in the final answer), urgency (parallelism vs. sequential replication), and maximum replicas (cost or resource limit).<span class="nota"> <strong>Shannon entropy</strong>, used in the study to measure task difficulty, quantifies the divergence among answers to the same task. Higher entropy means more disagreement, indicating either a genuinely difficult task or a poorly designed one. This metric was originally introduced in information theory and has been widely applied in crowdsourcing quality assurance.</span></p>
 
@@ -249,7 +249,7 @@ Dimensions of engagement included short-term (single reply burst) vs. long-term 
 <li>beyond simple transient/regular dichotomies, volunteers naturally cluster into five reproducible profiles (hardworking, spasmodic, persistent, lasting, moderate) that reveal fundamental trade-offs between the degree and duration of engagement;</li>
 <li>engagement profiles persist across different projects and platforms, suggesting they reflect deep-seated human behavioural tendencies;</li>
 <li>in some participation contexts, understanding engagement without understanding credibility is incomplete, and it can lead to a waste of the effort dedicated by the few who get engaged;</li>
-<li>multi-project engagement acts as a retention mechanism, but deep cross-project regularity is rare, inherited volunteers from a platform are more valuable than externally recruited ones;</li>
+<li>multi-project engagement acts as a retention mechanism, but deep cross-project regularity is rare; inherited volunteers from a platform are more engaged than externally recruited ones;</li>
 <li>when assessed in preparedness campaigns conducted by climate authorities through social media, citizen engagement is overwhelmingly transient, motivated by corrective messages.</li>
 </ol>
 
