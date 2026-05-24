@@ -79,6 +79,7 @@
             <li><a href="#probability-distribution">Which probability distribution best describes engagement behavior?</a></li>
             <li><a href="#profiles">What are the engagement profiles that people typically exhibit when participating through technology?</a></li>
             <li><a href="#multiple-projects">On platforms that host multiple projects, people test various projects, get involved in all of them, just explore, or what?</a></li>
+		    <li><a href="#credibility-assessment">How does credibility assessment relate to engagement, and why does it matter?</a></li>
             <li><a href="#interacting-publicly">When participation means interacting publicly with an authority, how do citizens engage?</a></li>
             <li><a href="#main-discoveries">What are the main discoveries and implications for engagement theory?</a></li>
 	  </ul>
@@ -213,6 +214,48 @@ Dimensions of engagement included short-term (single reply burst) vs. long-term 
 
 <p>For climate action literature, this study fills a practical-knowledge gap by providing a year-long, behavioural analysis of citizen-authority communication. It demonstrates that social media, despite its potential, predominantly facilitates short-term, reactive, and location-specific engagement rather than sustained climate dialogue. For volunteering literature, it extends the transient/regular distinction to the context of public service communication, showing that even for highly relevant, risk-related information, sustained engagement is rare. Practically, authorities should not assume that social media builds long-term climate awareness or trust; instead, they should design for rapid, localised corrections and complements, and consider that citizens’ preferred platforms (social media) may not align with the most effective communication channels (e.g., SMS with geolocation).</p>
 
+<hr>
+
+<h2 id="credibility-assessment">How does credibility assessment relate to engagement, and why does it matter?</h2>
+
+<p>Engagement alone does not guarantee quality. Volunteers may be highly engaged, contributing frequently and for long periods, yet still provide low-quality answers due to lack of expertise, task difficulty, or ambiguous instructions. Conversely, a transient volunteer might provide a single but highly accurate answer. Therefore, understanding engagement without understanding credibility is incomplete. In our research, we have investigated how to automatically measure the credibility of participants based on their patterns of agreement with others, and how this credibility information can be used to optimise the operation of human computation systems.</p>
+
+<p>Published in 2018, the <a href="https://doi.org/10.1016/j.future.2018.05.044"><em>Agreement-based credibility assessment and task replication in human computation systems</em></a> study addresses this gap. It proposes four alternative metrics for measuring participant credibility based on inter-rater agreement:</p>
+
+<ul>
+<li><strong>Surface agreement</strong>: the probability that a participant provides the same answer as the majority of other participants who performed the same task.</li>
+<li><strong>Experienced agreement</strong>: based on Cohen’s kappa, it adjusts surface agreement by removing the amount of agreement that could be expected to occur through chance alone.</li>
+<li><strong>Weighted agreement</strong>: a harmonic mean between surface agreement and neutral credibility (0.5), weighted by the number of tasks performed. Participants with few tasks receive a conservative, near-neutral credibility score.</li>
+<li><strong>Reputed agreement</strong>: propagates credibility through the network of agreements. A participant’s credibility increases when they agree with highly credible participants and decreases when they disagree with them.</li>
+</ul>
+
+<p>The study also proposes an <strong>adaptive credibility-based task replication algorithm</strong>. Instead of replicating every task a fixed number of times (e.g., always 10 or 38 replicas), the algorithm stops replication as soon as a group of answers reaches a required credibility threshold. If participants strongly agree on an answer, fewer replicas are needed. If they disagree, the algorithm continues replicating until either the credibility requirement is met or a maximum replication limit is reached.</p>
+
+<p><span class="nota"> <strong>Task replication</strong> is the strategy of having the same task executed multiple times by different participants. It is the standard mechanism for quality assurance in human computation systems, including citizen science platforms such as Zooniverse and Crowdcrafting.</span></p>
+
+<p>The evaluation used data from two real projects: <strong>Sentiment Analysis</strong> (98,979 tasks, 1,958 participants, 569,375 answers) and <strong>Fact Evaluation</strong> (42,624 tasks, 57 participants, 220,000 answers). The results show that:</p>
+
+<ul>
+<li>The adaptive algorithm reduces the number of replicas by up to <strong>78% in the Sentiment Analysis project</strong> (saving over 444,000 replicas) and up to <strong>80% in the Fact Evaluation project</strong>, without compromising accuracy.</li>
+<li><strong>Experienced agreement</strong> and <strong>reputed agreement</strong> consistently outperform surface agreement, appearing exclusively in the Pareto-optimal configurations.</li>
+<li>Task difficulty, measured via Shannon entropy, strongly correlates negatively with both answer credibility and replication reduction. Difficult tasks yield lower credibility and require more replicas.</li>
+<li>The algorithm allows requesters to balance competing requirements through three parameters: <strong>required credibility</strong> (desired confidence in the final answer), <strong>urgency</strong> (parallelism vs. sequential replication), and <strong>maximum replicas</strong> (cost or resource limit).</li>
+</ul>
+
+<p>How does this connect to engagement? Credibility assessment and engagement measurement are two complementary dimensions of participant behaviour. Engagement tells us <em>how much</em> and <em>how persistently</em> people participate. Credibility tells us <em>how reliably</em> they participate when they do. A volunteer with high engagement but low credibility (e.g., a hardworking profile who consistently disagrees with the majority) may indicate a misunderstanding of the task or a deliberate cheater. Conversely, a volunteer with low engagement but high credibility (e.g., a persistent profile who contributes rarely but accurately) is a valuable asset that should be retained. The five engagement profiles identified in our 2014 study (hardworking, spasmodic, persistent, lasting, moderate) can be further enriched by overlaying credibility scores per difficulty level, enabling personalised task routing, feedback, and retention strategies.</p>
+
+<p><span class="nota"> <strong>Shannon entropy</strong>, used here to measure task difficulty, quantifies the divergence among answers to the same task. Higher entropy means more disagreement, indicating either a genuinely difficult task or a poorly designed one. This metric was originally introduced in information theory and has been widely applied in crowdsourcing quality assurance.</span></p>
+
+<p>For citizen science practice, the implications are clear. Platform operators should:</p>
+<ul>
+<li>Maintain per-participant credibility scores disaggregated by task difficulty level, since a participant may be credible in easy tasks but not in difficult ones.</li>
+<li>Use experienced or reputed agreement instead of raw majority agreement, as these metrics correct for chance and propagate trust through the participant network.</li>
+<li>Combine credibility-based replication with engagement-aware scheduling: route tasks to engaged but low-credibility participants only for low-stakes or training tasks, and reserve difficult or high-stakes tasks for participants with both high engagement and high credibility.</li>
+<li>Provide contextual feedback to participants based on their credibility metrics. For example, a participant with low experienced agreement can be informed that their answers show random bias, and offered targeted training tasks.</li>
+</ul>
+
+<p>In summary, credibility assessment and engagement measurement are not separate concerns. They are two lenses on the same phenomenon: how people contribute to technology-mediated systems. Measuring both allows us to design systems that are not only effective (accurate answers) but also efficient (fewer wasted replicas) and respectful of participants’ time — a critical factor for sustaining long-term engagement in citizen science and other non-financially motivated contexts.</p>
+	
 <hr>
 
 <h2 id="main-discoveries">What are the main discoveries and implications for engagement theory?</h2>
