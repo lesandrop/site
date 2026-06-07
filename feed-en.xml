@@ -13,6 +13,15 @@
   <link>https://lesandrop.github.io/site/opinion/academizando-global-essays.html</link>
   </image>
   <atom:link href="https://lesandrop.github.io/site/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+  <title>GitHub Classroom retirement: a former GitHub Campus Advisor's perspective</title>
+  <link>https://lesandrop.github.io/site/opinion/github-classroom-retired.html</link>
+  <guid>https://lesandrop.github.io/site/opinion/github-classroom-retired.html</guid>
+  <pubDate>Sun, 07 Jun 2026 10:00:00 GMT</pubDate>
+  <dc:creator>Lesandro Ponciano</dc:creator>
+  <category>Blog Academizando</category>
+   <description>Analysis of the GitHub Classroom deprecation announcement, impacts on educators, and reflections on the future of free tools within the GitHub ecosystem. The author, a former GitHub Campus Advisor, shares his experience with the tool between 2019 and 2023 and discusses how AI-driven changes may be reshaping programming education.</description>
+</item>
   <item>
 	  <title>Human Engagement Through Technology Way Beyond Counting Views, Clicks and Likes</title>
 	  <link>https://lesandrop.github.io/site/papers/engagement-beyond-clicks-and-likes.html</link>
