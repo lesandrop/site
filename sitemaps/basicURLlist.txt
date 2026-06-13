@@ -234,6 +234,8 @@ https://lesandrop.github.io/site/teaching/PS/PS-17-Arquiteturas%20de%20SD.pdf
 https://lesandrop.github.io/site/reading/index.html
 https://lesandrop.github.io/site/reading/papers-reading-recommendation.html
 https://lesandrop.github.io/site/contact/index.html
+https://lesandrop.github.io/site/about/index.html
 https://lesandrop.github.io/site/about/lesandro-ponciano-en.html
+https://lesandrop.github.io/site/about/lesandro-ponciano-pt.html
 https://lesandrop.github.io/site/img/index.html
 https://lesandrop.github.io/site/technical-work/index.html
