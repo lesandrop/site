@@ -115,8 +115,8 @@ function buildRFC822Date(dateString) {
   const month = monthStrings[date.getMonth()];
   const year = date.getFullYear();
 
-  //10 de Janeiro de 2025
-  return `${dayNumber} de ${month} de ${year} `;
+  //10 June 2025
+  return `${dayNumber} ${month} ${year} `;
 }
 
 fetch(RSS_URL)
