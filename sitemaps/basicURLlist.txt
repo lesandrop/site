@@ -127,6 +127,8 @@ https://lesandrop.github.io/site/opinion/github-classroom-retired.html
 https://lesandrop.github.io/site/opinion/github-classroom-descontinuado.html
 https://lesandrop.github.io/site/opinion/tempos-ruidosos-1-trends.html
 https://lesandrop.github.io/site/opinion/noisy-times-1-trends.html
+https://lesandrop.github.io/site/opinion/tempos-ruidosos-2-fragmentacao-da-vida.html
+https://lesandrop.github.io/site/opinion/noisy-times-2-fragmentation-of-life.html
 https://lesandrop.github.io/site/teaching/IPI/index.html
 https://lesandrop.github.io/site/teaching/IHC/index.html
 https://lesandrop.github.io/site/teaching/PS/index.html
